@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="57px" viewBox="0 0 66 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Atom Nine Copy</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Atoms" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Atoms-II" transform="translate(-173.000000, -684.000000)" fill-rule="nonzero">
+            <g id="Atom-Nine-Copy" transform="translate(173.000000, 684.000000)">
+                <circle id="Oval" fill="#F4C90C" cx="28.8886364" cy="29.0181818" r="27.5284091"></circle>
+                <circle id="Oval" fill="#E23D8F" cx="28.8886364" cy="29.0181818" r="13.7965909"></circle>
+                <circle id="Oval" fill="#F6871F" cx="56.4818182" cy="29.0181818" r="9.19772727"></circle>
+                <circle id="Oval" fill="#5BCBF2" cx="9.52159091" cy="9.39204545" r="9.19772727"></circle>
+                <path d="M4.21022727,16.8409091 C7.77272727,19.3670455 12.825,19.0431818 15.9988636,15.8693182 C19.1727273,12.6954545 19.5613636,7.70795455 17.0352273,4.14545455 C11.4647727,6.80113636 6.93068182,11.3352273 4.21022727,16.8409091 Z" id="Path" fill="#57A00C"></path>
+            </g>
+        </g>
+    </g>
+</svg>

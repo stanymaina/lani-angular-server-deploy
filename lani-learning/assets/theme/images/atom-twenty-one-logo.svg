@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="59px" height="57px" viewBox="0 0 59 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Atoms/Atom Twenty One</title>
+    <desc>Created with Sketch.</desc>
+    <g id="UXDI-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02.1.1.-UXDI-Professional-Diploma-Diploma-Details" transform="translate(-691.000000, -3558.000000)">
+            <g id="Atoms/Atom-Twenty-One" transform="translate(691.000000, 3558.000000)">
+                <g id="Atom-Twenty-One">
+                    <path d="M53.7807692,4.74059406 C47.5403846,-1.46732673 37.3855769,-1.46732673 31.1451923,4.74059406 C29.7836538,6.0950495 28.7625,7.61881188 27.9682692,9.25544554 C38.7471154,11.0049505 47.1432692,19.9217822 48.1076923,30.9267327 C50.15,30.1366337 52.1355769,28.9514851 53.7807692,27.3148515 C60.0211538,21.050495 60.0211538,10.9485149 53.7807692,4.74059406 Z" id="Path" fill="#5FCAE9" fill-rule="nonzero"></path>
+                    <ellipse id="Oval" fill="#E23D8F" fill-rule="nonzero" cx="24.1105769" cy="32.9019802" rx="24.1105769" ry="23.9851485"></ellipse>
+                    <g id="Layer_2" transform="translate(26.096154, 9.029703)" fill="#543083" fill-rule="nonzero">
+                        <path d="M22.0115385,21.8405941 C21.1038462,10.8356436 12.7076923,1.91881188 1.87211538,0.169306931 C-0.907692308,6.03861386 0.170192308,13.3188119 5.04903846,18.1722772 C9.64423077,22.8 16.3384615,23.9851485 22.0115385,21.8405941 Z" id="Path"></path>
+                    </g>
+                    <ellipse id="Oval" fill="#F4C90C" fill-rule="nonzero" cx="42.4913462" cy="16.0277228" rx="8.1125" ry="8.07029703"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

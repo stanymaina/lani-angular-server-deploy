@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="57px" height="57px" viewBox="0 0 57 57" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Atoms/Atom Five</title>
+    <desc>Created with Sketch.</desc>
+    <g id="UXDI-Website" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02.1.1.-UXDI-Professional-Diploma-Diploma-Details" transform="translate(-331.000000, -3558.000000)">
+            <g id="Group:-Learn-with-us" transform="translate(0.000000, 3298.000000)">
+                <g id="Atoms/Atom-Five" transform="translate(331.000000, 260.000000)">
+                    <g id="Atom-Five">
+                        <path d="M52.6743333,16.6566667 C55.0113333,15.0353333 56.544,12.3373333 56.544,9.27833333 C56.544,4.31933333 52.5223333,0.304 47.5696667,0.304 C44.5106667,0.304 41.8126667,1.83666667 40.1913333,4.17366667 C45.619,6.80833333 50.0333333,11.2226667 52.6743333,16.6566667 Z" id="Path" fill="#5FCAE9" fill-rule="nonzero"></path>
+                        <circle id="Oval" fill="#283895" fill-rule="nonzero" cx="28.4366667" cy="28.405" r="26.9293333"></circle>
+                        <circle id="Oval" fill="#F4C90C" fill-rule="nonzero" cx="28.4366667" cy="28.405" r="8.97433333"></circle>
+                        <circle id="Oval" fill="#5FCAE9" fill-rule="nonzero" cx="9.405" cy="47.4366667" r="8.97433333"></circle>
+                        <path d="M52.6743333,16.6566667 C50.0333333,11.2226667 45.619,6.80833333 40.1913333,4.17366667 C39.1843333,5.624 38.589,7.38466667 38.589,9.28466667 C38.589,14.2436667 42.6106667,18.259 47.5633333,18.259 C49.4633333,18.259 51.224,17.6636667 52.6743333,16.6566667 Z" id="Path" fill="#1DADED" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
