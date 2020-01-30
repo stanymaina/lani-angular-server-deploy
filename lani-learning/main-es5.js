@@ -51,7 +51,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<span class=\"bg-background-fade bg-black\">\n    <!-- start hero section -->\n    <section class=\"wow fadeIn no-padding cover-background color-code slide-one\" data-background=\"#3498db\" data-color=\"1\"\n        style=\"background-image: url('assets/theme/images/back ground about.png');\">\n        <div class=\"container full-screen position-relative inside\">\n            <div class=\"col-md-12 slider-typography text-left xs-text-center\">\n                <div class=\"slider-text-middle-main\">\n                    <div class=\"slider-text-middle\">\n                        <h1\n                            class=\"alt-font text-white font-weight-700 letter-spacing-minus-1 line-height-80 width-55 margin-35px-bottom md-width-65 sm-width-75 md-line-height-auto xs-width-100 xs-margin-15px-bottom\">\n                        </h1>\n                        <p\n                            class=\"text-white text-large margin-four-bottom width-40 md-width-50 sm-width-60 xs-width-100 xs-margin-15px-bottom\">\n                        </p>\n                        <!-- <div class=\"btn-dual\"><a href=\"admissions.htm\" target=\"_blank\"\n                                class=\"btn btn-transparent-white btn-rounded btn-small margin-20px-lr xs-margin-5px-top\">Apply\n                                Today</a></div> -->\n                    </div>\n                </div>\n            </div>\n        </div>\n    </section>\n    <!-- end hero section -->\n    <!-- start section -->\n    <section class=\"wow fadeIn color-code md-no-background-img slide slide-two\" data-background=\"#27ae60\" data-color=\"2\"\n        style=\"background:url('assets/theme/images/back-image2.png') right top no-repeat\">\n        <div id=\"karibu\" class=\"container inside\">\n\n            <div class=\"container\">\n                <div class=\"row equalize md-equalize-auto\">\n                    <div class=\"col-lg-5 col-md-6 col-sm-12 col-xs-12 display-table sm-margin-five-bottom sm-text-center xs-no-margin-top wow fadeIn\"\n                        data-wow-delay=\"0.4s\">\n                        <div\n                            class=\"display-table-cell vertical-align-middle md-padding-15px-lr xs-text-center xs-padding-five-lr xs-padding-ten-bottom width-100\">\n                            <span class=\"alt-font text-white display-block margin-10px-bottom\">About Lani\n                                Learning</span>\n                            <h6 class=\"text-white alt-font width-90 sm-width-100\">Our Story</h6>\n                            <p class=\"width-85 md-width-90 sm-width-100 text-white\">\n                                We are a technology training and research company founded with an aim of tapping into\n                                the technology industry to individuals and teams in emerging technology. At Lani, we\n                                take the time to study and identify your individual and business needs and offer advice\n                                on the right learning path to suit you. We are dedicated to our students and offer a\n                                unique sense of friendship and family throughout their journey, anticipating their\n                                changing needs every step of the way.\n                            </p>\n                            <!-- <a href=\"admissions.htm\" class=\"btn btn-transparent-white btn-small border-radius-4\"><i\n                                    class=\"fas fa-play-circle icon-very-small margin-5px-right no-margin-left\"\n                                    aria-hidden=\"true\"></i>Apply Today</a> -->\n                        </div>\n                    </div>\n                    <div\n                        class=\"col-lg-3 col-lg-offset-1 col-md-3 col-sm-12 col-xs-12 text-center display-table sm-margin-five-bottom wow fadeIn\">\n                        <div class=\"display-table-cell vertical-align-middle\">\n                            <img src=\"assets/theme/images/future-of-edu.png\" alt=\"\" class=\"width-100\">\n                        </div>\n                    </div>\n                    <div class=\"col-lg-3 col-md-3 col-sm-12 col-xs-12 text-left display-table wow fadeIn\"\n                        data-wow-delay=\"0.2s\">\n                        <div class=\"display-table-cell vertical-align-middle\">\n                            <i class=\"fas fa-quote-left text-white icon-medium margin-15px-bottom\"></i>\n                            <h5 class=\"text-extra-dark-gray alt-font font-weight-600\">It’s not faith in technology. It’s\n                                faith in people</h5>\n                            <!-- <p class=\"width-90 text-extra-dark-gray sm-width-100\">It’s not  faith in technology. It’s faith in people </p> -->\n\n                            <span\n                                class=\"text-white text-large display-block margin-30px-top alt-font font-weight-600\">Steve\n                                Jobs</span>\n                            <!-- <span class=\"display-block text-extra-dark-gray\">Founder & CEO</span> -->\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </section>\n    <!-- end section -->\n\n    <!-- start  section -->\n    <section\n        class=\"wow fadeIn animated color-code no-padding-top md-no-background-img xs-padding-50px-tb slide slide-three\"\n        data-background=\"#e74c3c\" data-color=\"4\"\n        style=\"background: url('assets/theme/images/back-image4.png') left bottom no-repeat\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-8 col-md-8 col-sm-10 col-xs-12 center-col text-center\">\n                    <h5 class=\"text-white alt-font font-weight-600\">How we work</h5>\n                </div>\n                <br><br>\n            </div>\n            <div class=\"row equalize xs-equalize-auto\">\n                <!-- start blog post item -->\n                <!-- <div class=\"col-md-4 col-sm-4 col-xs-12 xs-margin-15px-bottom wow fadeIn\">\n                    <div\n                        class=\"blog-post blog-post-style6 border-all border-white-light padding-fourteen-all md-padding-ten-all xs-padding-30px-all inner-match-height\">\n                        <div class=\"post-details\">\n                            <span\n                                class=\"text-large alt-font  text-uppercase margin-four-bottom sm-margin-two-bottom  display-block  inner-match-height\"><a\n                                    class=\"text-white\">Admissions</a></span>\n\n                            <div class=\"author padding-10px-top position-relative\">\n                                <span\n                                    class=\"text-white  display-block margin-four-bottom sm-margin-two-bottom opacity7\"><a\n                                        class=\"text-white\">After online registration, Our admissions team will contact\n                                        you to schedule a personal interview so that we can make sure we can help you\n                                        meet your goals. After the personal interview, you will be required to pay a\n                                        deposit then you can start.\n\n                                    </a></span>\n\n                            </div>\n                        </div>\n                    </div>\n                </div> -->\n                <!-- start blog post item -->\n                <!-- end blog post item -->\n                <div class=\"col-md-4 col-sm-4 col-xs-12 xs-margin-15px-bottom fadeIn\" data-wow-delay=\"0.2s\">\n                    <!-- fresh news item -->\n                    <div\n                        class=\"blog-post blog-post-style6 border-all border-white-light padding-fourteen-all md-padding-ten-all xs-padding-30px-all inner-match-height\">\n                        <div class=\"post-details\">\n                            <span\n                                class=\"text-large alt-font  text-uppercase margin-four-bottom sm-margin-two-bottom  display-block  inner-match-height\"><a\n                                    class=\"text-white\">Method of Teaching</a></span>\n\n                            <div class=\"author padding-10px-top position-relative\">\n\n                                <span\n                                    class=\"text-white  display-block margin-four-bottom sm-margin-two-bottom opacity7\"><a\n                                        class=\"text-white\">We use an industry Based Learning approach in which we\n                                        collaborate with the industry. This ensures that students not only get a quality\n                                        technical education but also work on real life projects and are Technically\n                                        skilled to solve real life problems in their area of study.\n\n\n                                    </a></span>\n\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <!-- start blog post item -->\n                <!-- end blog post item -->\n                <div class=\"col-md-4 col-sm-4 col-xs-12 fadeIn\" data-wow-delay=\"0.4s\">\n                    <div\n                        class=\"blog-post blog-post-style6 border-all border-white-light padding-fourteen-all md-padding-ten-all xs-padding-30px-all inner-match-height\">\n                        <div class=\"post-details\">\n                            <span\n                                class=\"text-large alt-font  text-uppercase margin-four-bottom sm-margin-two-bottom  display-block  inner-match-height\"><a\n                                    class=\"text-white\">Classes</a></span>\n\n                            <div class=\"author padding-10px-top position-relative\">\n                                <span\n                                    class=\"text-white  display-block margin-four-bottom sm-margin-two-bottom opacity7\"><a\n                                        class=\"text-white\">We offer a flexible schedule designed to fit our student’s\n                                        busy schedules. Our courses are taught as full-time, evening and Saturday\n                                        classes, and within a time frame of 2-12 weeks based on specific course needs.\n                                    </a></span>\n\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <!-- start blog post item -->\n                <!-- end blog post item -->\n                <div class=\"col-md-4 col-sm-4 col-xs-12 fadeIn\" data-wow-delay=\"0.4s\">\n                    <div\n                        class=\"blog-post blog-post-style6 border-all border-white-light padding-fourteen-all md-padding-ten-all xs-padding-30px-all inner-match-height\">\n                    </div>\n                </div>\n                <!-- start blog post item -->\n\n\n            </div>\n\n            <br>\n            <div class=\"row equalize xs-equalize-auto\">\n                <!-- start blog post item -->\n                <!-- <div class=\"col-md-4 col-sm-4 col-xs-12 xs-margin-15px-bottom wow fadeIn\">\n                    <div\n                        class=\"blog-post blog-post-style6 border-all border-white-light padding-fourteen-all md-padding-ten-all xs-padding-30px-all inner-match-height\">\n                        <div class=\"post-details\">\n                            <span\n                                class=\"text-large alt-font  text-uppercase margin-four-bottom sm-margin-two-bottom  display-block  inner-match-height\"><a\n                                    class=\"text-white\">How do we measure success? </a></span>\n\n                            <div class=\"author padding-10px-top position-relative\">\n                                <span\n                                    class=\"text-white  display-block margin-four-bottom sm-margin-two-bottom opacity7\"><a\n                                        class=\"text-white\">How do we evaluate success? We parameterize behavior\n                                        psychology. we are looking at the dawn of a new era & learning science where\n                                        behavioral interventions that actually work could move up education outcomes.\n                                        Instead of Examinations, we introduced weekly project presentation & evaluation\n                                        known as Hustlers Friday\n\n                                    </a></span>\n\n                            </div>\n                        </div>\n                    </div>\n                </div> -->\n                <!-- start blog post item -->\n                <!-- end blog post item -->\n                <div class=\"col-md-4 col-sm-4 col-xs-12 xs-margin-15px-bottom fadeIn\" data-wow-delay=\"0.2s\">\n                    <!-- fresh news item -->\n                    <div\n                        class=\"blog-post blog-post-style6 border-all border-white-light padding-fourteen-all md-padding-ten-all xs-padding-30px-all inner-match-height\">\n                        <div class=\"post-details\">\n                            <span\n                                class=\"text-large alt-font  text-uppercase margin-four-bottom sm-margin-two-bottom  display-block  inner-match-height\"><a\n                                    class=\"text-white\">Our Trainers</a></span>\n\n                            <div class=\"author padding-10px-top position-relative\">\n\n                                <span\n                                    class=\"text-white  display-block margin-four-bottom sm-margin-two-bottom opacity7\"><a\n                                        class=\"text-white\">Lani boasts a pool of young enthusiastic trainers who are\n                                        constantly up-to-date, enlightened, and extremely well informed about the latest\n                                        developments and research in all the fields of technology and look to impart\n                                        this knowledge in a customized fashion to its clients.\n                                    </a></span>\n\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <!-- start blog post item -->\n                <!-- end blog post item -->\n                <div class=\"col-md-4 col-sm-4 col-xs-12 fadeIn\" data-wow-delay=\"0.4s\">\n                    <div\n                        class=\"blog-post blog-post-style6 border-all border-white-light padding-fourteen-all md-padding-ten-all xs-padding-30px-all inner-match-height\">\n                        <div class=\"post-details\">\n                            <span\n                                class=\"text-large alt-font  text-uppercase margin-four-bottom sm-margin-two-bottom  display-block  inner-match-height\"><a\n                                    class=\"text-white\">Evaluation and Certification</a></span>\n\n                            <div class=\"author padding-10px-top position-relative\">\n                                <span\n                                    class=\"text-white  display-block margin-four-bottom sm-margin-two-bottom opacity7\"><a\n                                        class=\"text-white\">Assessment is skill based with an evaluation done on both the\n                                        student’s soft skills and technical skills. There is no final sitting exam as\n                                        assessment is done throughout the course as the student is guided by the\n                                        trainer. Certification is awarded at the end of the course.\n                                    </a></span>\n\n                            </div>\n                        </div>\n                    </div>\n                </div>\n                <!-- start blog post item -->\n                <!-- end blog post item -->\n                <div class=\"col-md-4 col-sm-4 col-xs-12 fadeIn\" data-wow-delay=\"0.4s\">\n                    <div\n                        class=\"blog-post blog-post-style6 border-all border-white-light padding-fourteen-all md-padding-ten-all xs-padding-30px-all inner-match-height\">\n                    </div>\n                </div>\n                <!-- start blog post item -->\n\n\n            </div>\n        </div>\n    </section>\n    <!-- end blog section -->\n\n\n    <!-- start contact section -->\n    <section class=\"wow fadeIn animated color-code md-no-background-img slide slide-four\" data-background=\"#e67e22\"\n        data-color=\"6\" style=\"background: url('assets/theme/images/back-image6.png') right top no-repeat\">\n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-lg-8 col-md-8 col-sm-10 col-xs-12 center-col text-center\">\n                    <h5\n                        class=\"alt-font text-uppercase font-weight-700 text-white width-80 center-col margin-35px-bottom md-width-100 wow fadeInUp\">\n                        JOIN US </h5>\n                    <!-- IN developing the next breed of Innovators & Entrepreneurs</h5>\n                    <p class=\"text-white\">If you know how to read, you can learn how to code!</p> -->\n                    <a [routerLink]=\"['/admissions']\" target=\"_blank\"\n                        class=\"btn btn-medium btn-rounded btn-transparent-white wow fadeInUp\"\n                        data-wow-delay=\"0.2s\">Apply Today</a>\n                </div>\n            </div>\n        </div>\n\n    </section>\n    <!-- end contact section -->\n</span>";
+    __webpack_exports__["default"] = "<!--================Home Banner Area =================-->\n<section class=\"banner_area\">\n    <div class=\"banner_inner d-flex align-items-center\">\n        <div class=\"overlay bg-parallax\" data-stellar-ratio=\"0.9\" data-stellar-vertical-offset=\"0\" data-background=\"\">\n        </div>\n        <div class=\"container\">\n            <div class=\"banner_content text-center\">\n                <h2>About Us</h2>\n                <div class=\"page_link\">\n                    <a [routerLink]=\"['/home']\">Home</a>\n                    <a [routerLink]=\"['/about']\">About Us</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n<!--================End Home Banner Area =================-->\n\n<!--================About Area =================-->\n<section class=\"about_area p_120\">\n    <div class=\"container\">\n        <div class=\"main_title\">\n            <!-- <h2>A walkthrough of Lani Learning</h2> -->\n            <blockquote class=\"blockquote text-center\">\n                <h3 class=\"mb-0\">It’s not faith in technology. It’s faith in people.</h3>\n                <footer class=\"blockquote-footer\">Steve Jobs<cite title=\"Source Title\">.</cite></footer>\n            </blockquote>\n        </div>\n        <div class=\"row about_inner\">\n            <div class=\"col-lg-6\">\n                <div class=\"accordion\" id=\"accordionExample\">\n                    <div class=\"card\">\n                        <div class=\"card-header\" id=\"headingOne\">\n                            <button class=\"btn btn-link\" type=\"button\" data-toggle=\"collapse\" data-target=\"#collapseOne\"\n                                aria-expanded=\"true\" aria-controls=\"collapseOne\">\n                                Why Lani Learning?\n                                <i class=\"lnr lnr-chevron-down\"></i>\n                                <i class=\"lnr lnr-chevron-up\"></i>\n                            </button>\n                        </div>\n\n                        <div id=\"collapseOne\" class=\"collapse show\" aria-labelledby=\"headingOne\"\n                            data-parent=\"#accordionExample\">\n                            <div class=\"card-body\">\n                                The IT industry is a progressively evolving sector. Companies have to constantly\n                                innovate to ensure\n                                their technologies are current and up to date. This requires continuous investment in\n                                trainings\n                                locally and most often abroad, which can be extremely expensive. The inadequacy of\n                                skilled personnel\n                                can also be attributed to the slow uptake of the ever-evolving technology by academic\n                                syllabi. The\n                                drawback of this is that most IT practitioners lack relevant skills required by Industry\n                                to innovate\n                                and solve complex local problems (challenges).\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card\">\n                        <div class=\"card-header\" id=\"headingTwo\">\n                            <button class=\"btn btn-link collapsed\" type=\"button\" data-toggle=\"collapse\"\n                                data-target=\"#collapseTwo\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Industry\n                                Based Learning Approach\n                                <i class=\"lnr lnr-chevron-down\"></i>\n                                <i class=\"lnr lnr-chevron-up\"></i>\n                            </button>\n                        </div>\n                        <div id=\"collapseTwo\" class=\"collapse\" aria-labelledby=\"headingTwo\"\n                            data-parent=\"#accordionExample\">\n                            <div class=\"card-body\">We use an industry Based Learning approach in which we collaborate\n                                with the industry. This\n                                ensures that students not only get a quality technical education but also work on real\n                                life\n                                projects and are Technically skilled to solve real life problems in their area of study.\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card\">\n                        <div class=\"card-header\" id=\"headingThree\">\n                            <button class=\"btn btn-link collapsed\" type=\"button\" data-toggle=\"collapse\"\n                                data-target=\"#collapseThree\" aria-expanded=\"false\" aria-controls=\"collapseThree\">\n                                Quality Technical Education\n                                <i class=\"lnr lnr-chevron-down\"></i>\n                                <i class=\"lnr lnr-chevron-up\"></i>\n                            </button>\n                        </div>\n                        <div id=\"collapseThree\" class=\"collapse\" aria-labelledby=\"headingThree\"\n                            data-parent=\"#accordionExample\">\n                            <div class=\"card-body\">We are committed to offering the best quality education backed by the\n                                best trainers, a well\n                                researched curriculum to fit the everyday needs taught using the best tried and tested\n                                teaching methods.\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"card\">\n                        <div class=\"card-header\" id=\"headingfour\">\n                            <button class=\"btn btn-link collapsed\" type=\"button\" data-toggle=\"collapse\"\n                                data-target=\"#collapsefour\" aria-expanded=\"false\" aria-controls=\"collapsefour\">\n                                Impact Led Learning\n                                <i class=\"lnr lnr-chevron-down\"></i>\n                                <i class=\"lnr lnr-chevron-up\"></i>\n                            </button>\n                        </div>\n                        <div id=\"collapsefour\" class=\"collapse\" aria-labelledby=\"headingfour\"\n                            data-parent=\"#accordionExample\">\n                            <div class=\"card-body\">\n                            Our learning methods are tailored to encourage our students to develop an application and\n                            practise culture. We support research and development by offering mentorship to our students\n                            and an open door policy to our trainers and other resources that students can take advantage\n                            of.\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-lg-6\">\n                <div class=\"video_area\" id=\"video\">\n                    <img class=\"img-fluid\" src=\"assets/lani/11/about-us.png\" alt=\"\">\n                    <a class=\"popup-youtube\" href=\"https://www.youtube.com/watch?v=VufDd-QL1c0\">\n                        <img src=\"assets/learnit/img/icon/video-icon-1.png\" alt=\"\">\n                    </a>\n                </div>\n            </div>\n        </div>\n        <div class=\"about_details\">\n            <p>\n                We are a technology training and research company founded with an aim of tapping into\n                the technology industry to individuals and teams in emerging technology. At Lani, we\n                take the time to study and identify your individual and business needs and offer advice\n                on the right learning path to suit you. We are dedicated to our students and offer a\n                unique sense of friendship and family throughout their journey, anticipating their\n                changing needs every step of the way.</p>\n        </div>\n    </div>\n</section>\n<!--================End About Area =================-->\n\n<!--================Team Area =================-->\n<!-- <section class=\"team_area p_120\">\n    <div class=\"container\">\n        <div class=\"main_title\">\n            <h2>Meet Our Faculty</h2>\n            <p>There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope.\n                It’s exciting to think about setting up your own viewing station.</p>\n        </div>\n        <div class=\"row team_inner\">\n            <div class=\"col-lg-3 col-sm-6\">\n                <div class=\"team_item\">\n                    <div class=\"team_img\">\n                        <img class=\"rounded-circle\" src=\"assets/learnit/img/team/team-1.jpg\" alt=\"\">\n                        <div class=\"hover\">\n                            <a href=\"#\"><i class=\"fa fa-facebook\"></i></a>\n                            <a href=\"#\"><i class=\"fa fa-twitter\"></i></a>\n                            <a href=\"#\"><i class=\"fa fa-linkedin\"></i></a>\n                        </div>\n                    </div>\n                    <div class=\"team_name\">\n                        <h4>Ethel Davis</h4>\n                        <p>Managing Director (Sales)</p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-lg-3 col-sm-6\">\n                <div class=\"team_item\">\n                    <div class=\"team_img\">\n                        <img class=\"rounded-circle\" src=\"assets/learnit/img/team/team-2.jpg\" alt=\"\">\n                        <div class=\"hover\">\n                            <a href=\"#\"><i class=\"fa fa-facebook\"></i></a>\n                            <a href=\"#\"><i class=\"fa fa-twitter\"></i></a>\n                            <a href=\"#\"><i class=\"fa fa-linkedin\"></i></a>\n                        </div>\n                    </div>\n                    <div class=\"team_name\">\n                        <h4>Ethel Davis</h4>\n                        <p>Managing Director (Sales)</p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-lg-3 col-sm-6\">\n                <div class=\"team_item\">\n                    <div class=\"team_img\">\n                        <img class=\"rounded-circle\" src=\"assets/learnit/img/team/team-3.jpg\" alt=\"\">\n                        <div class=\"hover\">\n                            <a href=\"#\"><i class=\"fa fa-facebook\"></i></a>\n                            <a href=\"#\"><i class=\"fa fa-twitter\"></i></a>\n                            <a href=\"#\"><i class=\"fa fa-linkedin\"></i></a>\n                        </div>\n                    </div>\n                    <div class=\"team_name\">\n                        <h4>Ethel Davis</h4>\n                        <p>Managing Director (Sales)</p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-lg-3 col-sm-6\">\n                <div class=\"team_item\">\n                    <div class=\"team_img\">\n                        <img class=\"rounded-circle\" src=\"assets/learnit/img/team/team-4.jpg\" alt=\"\">\n                        <div class=\"hover\">\n                            <a href=\"#\"><i class=\"fa fa-facebook\"></i></a>\n                            <a href=\"#\"><i class=\"fa fa-twitter\"></i></a>\n                            <a href=\"#\"><i class=\"fa fa-linkedin\"></i></a>\n                        </div>\n                    </div>\n                    <div class=\"team_name\">\n                        <h4>Ethel Davis</h4>\n                        <p>Managing Director (Sales)</p>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section> -->\n<!--================End Team Area =================-->\n\n<!--================Testimonials Area =================-->\n<!-- <section class=\"testimonials_area p_120\">\n    <div class=\"container\">\n        <div class=\"testi_slider owl-carousel\">\n            <div class=\"itemsection .bg-gold {\n                background-color: gold !important;\n              }\n              section .bg-black {\n                background-color: black !important;\n              }\n              section .bg-white {\n                background-color: white !important;\n              }\n              section .hg{\n                background-color: gray !important;\n              }\n              \n              .slide .inside {\n                display: table;\n                height: 100%;\n                width: 100%;\n                padding: 0 3em;\n              }\n              \">\n                <div class=\"testi_item\">\n                    <img src=\"assets/learnit/img/testimonials/testi-3.png\" alt=\"\">\n                    <h4>Fannie Rowe</h4>\n                    <ul class=\"list\">\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                    </ul>\n                    <p>Accessories Here you can find the best computer accessory for your laptop, monitor, printer,\n                        scanner, speaker. Here you can find the best computer accessory for your laptop, monitor,\n                        printer, scanner, speaker.</p>\n                </div>\n            </div>\n            <div class=\"item\">\n                <div class=\"testi_item\">\n                    <img src=\"assets/learnit/img/testimonials/testi-3.png\" alt=\"\">\n                    <h4>Fannie Rowe</h4>\n                    <ul class=\"list\">\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                    </ul>\n                    <p>Accessories Here you can find the best computer accessory for your laptop, monitor, printer,\n                        scanner, speaker. Here you can find the best computer accessory for your laptop, monitor,\n                        printer, scanner, speaker.</p>\n                </div>\n            </div>\n            <div class=\"item\">\n                <div class=\"testi_item\">\n                    <img src=\"assets/learnit/img/testimonials/testi-3.png\" alt=\"\">\n                    <h4>Fannie Rowe</h4>\n                    <ul class=\"list\">\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                        <li><a href=\"#\"><i class=\"fa fa-star\"></i></a></li>\n                    </ul>\n                    <p>Accessories Here you can find the best computer accessory for your laptop, monitor, printer,\n                        scanner, speaker. Here you can find the best computer accessory for your laptop, monitor,\n                        printer, scanner, speaker.</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section> -->\n<!--================End Testimonials Area =================-->";
     /***/
   },
 
@@ -111,7 +111,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<div class=\"cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right\" id=\"cbp-spmenu-s2\">\n    <button class=\"close-button-menu side-menu-close\" id=\"close-pushmenu\"></button>\n    <div class=\"display-table padding-twelve-all height-100 width-100 text-center\">\n        <div class=\"display-table-cell vertical-align-top padding-25px-top position-relative\">\n            <div class=\"row\">\n                <div class=\"col-lg-12 margin-25px-bottom\">\n                    <h5 class=\"alt-font text-extra-dark-gray\"><strong>Offer!</strong></h5>\n\n                </div>\n                <div class=\"col-lg-12 margin-35px-bottom\">\n                    <img src=\"assets/theme/images/exp.png\" alt=\"\" />\n                </div>\n                <div class=\"col-lg-12\">\n                    <h5 class=\"alt-font text-extra-dark-gray\"><span\n                            class=\"display-block font-weight-300 text-dark-gray\">Join as a group of 3</span><strong>and\n                            the 3rd one gets to learn for free!.</strong></h5>\n\n                </div>\n                <div class=\"col-lg-12\">\n                    <a href=\"admissions.htm\" class=\"btn btn-deep-gold btn-small text-extra-small border-radius-4\"><i\n                            class=\"fas fa-heart icon-very-small margin-5px-right no-margin-left\"\n                            aria-hidden=\"true\"></i>Apply Now</a>\n                </div>\n                <div class=\"col-md-12 margin-100px-top text-center\">\n                    <div class=\"icon-social-medium margin-three-bottom\">\n                        <a href=\"https://www.facebook.com/\" target=\"_blank\"\n                            class=\"text-extra-dark-gray text-deep-gold-hover margin-one-lr\"><i class=\"fab fa-facebook-f\"\n                                aria-hidden=\"true\"></i></a>\n                        <a href=\"https://twitter.com/\" target=\"_blank\"\n                            class=\"text-extra-dark-gray text-deep-gold-hover margin-one-lr\"><i class=\"fab fa-twitter\"\n                                aria-hidden=\"true\"></i></a>\n                        <a href=\"https://www.instagram.com/lanilearning/\" target=\"_blank\"\n                            class=\"text-extra-dark-gray text-deep-gold-hover margin-one-lr\"><i class=\"fab fa-instagram\"\n                                aria-hidden=\"true\"></i></a>\n                        <a href=\"https://linkedin.com/company/\" target=\"_blank\"\n                            class=\"text-extra-dark-gray text-deep-gold-hover margin-one-lr\"><i\n                                class=\"fab fa-linkedin-in\" aria-hidden=\"true\"></i></a>\n\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div>\n<!-- end navigation -->\n\n\n\n<!-- start contact section -->\n<section class=\"no-padding bg-extra-dark-gray\">\n    <div class=\"container-fluid\">\n        <div class=\"row equalize sm-equalize-auto\">\n            <div class=\"col-md-6 col-sm-12 no-padding cover-background sm-height-450px xs-height-350px wow fadeInLeft\"\n                style=\"background: url(images/ubunew.jpg)\"></div>\n            <div class=\"col-md-6 col-sm-12 no-padding col-2-nth wow fadeInRight\">\n                <!-- start contact item -->\n                <div\n                    class=\"col-md-6 col-sm-6 col-xs-12 display-table bg-extra-dark-gray height-350px last-paragraph-no-margin\">\n                    <div class=\"display-table-cell vertical-align-middle text-center\">\n                        <i class=\"icon-map text-deep-gold icon-medium margin-25px-bottom\"></i>\n                        <div class=\"text-white text-uppercase alt-font font-weight-600 margin-5px-bottom\">Contact\n                            Address</div>\n                        <p class=\"width-60 md-width-80 center-col text-medium\">Riara University<br>Mbagathi way,\n                            Nairobi.</p>\n                    </div>\n                </div>\n                <!-- end contact item -->\n                <!-- start contact item -->\n                <div class=\"col-md-6 col-sm-6 col-xs-12 display-table bg-black height-350px last-paragraph-no-margin\">\n                    <div class=\"display-table-cell vertical-align-middle text-center\">\n                        <i class=\"icon-chat text-deep-gold icon-medium margin-25px-bottom\"></i>\n                        <div class=\"text-white text-uppercase alt-font font-weight-600 margin-5px-bottom\">Let's Talk\n                        </div>\n                        <p class=\"center-col text-medium no-margin\">Phone: (+254)707 760 797 </p>\n                        <p class=\"center-col text-medium no-margin\">Corporate: (+254)741 105 600</p>\n                        <p class=\"center-col text-medium\">Corporate: (+254)707 760 797 </p>\n                    </div>\n                </div>\n                <!-- end contact item -->\n                <!-- start contact item -->\n                <div class=\"col-md-6 col-sm-6 col-xs-12 display-table bg-black height-350px last-paragraph-no-margin\">\n                    <div class=\"display-table-cell vertical-align-middle text-center\">\n                        <i class=\"icon-envelope text-deep-gold icon-medium margin-25px-bottom\"></i>\n                        <div class=\"text-white text-uppercase alt-font font-weight-600 margin-5px-bottom\">Email Us</div>\n                        <p class=\"center-col text-medium no-margin\"><a\n                                href=\"mailto:admin@lanilearning.com\">admin@lanilearning.com</a></p>\n                        <p class=\"center-col text-medium\"><a\n                                href=\"mailto:andrew@lanilearning.com\">andrew@lanilearning.com</a></p>\n                    </div>\n                </div>\n                <!-- end contact item -->\n                <!-- start contact item -->\n                <div\n                    class=\"col-md-6 col-sm-6 col-xs-12 display-table bg-extra-dark-gray height-350px last-paragraph-no-margin\">\n                    <div class=\"display-table-cell vertical-align-middle text-center\">\n                        <i class=\"icon-clock text-deep-gold icon-medium margin-25px-bottom\"></i>\n                        <div class=\"text-white text-uppercase alt-font font-weight-600 margin-5px-bottom\">Working Hours\n                        </div>\n                        <p class=\"center-col text-medium no-margin\">Mon to Sat - 8 AM to 10 PM</p>\n                        <p class=\"center-col text-medium\">Saturday - 8 AM to 6 PM</p>\n                    </div>\n                </div>\n                <!-- end contact item -->\n            </div>\n        </div>\n    </div>\n</section>\n<!-- end contact section -->\n\n<!-- start map section -->\n<section class=\"no-padding one-second-screen sm-height-400px wow fadeIn\">\n    <iframe class=\"width-100 height-100\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7679617600343!2d36.804837014211884!3d-1.3147385360273554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f105e9f1c97eb%3A0xd0d8411685ae0273!2sRiara%20University!5e0!3m2!1sen!2ske!4v1578910952640!5m2!1sen!2ske\" width=\"1920\" height=\"1080\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\"></iframe>\n    <!-- <iframe class=\"width-100 height-100\"\n        src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15955.259078625395!2d36.7783535!3d-1.2851086!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xff3ad008e07dc9a9!2sUbunifu+School!5e0!3m2!1sen!2ske!4v1565114191206!5m2!1sen!2ske\"></iframe> -->\n</section>\n<!-- end map section -->\n\n\n<section class=\"wow fadeIn bg-light-gray\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-12 text-center social-style-4 border round\">\n                <span\n                    class=\"text-medium font-weight-600 text-uppercase display-block alt-font text-extra-dark-gray margin-30px-bottom\">On\n                    social networks</span>\n                <div class=\"social-icon-style-4\">\n                    <ul class=\"margin-30px-top large-icon\">\n                        <li><a class=\"facebook\" href=\"https://www.facebook.com/ubunifucollege\" target=\"_blank\"><i\n                                    class=\"fab fa-facebook-f\"></i><span></span></a></li>\n                        <li><a class=\"twitter\" href=\"http://twitter.com/lani_learning\" target=\"_blank\"><i\n                                    class=\"fab fa-twitter\"></i><span></span></a></li>\n                        <li><a class=\"instagram\" href=\"https://www.instagram.com/lanilearning/\" target=\"_blank\"><i\n                                    class=\"fab fa-instagram\"></i><span></span></a></li>\n                        <li><a class=\"linkedin\" href=\"https://www.linkedin.com/company/ubunifucollege\"\n                                target=\"_blank\"><i class=\"fab fa-linkedin-in\"></i><span></span></a></li>\n                    </ul>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>";
+    __webpack_exports__["default"] = "<!--================Home Banner Area =================-->\n<section class=\"banner_area\">\n    <div class=\"banner_inner d-flex align-items-center\">\n        <div class=\"overlay bg-parallax\" data-stellar-ratio=\"0.9\" data-stellar-vertical-offset=\"0\" data-background=\"\">\n        </div>\n        <div class=\"container\">\n            <div class=\"banner_content text-center\">\n                <h2>Contact Us</h2>\n                <div class=\"page_link\">\n                    <a [routerLink]=\"['/home']\">Home</a>\n                    <a [routerLink]=\"['/contact']\">Contact</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n<!--================End Home Banner Area =================-->\n\n<!--================Contact Area =================-->\n<section class=\"contact_area p_120\">\n    <div class=\"container\">\n        <iframe class=\"width-100 height-100 mapBox\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.7679617600343!2d36.804837014211884!3d-1.3147385360273554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x182f105e9f1c97eb%3A0xd0d8411685ae0273!2sRiara%20University!5e0!3m2!1sen!2ske!4v1578910952640!5m2!1sen!2ske\" width=\"1080\" height=\"720\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\"></iframe>\n        <!-- <div id=\"mapBox\" class=\"mapBox\" data-lat=\"40.701083\" data-lon=\"-74.1522848\" data-zoom=\"13\"\n            data-info=\"PO Box CT16122 Collins Street West, Victoria 8007, Australia.\" data-mlat=\"40.701083\"\n            data-mlon=\"-74.1522848\">\n        </div> -->\n        <div class=\"row\">\n            <div class=\"col-lg-3\">\n                <div class=\"contact_info\">\n                    <div class=\"info_item\">\n                        <i class=\"lnr lnr-home\"></i>\n                        <h6>Mbagathi Way, Nairobi Kenya</h6>\n                        <p>Riara Unniversity</p>\n                    </div>\n                    <div class=\"info_item\">\n                        <i class=\"lnr lnr-phone-handset\"></i>\n                        <h6><a href=\"tel://254741105600\">(254) 741 105 600</a></h6>\n                        <p>Mon to Fri 9am to 6 pm</p>\n                    </div>\n                    <div class=\"info_item\">\n                        <i class=\"lnr lnr-envelope\"></i>\n                        <h6><a href=\"mailto://admin@lanilearning.com\">admin@lanilearning.com</a></h6>\n                        <p>Send us your query anytime!</p>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-lg-9\">\n                <form class=\"row contact_form\" action=\"contact_process.php\" method=\"post\" id=\"contactForm\"\n                    novalidate=\"novalidate\">\n                    <div class=\"col-md-6\">\n                        <div class=\"form-group\">\n                            <input type=\"text\" class=\"form-control\" id=\"name\" name=\"name\" placeholder=\"Enter your name\">\n                        </div>\n                        <div class=\"form-group\">\n                            <input type=\"email\" class=\"form-control\" id=\"email\" name=\"email\"\n                                placeholder=\"Enter email address\">\n                        </div>\n                        <div class=\"form-group\">\n                            <input type=\"text\" class=\"form-control\" id=\"subject\" name=\"subject\"\n                                placeholder=\"Enter Subject\">\n                        </div>\n                    </div>\n                    <div class=\"col-md-6\">\n                        <div class=\"form-group\">\n                            <textarea class=\"form-control\" name=\"message\" id=\"message\" rows=\"1\"\n                                placeholder=\"Enter Message\"></textarea>\n                        </div>\n                    </div>\n                    <div class=\"col-md-12 text-right\">\n                        <button type=\"submit\" value=\"submit\" class=\"btn submit_btn\">Send Message</button>\n                    </div>\n                </form>\n            </div>\n        </div>\n    </div>\n</section>\n<!--================Contact Area =================-->";
     /***/
   },
 
@@ -131,7 +131,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<!-- start navigation -->\n<nav class=\"navbar  bootsnav alt-font bg-white sidebar-nav sidebar-nav-style-1\">\n    <!-- start logo -->\n    <div class=\"col-md-12 col-sm-12 col-xs-12 sidenav-header\">\n        <div class=\"logo-holder\">\n            <a [routerLink]=\"['/']\" class=\"display-inline-block logo\"><img alt=\"Pofo\" src=\"assets/lani/04/logo.png\"\n                    data-rjs=\"images/logo-main-black.png\" /></a>\n        </div>\n        <!-- end logo -->\n        <button class=\"navbar-toggle mobile-toggle\" type=\"button\" id=\"mobileToggleSidenav\">\n            <span></span>\n            <span></span>\n            <span></span>\n        </button>\n    </div>\n    <div class=\"col-md-12 col-sm-12 col-xs-12 no-padding-lr\">\n        <div id=\"navbar-menu\" class=\"collapse navbar-collapse no-padding\">\n            <ul class=\"nav navbar-nav navbar-left-sidebar font-weight-500\">\n                <li><a [routerLink]=\"['/']\" routerLinkActive=\"active\" class=\"inner-link\">Home</a></li>\n                <li><a [routerLink]=\"['/about']\" routerLinkActive=\"active\" class=\"inner-link\">About</a></li>\n                <li><a [routerLink]=\"['/programs']\" routerLinkActive=\"active\" class=\"inner-link\">Courses</a></li>\n                <li><a [routerLink]=\"['/home']\" routerLinkActive=\"active\" class=\"inner-link\">Insights</a></li>\n                <li><a [routerLink]=\"['/contact']\" routerLinkActive=\"active\" class=\"inner-link\">Contact\n                        Us</a></li>\n            </ul>\n        </div>\n    </div>\n    <div\n        class=\"col-md-12 position-absolute top-auto bottom-0 left-0 width-100 padding-20px-bottom xs-padding-15px-bottom\">\n        <div class=\"footer-holder\">\n            <form class=\"navbar-form no-padding search-box\" role=\"search\">\n                <div class=\" \">\n                    <a href=\"/admissions\" target=\"_blank\" class=\"btn btn-small btn-rounded text-right btn-deep-gold\">Admissions<i\n                            class=\"fas fa-heart\"></i></a>\n                </div>\n            </form>\n            <div\n                class=\"icon-social-medium margin-eleven-bottom padding-eight-top xs-padding-15px-top xs-margin-15px-bottom\">\n                <a href=\"https://www.facebook.com/ubunifuniversity\" target=\"_blank\" class=\"text-link-extra-dark-gray\"><i\n                        class=\"fab fa-facebook-f\" aria-hidden=\"true\"></i></a>\n                <a href=\"https://twitter.com/ubunifuniversit\" target=\"_blank\" class=\"text-link-extra-dark-gray\"><i\n                        class=\"fab fa-twitter\" aria-hidden=\"true\"></i></a>\n                <a href=\"https://www.instagram.com/lanilearning/\" target=\"_blank\" class=\"text-link-extra-dark-gray\"><i\n                        class=\"fab fa-instagram\" aria-hidden=\"true\"></i></a>\n                <a href=\"https://www.linkedin.com/company/ubunifuniversity\" target=\"_blank\"\n                    class=\"text-link-extra-dark-gray\"><i class=\"fab fa-linkedin-in\" aria-hidden=\"true\"></i></a>\n            </div>\n            <div\n                class=\"text-medium-gray text-extra-small border-top border-color-extra-light-gray padding-twelve-top xs-padding-15px-top\">\n                <!-- &COPY;  -->\n                2019. All rights reserved</div>\n        </div>\n    </div>\n</nav>\n\n<!-- start tab style 04 section -->\n<section class=\"wow fadeIn bg-light-gray sidebar-wrapper mobile-height\">\n    <div class=\"container tab-style4\">\n        <div class=\"row equalize xs-equalize-auto\">\n\n            <br><br>\n            <div class=\"col-md-4 col-sm-3 col-xs-12 no-padding-right\">\n                <div class=\"display-table width-100 height-100\">\n                    <div class=\"display-table-cell vertical-align-middle\">\n                        <!-- start tab navigation -->\n\n                        <ul class=\"nav nav-tabs alt-font text-uppercase text-small display-inherit font-weight-600\">\n                            <li class=\"active\"><a href=\"data-science-curriculum.htm#tab-four1\" data-toggle=\"tab\">Why\n                                    Should I enroll?</a></li>\n                            <li><a href=\"data-science-curriculum.htm#tab-four2\" data-toggle=\"tab\">What Projects will I\n                                    be able to do?</a></li>\n                            <li><a href=\"data-science-curriculum.htm#tab-four3\" data-toggle=\"tab\">Jobs it will prepare\n                                    you for</a></li>\n                            <li><a href=\"data-science-curriculum.htm#tab-four4\" data-toggle=\"tab\">What are the\n                                    requirements?</a></li>\n                            <li><a href=\"data-science-curriculum.htm#tab-four5\" data-toggle=\"tab\">How Much & How\n                                    long?</a></li>\n                        </ul>\n                        <!-- end tab navigation -->\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-md-8 col-sm-9 col-xs-12 no-padding-left\">\n                <div class=\"tab-content\">\n                    <!-- start tab content -->\n                    <div class=\"tab-pane med-text fade in active\" id=\"tab-four1\">\n                        <div class=\"row equalize xs-equalize-auto\">\n\n                            <div class=\"col-md-9 col-sm-6 col-xs-12 display-table col-md-offset-1\">\n                                <div class=\"display-table-cell vertical-align-middle\">\n                                    <h6\n                                        class=\"alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase\">\n                                        Why Should I enroll?</h6>\n                                    <span\n                                        class=\"text-extra-large text-extra-dark-gray margin-20px-bottom display-block\">Data\n                                        Science</span>\n                                    <p>\n                                        {{ course.why_enroll }}\n                                    </p>\n                                    <a href=\"/admissions\" target=\"_blank\" class=\"btn btn-small btn-rounded btn-dark-gray\">Apply\n                                        Today</a>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <!-- end tab content -->\n                    <!-- start tab content -->\n                    <div class=\"tab-pane fade in\" id=\"tab-four2\">\n                        <div class=\"row equalize xs-equalize-auto\">\n\n                            <div class=\"col-md-9 col-sm-6 col-xs-12 display-table col-md-offset-1\">\n                                <div class=\"display-table-cell vertical-align-middle\">\n                                    <h6\n                                        class=\"alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase\">\n                                        What Skills im I getting?</h6>\n                                    <span\n                                        class=\"text-extra-large text-extra-dark-gray margin-20px-bottom display-block\">After\n                                        I complete this course what can I be able to do?</span>\n                                    <p>\n                                        1. Combine skills in programming and statistical analysis to uncover insights,\n                                        communicate critical findings, and create data-driven solutions<br>\n                                        2. Build skills in programming, data wrangling, machine learning, experiment\n                                        design, and data visualization, and launch a career in data science.<br>\n                                        3. You'll build skills in Excel and SQL, analyze real datasets, and visualize\n                                        your findings to address business intelligence needs in many industries.\n\n                                    </p>\n                                    <a href=\"/admissions\" target=\"_blank\" class=\"btn btn-small btn-rounded btn-dark-gray\">Apply\n                                        Today</a>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <!-- end tab content -->\n                    <!-- start tab content -->\n                    <div class=\"tab-pane fade in\" id=\"tab-four3\">\n                        <div class=\"row equalize xs-equalize-auto\">\n\n                            <div class=\"col-md-9 col-sm-6 col-xs-12 display-table col-md-offset-1\">\n                                <div class=\"display-table-cell vertical-align-middle\">\n                                    <h6\n                                        class=\"alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase\">\n                                        Jobs it will prepare you for</h6>\n                                    <span\n                                        class=\"text-extra-large text-extra-dark-gray margin-20px-bottom display-block\">If\n                                        I would like to get employed, what are some of the jobs it is preparing me\n                                        for</span>\n                                    <p>\n                                        <!-- <span *ngFor=\"let job of course.jobs.jobs; let i = index\">\n                                            {{i + 1}}. {{job}}\n                                        </span> -->\n                                        1. Data Analyst<br>\n                                        2. Data Scientist<br>\n                                        3. Data Engineer<br>\n                                        4. Business Analyst\n\n\n\n                                    </p>\n                                    <a href=\"/admissions\" class=\"btn btn-small btn-rounded btn-dark-gray\">Apply\n                                        Today</a>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <!-- end tab content -->\n                    <!-- start tab content -->\n                    <div class=\"tab-pane fade in\" id=\"tab-four4\">\n                        <div class=\"row equalize xs-equalize-auto\">\n\n                            <div class=\"col-md-9 col-sm-6 col-xs-12 display-table col-md-offset-1\">\n                                <div class=\"display-table-cell vertical-align-middle\">\n                                    <h6\n                                        class=\"alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase\">\n                                        Requirements</h6>\n\n                                    <span *ngFor=\"let requirement of course.requirements.requirements; let i = index\">\n\n                                    </span>\n                                    <span\n                                        class=\"text-extra-large text-extra-dark-gray margin-20px-bottom display-block\">{{course.requirements.description}}</span>\n                                    <!-- <span\n                                        class=\"text-extra-large text-extra-dark-gray margin-20px-bottom display-block\">No\n                                        experience required!</span>\n                                    <p>\n                                        - Prior programming experience isn't required. However, you will need lots of\n                                        tenacity and a passion for building cool stuff.\n                                        <br>- If you know how to read, you can learn how to code!\n                                    </p> -->\n                                    <a href=\"/admissions\" target=\"_blank\" class=\"btn btn-small btn-rounded btn-dark-gray\">Apply\n                                        Today</a>\n                                </div>\n                            </div>\n                        </div>\n                    </div>\n                    <!-- end tab content -->\n                    <!-- start tab content -->\n                    <div class=\"tab-pane fade in\" id=\"tab-four5\">\n\n                        <div class=\"bg-light-gray padding-5px-all\">\n                            <h5 class=\"text-extra-dark-gray font-weight-500 no-margin-bottom\">KES.\n                                {{ course.price_duration.amount }}</h5>\n                            <div class=\"text-extra-small text-deep-gold text-uppercase margin-5px-top\">\n                                <b>{{ course.price_duration.duration }}</b></div>\n                        </div>\n                        <!-- start pricing features -->\n                        <div class=\"padding-5px-all pricing-features sm-padding-20px-all xs-padding-30px-all\">\n                            <ul class=\"list-style-11\">\n                                <li> Monday - Friday</li>\n                                <li> classes run from 9am - 11 am then from 2pm - 4pm</li>\n                                <li *ngIf=\"(course.price_duration.duration) === 'true'\">Payment in installments allowed\n                                </li>\n                                <!-- <li>Join as a group of 3 and the third one gets to learn for free</li> -->\n\n                            </ul>\n\n                        </div>\n                        <!-- end pricing features -->\n                    </div>\n                </div>\n            </div>\n            <!-- end tab content -->\n        </div>\n    </div>\n</section>\n<!-- end tab style 04 section -->\n\n<!-- start accordions style 03 section -->\n<section class=\"wow fadeIn sidebar-wrapper mobile-height\">\n    <div id=\"curriculum\" class=\"container\">\n\n        <div class=\"row\">\n            <div class=\"col-12 text-center\">\n                <p class=\"alt-font margin-5px-bottom text-uppercase text-small\">Data Science</p>\n                <h5\n                    class=\"text-uppercase alt-font text-extra-dark-gray margin-20px-bottom font-weight-700 md-width-100\">\n                    Curriculum</h5>\n                <span class=\"separator-line-horrizontal-medium-light2 bg-deep-gold d-table mx-auto width-100px\"></span>\n            </div>\n            <br>\n        </div>\n\n        <div class=\"row\">\n            <div class=\"col-md-12 col-sm-12 center-col\">\n\n                <!-- start accordion -->\n                <div class=\"panel-group accordion-style3\" id=\"accordion-3\">\n                    <!-- start tab content -->\n                    <div class=\"panel panel-default\">\n                        <div class=\"panel-heading\">\n                            <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion-3\"\n                                href=\"data-science-curriculum.htm#accordion-3-One\">\n                                <div class=\"panel-title\">\n                                    <span class=\"alt-font font-weight-600 text-deep-gold tab-tag\">01</span>\n                                    <span class=\"text-white xs-width-80 display-inline-block\">Data Science</span>\n                                    <i class=\"fas fa-angle-up pull-right text-extra-dark-gray \"></i>\n                                </div>\n                            </a>\n                        </div>\n                        <div id=\"accordion-3-One\" class=\"panel-collapse collapse in\">\n                            <div class=\"panel-body\">\n                                1. Basic Statistics<br>\n                                2. Statistical Programming in R<br>\n                                3. Data Wrangling<br>\n                                4. Intermediate Statistics<br>\n                                5. Machine Learning Techniques<br>\n                                6. Intro to Big Data<br>\n                                7. Programming Foundations in Python<br>\n                                8. Database Foundations in SQL<br>\n                                9. Metric Development & Process Control<br>\n                                10. Data Visualization<br>\n                                11. Modeling & Optimization\n\n\n                            </div>\n                        </div>\n                    </div>\n                    <!-- end tab content -->\n\n\n\n\n\n\n                    <!-- start tab content -->\n                    <div class=\"panel panel-default\">\n                        <div class=\"panel-heading\">\n                            <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion-3\"\n                                href=\"data-science-curriculum.htm#accordion-3-Nine\">\n                                <div class=\"panel-title\">\n                                    <span class=\"alt-font font-weight-600 text-deep-gold tab-tag\">02</span>\n                                    <span class=\"text-white xs-width-80 display-inline-block\">Entrepreneurship and\n                                        Innovation - Launch Your Startup </span>\n                                    <i class=\"indicator fas fa-angle-down pull-right text-extra-dark-gray \"></i>\n                                </div>\n                            </a>\n                        </div>\n                        <div id=\"accordion-3-Nine\" class=\"panel-collapse collapse\">\n                            <div class=\"panel-body\">\n                                This Course focuses on issues of Innovation, Creativity and Entrepreneurship. It leads\n                                the students through the entire process of creating a start-up from an idea.\n                                We believe the barrier to entry for people to start a startup is still too high. We want\n                                to make it easier for people to start a company, regardless of who or where you are, so\n                                we're starting by sharing what we've learned, through this course.<br>\n                                <br><strong>1. Striking out on your own</strong><br>\n                                Omondi finds himself working in a dead-end job, and feels the desire to strike out on\n                                his own and start a business. He’s got a really great idea for an app that can put\n                                freelancers in touch with restaurant and cafe owners, and allow them to book tables for\n                                work purposes, mutually benefiting both parties. But, his only issue is that he’s never\n                                been to business school, and doesn’t know how to even start a business. He turns to\n                                Emma, who explains to him that the first step in this process is research. She explains\n                                that it’s important to conduct a lot of market research, to try and minimise the risk of\n                                prematurely launching into a market that’s not ready for your product. She then goes on\n                                to explain that it’s really, really important to take time over the decision, as once\n                                you start, there’s no going back. The onus is on you if you launch a company, and you’ll\n                                always have the last word. As such, it’s imperative you’re ready, and able, before you\n                                do start a company.\n                                <br><strong>2. Startup Mechanics</strong><br>\n                                Omondi assured Emma he’s ready to do it - he’s got the passion, and the motivation, but\n                                lacks the knowledge. She responds by informing him of something called Startup\n                                Mechanics, which refer to the potential pitfalls that new businesses may run into.\n                                Omondi's never heard of them, so takes out a notepad to make notes. Emma tells him that\n                                there’s such a thing as a lifecycle of a company, which involves a series of steps that\n                                all have their own potential problems. Firstly, she talks about how there are different\n                                types of start-ups, like a Sole Tradership, Partnership, Limited and Unlimited\n                                Companies, Corporations, and lots more, and how each is suited to a type of business.\n                                Most countries will have a governing body that will need to recognise and or register\n                                you as the type of company you are, before you can start trading. Opening a business\n                                puts you in a position where you have to consider taxes, income, and other legal\n                                matters, so it’s important to cover all these bases before starting so that they don’t\n                                affect you later on.\n                                <br><strong>3. Ideas and Metrics </strong><br>\n                                Omondi believes that his idea will revolutionise the world, but he’s not done a lot of\n                                research into how long it will take to develop his idea, how much it would cost, what\n                                competition is on the market. She tells him that most of the time, the idea you start\n                                with initially is too large, complicated, and often not possible to carry forward, and\n                                as such, Omondi needs to be prepared to make compromises. It’s important to adapt to\n                                each new hurdle, and let the market guide you moving forward. You may think your product\n                                is great, but other people might not. And as you have to please them, it’s important to\n                                continually allow feedback and other market factors guide you moving forwards. While\n                                he’s inventing, and reinventing his product, and learning more and more about the\n                                market, she tells him it’s imperative that he constantly keeps track of the potential\n                                customers and the market. She tells him that keeping hold of all figures moving forward\n                                will reveal patterns in his business.\n                                <br><strong>4. Building your products</strong><br>\n                                Omondi is confident now that he’s evolved his idea to a point where he’s ready to go\n                                into production, but Emma tells him to slow down, because the next step is very\n                                important. She brings up the idea of ‘minimum viable product’, which involves stripping\n                                the idea back to the simplest form it can possibly be, before going to market. This\n                                entails cutting overheads and doing things as simply, and as cheaply as possible in\n                                order to minimise the amount of money that is risked being lost. But, alongside that,\n                                she tells him that it’s a balance, because the thing that users may love about your\n                                product over others may not necessarily be vital for its function, and may well be\n                                something that could be scrapped and save money on the production side of things, but it\n                                may make it so that users won’t buy your product. With this in mind, building your\n                                products is a fine line to tread, and customer feedback is vital in the refining\n                                process.\n                                <br><strong>5. Identifying and accessing new markets to facilitate growth</strong><br>\n                                Emma tells Omondi that now that he has his product, and he’s confident that it’s going\n                                to sell, that he needs to get it in front of the right people. The key to growth is\n                                retention. The people who already use your service or product are the cornerstone of our\n                                business and Emma tells Liam that his business plan should be as much about finding new\n                                customers as it as about keeping your existing customers satisfied. Even if you have a\n                                very small organic growth figure, but your retention rate is very high, then your\n                                business will continue to grow. Businesses that rely on one-time transactions often see\n                                a fall in total sales if they aren’t doing enough to keep their old customers coming\n                                back for more. Emma explains that it’s important to get your product championed by your\n                                existing customers, than to just push it on as many people as possible.\n                                <br><strong>6. Inventing the future </strong><br>\n                                Omondi tells Emma that now that he’s got his product developed, and knows that it will\n                                please people, resulting in customer retention, he wants to go to market. Emma once more\n                                informs him that he needs to think about something before he does. Is his product\n                                sustainable? She tells him that product sustainability isn’t to do with the\n                                environmental impact, but relates instead to how the current product will fare in the\n                                market a year from now. She talks to him about inventing the future - which is to\n                                pioneer new ideas that consumers will want one, ten, or a hundred years from now. Demand\n                                moves quickly, and Liam needs to be prepared for the tide to change.\n                                <br><strong>7. How to find ‘Product Market Fit’ </strong><br>\n                                Omondi has done some thinking, and is now sure that he’s ready to start his business,\n                                but once more, Emma tells him he needs to think about the future. Inventing for the\n                                future isn’t just about creating a product that you think people will want. She tells\n                                him he has to imagine what the world is going to be like in a year’s time, and then\n                                about what his potential market is going to be like, too. This means, where are his\n                                competitors going to be - are his consumers going to be in the same frame of mind? It\n                                takes time to get a product to market, into shops, and in front of people, so planning\n                                for the future is imperative. The further ahead you can look, the more chance your\n                                product has of bedding into the market. Even if someone has a revolutionary design for\n                                the petrol engine, but in a year, everyone will be driving electric cars, then the idea,\n                                no matter how great, isn’t future-proof.\n                                <br><strong>8. The importance of PR</strong><br>\n                                Now that Omondi has a future-proof idea, and he’s thought a lot about his customers,\n                                Emma tells him he’s ready to start thinking beyond his transactional interactions. She\n                                tells him that he needs to consider his PR, or public relations. A lot of people will\n                                research and get in contact before committing to a purchase, and as such, it’s important\n                                to have a great relationship with the public, whether they’re buying from you or not.\n                                People are strange, and as such, will decide against buying, even if they love the\n                                product, if they don’t like the company. Being approachable, contactable, and\n                                trustworthy is a much overlooked factor in business that Emma tells Liam he needs to be\n                                aware of. Whether he’s handling it himself, or getting someone in, she encourages him to\n                                consider his PR style carefully.\n                                <br><strong>9. Diversity & Inclusion during the startup process</strong><br>\n                                Emma asks Omondi whether he’ll be hiring anyone to work at his company, and he says yes,\n                                he intends to, but hasn’t really thought much about it yet. Emma says that in today's\n                                society, with internet driving a large portion of commerce, it’s important to be aware\n                                of all the different people that are going to be accessing your services and products.\n                                In doing so, it’s important to move forward with marketing and growth with many\n                                different perspectives. Having employees from different classes of society, from\n                                different countries, of different genders, and races, with different views and opinions,\n                                is all very important for building a balanced company that can survive in today’s modern\n                                world. Liam agrees, saying he’d not considered that before, but he agrees that more\n                                viewpoints are inherently better, as he couldn’t possibly view the world as others\n                                might.\n                                <br><strong>10. Building and Managing your team</strong><br>\n                                Emma tells Omondi that it’s not just about diversity and inclusion, and that hiring\n                                people to work for a new startup is critical to its success. She tells him that the\n                                people he hires first will go on to shape the company. They’ll be working closely\n                                together, in a high stress environment, so it’s important that Liam look for people who\n                                are of a similar mind-set. These people need to have similar goals to Liam in the\n                                business world, and need to be capable of representing his mindset in his stead, acting\n                                as he would. With this as the necessity, he can begin to find people that possess the\n                                skills that he does not, to help the company grow. Finding experts to fill spaces is a\n                                great way to build a strong team that will then go on to expand. Emma informs Liam that\n                                he’ll be very busy as the company grows, and that having people who will represent his\n                                interests and make decisions as he would, for the good of the company, is imperative to\n                                keep the business on its trajectory.\n                                <br><strong>10. Raising capital and ensuring success </strong><br>\n                                Emma tells Omondi that when he begins his startup, there will be lots of costs in incur.\n                                He’ll likely have to invest money in the company for lots of things he never considered\n                                - website construction and maintenance, office space, wages, subscriptions, equipment,\n                                fees, and lots of other outgoings. As such, Emma stresses the importance of having all\n                                the figures laid out before he starts, so that he knows exactly how much money is on the\n                                line, and how much he stands to lose. By doing this, he can calculate the risk to\n                                himself, and move forward with a figure in mind for how money he’ll need to invest to\n                                sustain the company until it’s able to pay for itself. She tells him that this is the\n                                most important part of the process, because without having those figures and a business\n                                plan reflecting it, he’ll find it impossible to gain investment from outside investors,\n                                or a bank. Anyone willing to stake their money in a startup needs to be sure that the\n                                risk is worth the reward, and if Liam plans look for investment to expand his company in\n                                the future, he’ll need to have all of this data written down and organised.\n                                <br><strong>11. Tax</strong><br>\n                                Types of tax and how to do taxes\n                            </div>\n                        </div>\n                    </div>\n                    <!-- end tab content -->\n\n                </div>\n                <!-- end accordion -->\n            </div>\n        </div>\n    </div>\n</section>\n<!-- end accordions style 03 section -->";
+    __webpack_exports__["default"] = "<!--================Home Banner Area =================-->\n<section class=\"banner_area\">\n    <div class=\"banner_inner d-flex align-items-center\">\n        <div class=\"overlay bg-parallax\" data-stellar-ratio=\"0.9\" data-stellar-vertical-offset=\"0\" data-background=\"\">\n        </div>\n        <div class=\"container\">\n            <div class=\"banner_content text-center\">\n                <h2>Course Details</h2>\n                <div class=\"page_link\">\n                    <a href=\"index.html\">Home</a>\n                    <a href=\"courses.html\">Course</a>\n                    <a href=\"course-details.html\">Course Details</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n<!--================End Home Banner Area =================-->\n\n<!--================Course Details Area =================-->\n<section class=\"course_details_area p_120\">\n    <div class=\"container\">\n        <div class=\"row course_details_inner\">\n            <div class=\"col-lg-8\">\n                <div class=\"c_details_img\">\n                    <img class=\"img-fluid\" src=\"assets/learnit/img/courses/course-details.jpg\" alt=\"\">\n                </div>\n                <ul class=\"nav nav-tabs\" id=\"myTab\" role=\"tablist\">\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link\" id=\"home-tab\" data-toggle=\"tab\" href=\"#home\" role=\"tab\" aria-controls=\"home\"\n                            aria-selected=\"true\">Objectives</a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link\" id=\"profile-tab\" data-toggle=\"tab\" href=\"#profile\" role=\"tab\"\n                            aria-controls=\"profile\" aria-selected=\"false\">Eligibility</a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link\" id=\"contact-tab\" data-toggle=\"tab\" href=\"#contact\" role=\"tab\"\n                            aria-controls=\"contact\" aria-selected=\"false\">Course Outline</a>\n                    </li>\n                    <li class=\"nav-item\">\n                        <a class=\"nav-link active\" id=\"comments-tab\" data-toggle=\"tab\" href=\"#comments\" role=\"tab\"\n                            aria-controls=\"comments\" aria-selected=\"false\">Comments</a>\n                    </li>\n                </ul>\n                <div class=\"tab-content\" id=\"myTabContent\">\n                    <div class=\"tab-pane fade\" id=\"home\" role=\"tabpanel\" aria-labelledby=\"home-tab\">\n                        <div class=\"objctive_text\">\n                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\n                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\n                                exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>\n                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\n                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\n                                exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure\n                                dolor in reprehenderit in voluptate velit esse cillum. Lorem ipsum dolor sit amet,\n                                consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna\n                                aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\n                                aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate\n                                velit esse cillum.</p>\n                        </div>\n                    </div>\n                    <div class=\"tab-pane fade\" id=\"profile\" role=\"tabpanel\" aria-labelledby=\"profile-tab\">\n                        <div class=\"objctive_text\">\n                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\n                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\n                                exercitation ullamco laboris nisi ut aliquip ex ea commodo</p>\n                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor\n                                incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud\n                                exercitation ullamco laboris nisi ut aliquip ex ea commodoconsequat. Duis aute irure\n                                dolor in reprehenderit in voluptate velit esse cillum. Lorem ipsum dolor sit amet,\n                                consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna\n                                aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut\n                                aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate\n                                velit esse cillum.</p>\n                        </div>\n                    </div>\n                    <div class=\"tab-pane fade\" id=\"contact\" role=\"tabpanel\" aria-labelledby=\"contact-tab\">\n                        <div class=\"objctive_text\">\n                            <ul class=\"list\">\n                                <li><a href=\"#\">Introduction Lesson</a></li>\n                                <li><a href=\"#\">Basics of HTML</a></li>\n                                <li><a href=\"#\">Getting Know about HTML 5</a></li>\n                                <li><a href=\"#\">Tags and Attributes</a></li>\n                                <li><a href=\"#\">Basics of CSS</a></li>\n                                <li><a href=\"#\">Getting Familiar with CSS 3</a></li>\n                                <li><a href=\"#\">Introduction to Bootstrap 3.0</a></li>\n                                <li><a href=\"#\">Responsive Design</a></li>\n                                <li><a href=\"#\">Canvas in HTML 5</a></li>\n                            </ul>\n                        </div>\n                    </div>\n                    <div class=\"tab-pane fade show active\" id=\"comments\" role=\"tabpanel\" aria-labelledby=\"comments-tab\">\n                        <div class=\"comments-area\">\n                            <h4>05 Comments</h4>\n                            <div class=\"comment-list\">\n                                <div class=\"single-comment justify-content-between d-flex\">\n                                    <div class=\"user justify-content-between d-flex\">\n                                        <div class=\"thumb\">\n                                            <img src=\"assets/learnit/img/blog/c1.jpg\" alt=\"\">\n                                        </div>\n                                        <div class=\"desc\">\n                                            <h5><a href=\"#\">Emilly Blunt</a></h5>\n                                            <p class=\"date\">December 4, 2017 at 3:12 pm </p>\n                                            <p class=\"comment\">\n                                                Never say goodbye till the end comes!\n                                            </p>\n                                        </div>\n                                    </div>\n                                    <div class=\"reply-btn\">\n                                        <a href=\"\" class=\"btn-reply text-uppercase\">reply</a>\n                                    </div>\n                                </div>\n                            </div>\n                            <div class=\"comment-list left-padding\">\n                                <div class=\"single-comment justify-content-between d-flex\">\n                                    <div class=\"user justify-content-between d-flex\">\n                                        <div class=\"thumb\">\n                                            <img src=\"assets/learnit/img/blog/c2.jpg\" alt=\"\">\n                                        </div>\n                                        <div class=\"desc\">\n                                            <h5><a href=\"#\">Elsie Cunningham</a></h5>\n                                            <p class=\"date\">December 4, 2017 at 3:12 pm </p>\n                                            <p class=\"comment\">\n                                                Never say goodbye till the end comes!\n                                            </p>\n                                        </div>\n                                    </div>\n                                    <div class=\"reply-btn\">\n                                        <a href=\"\" class=\"btn-reply text-uppercase\">reply</a>\n                                    </div>\n                                </div>\n                            </div>\n                            <div class=\"comment-list\">\n                                <div class=\"single-comment justify-content-between d-flex\">\n                                    <div class=\"user justify-content-between d-flex\">\n                                        <div class=\"thumb\">\n                                            <img src=\"assets/learnit/img/blog/c5.jpg\" alt=\"\">\n                                        </div>\n                                        <div class=\"desc\">\n                                            <h5><a href=\"#\">Ina Hayes</a></h5>\n                                            <p class=\"date\">December 4, 2017 at 3:12 pm </p>\n                                            <p class=\"comment\">\n                                                Never say goodbye till the end comes!\n                                            </p>\n                                        </div>\n                                    </div>\n                                    <div class=\"reply-btn\">\n                                        <a href=\"\" class=\"btn-reply text-uppercase\">reply</a>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                        <div class=\"comment-form\">\n                            <h4>Leave a Reply</h4>\n                            <form>\n                                <div class=\"form-group form-inline\">\n                                    <div class=\"form-group col-lg-6 col-md-6 name\">\n                                        <input type=\"text\" class=\"form-control\" id=\"name\" placeholder=\"Enter Name\"\n                                            onfocus=\"this.placeholder = ''\" onblur=\"this.placeholder = 'Enter Name'\">\n                                    </div>\n                                    <div class=\"form-group col-lg-6 col-md-6 email\">\n                                        <input type=\"email\" class=\"form-control\" id=\"email\"\n                                            placeholder=\"Enter email address\" onfocus=\"this.placeholder = ''\"\n                                            onblur=\"this.placeholder = 'Enter email address'\">\n                                    </div>\n                                </div>\n                                <div class=\"form-group\">\n                                    <input type=\"text\" class=\"form-control\" id=\"subject\" placeholder=\"Subject\"\n                                        onfocus=\"this.placeholder = ''\" onblur=\"this.placeholder = 'Subject'\">\n                                </div>\n                                <div class=\"form-group\">\n                                    <textarea class=\"form-control mb-10\" rows=\"5\" name=\"message\" placeholder=\"Messege\"\n                                        onfocus=\"this.placeholder = ''\" onblur=\"this.placeholder = 'Messege'\"\n                                        required=\"\"></textarea>\n                                </div>\n                                <a href=\"#\" class=\"primary-btn submit_btn\">Post Comment</a>\n                            </form>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-lg-4\">\n                <div class=\"c_details_list\">\n                    <ul class=\"list\">\n                        <li><a href=\"#\">Trainer’s Name <span>George Mathews</span></a></li>\n                        <li><a href=\"#\">Course Fee <span>$230</span></a></li>\n                        <li><a href=\"#\">Available Seats <span>15</span></a></li>\n                        <li><a href=\"#\">Schedule <span>2.00 pm to 4.00 pm</span></a></li>\n                    </ul>\n                    <a class=\"main_btn\" href=\"#\">Enroll the Course</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n<!--================End Course Details Area =================-->";
     /***/
   },
 
@@ -151,7 +151,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<!-- start explore work section -->\n<!-- <section class=\"no-padding wow fadeIn bg-extra-dark-gray\" id=\"services\">\n    <div class=\"container-fluid no-padding\">\n        <div class=\"row equalize sm-equalize-auto no-margin\">\n            <div class=\"col-md-6 col-sm-12 col-xs-12 wow slideInLeft position-relative sm-height-550px xs-height-350px cover-background\"\n                data-wow-duration=\"900ms\" style=\"background-image: url('assets/theme/images/backmain.jpg');\"></div>\n            <div class=\"col-md-6 col-sm-12 col-xs-12 display-table wow slideInRight last-paragraph-no-margin\"\n                data-wow-duration=\"900ms\">\n                <div\n                    class=\"display-table-cell vertical-align-middle padding-fifteen-all sm-padding-ten-all xs-padding-30px-all sm-text-center\">\n                    <span\n                        class=\"text-medium margin-20px-bottom sm-margin-15px-bottom display-block alt-font xs-margin-15px-bottom\">Data\n                        Science</span>\n                    <h4 class=\"alt-font text-light-gray\">AI & Machine Learning</h4>\n                    <p class=\"width-80 md-width-100 xs-width-100\">Have you ever said to yourself: \"I'd like to learn\n                        programming, but where should I start?” or \"I'd like to get started in Machine Learning, but\n                        where should I start?” This course is designed to provide a comprehensive introduction to the\n                        programming field. It will help you go from zero or very little knowledge of web development to\n                        having a fundamental understanding of web applications development, Machine Learning and a\n                        comprehensive knowledge of building chatbots in just 1 month</p>\n                    <a href=\"software-dev-fundamentals-curriculum.htm\"\n                        class=\"btn btn-small btn-white btn-rounded margin-35px-top sm-margin-25px-top\">Curriculum +\n                        Fee</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section> -->\n<!-- end explore work section -->\n\n<!-- start explore work section -->\n<!-- <section class=\"no-padding wow fadeIn bg-deep-gold\" id=\"services\">\n    <div class=\"container-fluid no-padding\">\n        <div class=\"row equalize sm-equalize-auto\">\n            <div class=\"img col-md-6 col-sm-12 col-xs-12 wow slideInLeft position-relative sm-height-550px xs-height-350px cover-background wow slideInLeft\"\n                data-wow-duration=\"900ms\" style=\"background-image: url('assets/theme/images/backmain.jpg');\">\n\n                <div class=\"overlay-thumb\">\n                    <a href=\"javascript:void(0)\" class=\"like-product\">\n                        <i class=\"ion-ios-heart-outline\"></i>\n                        <span class=\"like-product\">Liked</span>\n                        <span class=\"output\">250</span>\n                    </a>\n                    <div class=\"details\">\n                        <span class=\"title\">\n                            <span\n                                class=\"text-medium margin-20px-bottom sm-margin-15px-bottom display-block alt-font xs-margin-15px-bottom\">Data\n                                Science</span>\n                            <h4 class=\"alt-font text-light-gray\">AI & Machine Learning</h4>\n                        </span>\n                        <span class=\"info\">It is such an exciting time to be doing Data Science, and we at Lani Learning aim to democratize entry into the field by offering you an intensive hands-on course that will equip you with some of the most desired skills in the market.\n                        </span>\n                    </div>\n                    <span class=\"btnBefore\"></span>\n                    <span class=\"btnAfter\"></span>\n                    <a class=\"main-portfolio-link\" href=\"single-project.html\"></a>\n                </div>\n            </div>\n\n            <div class=\"img col-md-6 col-sm-12 col-xs-12 display-table wow slideInRight\"\n                data-wow-duration=\"900ms\">\n\n                <div class=\"overlay-thumb\">\n                    <a href=\"javascript:void(0)\" class=\"like-product\">\n                        <i class=\"ion-ios-heart-outline\"></i>\n                        <span class=\"like-product\">Liked</span>\n                        <span class=\"output\">250</span>\n                    </a>\n                    <div class=\"details\">\n                        <span class=\"title\">\n                            <span\n                                class=\"text-medium margin-20px-bottom sm-margin-15px-bottom display-block alt-font xs-margin-15px-bottom\">Data\n                                Science</span>\n                            <h4 class=\"alt-font text-light-gray\">AI & Machine Learning</h4>\n                        </span>\n                        <span class=\"info\">It is such an exciting time to be doing Data Science, and we at Lani Learning aim to democratize entry into the field by offering you an intensive hands-on course that will equip you with some of the most desired skills in the market.\n                        </span>\n                    </div>\n                    <span class=\"btnBefore\"></span>\n                    <span class=\"btnAfter\"></span>\n                    <a class=\"main-portfolio-link\" href=\"single-project.html\"></a>\n                </div>\n\n                <div\n                    class=\"display-table-cell vertical-align-middle padding-fifteen-all sm-padding-ten-all xs-padding-30px-all sm-text-center\">\n                    <span\n                        class=\"text-medium margin-20px-bottom sm-margin-15px-bottom display-block alt-font xs-margin-15px-bottom\">Data\n                        Science</span>\n                    <h4 class=\"alt-font text-light-gray\">AI & Machine Learning</h4>\n                    <p class=\"width-80 md-width-100 xs-width-100\">Have you ever said to yourself: \"I'd like to learn\n                        programming, but where should I start?” or \"I'd like to get started in Machine Learning, but\n                        where should I start?” This course is designed to provide a comprehensive introduction to the\n                        programming field. It will help you go from zero or very little knowledge of web development to\n                        having a fundamental understanding of web applications development, Machine Learning and a\n                        comprehensive knowledge of building chatbots in just 1 month</p>\n                    <a href=\"software-dev-fundamentals-curriculum.htm\"\n                        class=\"btn btn-small btn-white btn-rounded margin-35px-top sm-margin-25px-top\">Curriculum +\n                        Fee</a>\n                </div>\n            </div>\n            <div class=\"col-md-6 col-sm-12 col-xs-12 display-table wow slideInRight last-paragraph-no-margin\"\n                data-wow-duration=\"900ms\">\n                <div\n                    class=\"display-table-cell vertical-align-middle padding-fifteen-all sm-padding-ten-all xs-padding-30px-all sm-text-center\">\n                    <span\n                        class=\"text-medium margin-20px-bottom sm-margin-15px-bottom display-block alt-font xs-margin-15px-bottom\">Data\n                        Science</span>\n                    <h4 class=\"alt-font text-light-gray\">AI & Machine Learning</h4>\n                    <p class=\"width-80 md-width-100 xs-width-100\">Have you ever said to yourself: \"I'd like to learn\n                        programming, but where should I start?” or \"I'd like to get started in Machine Learning, but\n                        where should I start?” This course is designed to provide a comprehensive introduction to the\n                        programming field. It will help you go from zero or very little knowledge of web development to\n                        having a fundamental understanding of web applications development, Machine Learning and a\n                        comprehensive knowledge of building chatbots in just 1 month</p>\n                    <a href=\"software-dev-fundamentals-curriculum.htm\"\n                        class=\"btn btn-small btn-white btn-rounded margin-35px-top sm-margin-25px-top\">Curriculum +\n                        Fee</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section> -->\n<!-- end explore work section -->\n\n<!-- start explore work section -->\n<!-- <section class=\"no-padding wow fadeIn bg-deep-gold\" id=\"services\">\n    <div class=\"container-fluid no-padding\">\n        <div class=\"row equalize sm-equalize-auto no-margin\">\n\n            <div class=\"col-md-6 col-sm-12 col-xs-12 display-table wow slideInLeft last-paragraph-no-margin\"\n                data-wow-duration=\"900ms\">\n                <div\n                    class=\"display-table-cell vertical-align-middle padding-fifteen-all sm-padding-ten-all xs-padding-30px-all sm-text-center\">\n                    <span\n                        class=\"text-medium text-white margin-20px-bottom sm-margin-15px-bottom display-block alt-font xs-margin-15px-bottom\">Emerging\n                        Technology</span>\n                    <h4 class=\"alt-font text-white\">Internet of Things</h4>\n                    <p class=\"width-80 text-white md-width-100 xs-width-100\">\n\n                        What if we could tell you that you could build adanced apps such as Instagram, Siri, Airbnb or\n                        Uber in just 3 months? Cool right? This is a groundbreaking project-based approach that\n                        simulates a rigorous professional developer experience. Over twelve weeks, you'll learn all the\n                        skills needed to begin a career as a Android Mobile App Developer. Through hands-on projects, we\n                        train you to build mobile applications with Java, Machine Learning and Firebase DB. Prior\n                        programming experience isn't required.\n\n                    </p>\n                    <a href=\"mobile-app-dev-curriculum.htm\"\n                        class=\"btn btn-small btn-white btn-rounded margin-35px-top sm-margin-25px-top\">Curriculum +\n                        Fee</a>\n                </div>\n            </div>\n            <div class=\"col-md-6 col-sm-12 col-xs-12 position-relative sm-height-550px xs-height-350px cover-background wow slideInRight\"\n                data-wow-duration=\"900ms\" style=\"background-image: url('assets/theme/images/courses3.jpg');\"></div>\n\n        </div>\n    </div>\n</section> -->\n<!-- end explore work section -->\n\n<!-- start explore work section -->\n<!-- <section class=\"no-padding wow fadeIn \" id=\"services\">\n    <div class=\"container-fluid no-padding\">\n        <div class=\"row equalize sm-equalize-auto no-margin\">\n            <div class=\"col-md-6 col-sm-12 col-xs-12 position-relative sm-height-550px xs-height-350px cover-background wow slideInLeft\"\n                data-wow-duration=\"900ms\" style=\"background-image: url('assets/theme/images/upload5.jpg');\"></div>\n            <div class=\"col-md-6 col-sm-12 col-xs-12 display-table wow slideInRight last-paragraph-no-margin\"\n                data-wow-duration=\"900ms\">\n                <div\n                    class=\"display-table-cell vertical-align-middle padding-fifteen-all sm-padding-ten-all xs-padding-30px-all sm-text-center\">\n                    <span\n                        class=\"text-medium margin-20px-bottom sm-margin-15px-bottom display-block alt-font xs-margin-15px-bottom\">Data\n                        Science</span>\n                    <h4 class=\"alt-font text-deep-gold\">Cloud Computing</h4>\n                    <p class=\"width-80 md-width-100 xs-width-100\">\n                        Just as the witchdoctors in Tanzania imagine having the skills of Identifying where a business\n                        went wrong & what are they not doing right and how to fix it, what are the customer needs and\n                        what do they prefer under what conditions, customer consumption pattern, what factors affect the\n                        business under what variables, predict correctly sales for the next one year and have the\n                        ability to build a web app to view the insights. Here you will Gain hands-on experience building\n                        a machine learning systems & web apps in just 1 month!\n\n                    </p>\n                    <a href=\"fundamentals-of-data-science-curriculum.htm\"\n                        class=\"btn btn-small btn-deep-gold btn-rounded margin-35px-top sm-margin-25px-top\">Curriculum +\n                        Fee</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section> -->\n<!-- end explore work section -->\n\n<!-- start explore work section -->\n<span *ngFor=\"let course of course_items; let i = index\">\n    <section class=\"no-padding wow fadeIn {{ course.course_style }}\" id=\"services\">\n        <div class=\"container-fluid no-padding\">\n            <div class=\"row equalize sm-equalize-auto no-margin\" *ngIf=\"(i%2)===1\">\n                <div class=\"col-md-6 col-sm-12 col-xs-12 position-relative sm-height-550px xs-height-350px cover-background wow slideInLeft\"\n                    data-wow-duration=\"900ms\" style=\"background-image: url('{{ course.course_image }}');\"></div>\n                <div class=\"col-md-6 col-sm-12 col-xs-12 display-table wow slideInRight last-paragraph-no-margin\"\n                    data-wow-duration=\"900ms\">\n                    <div\n                        class=\"display-table-cell vertical-align-middle padding-fifteen-all sm-padding-ten-all xs-padding-30px-all sm-text-center\">\n                        <span\n                            class=\"text-medium margin-20px-bottom sm-margin-15px-bottom display-block alt-font xs-margin-15px-bottom\">{{ course.course_category }}</span>\n                        <h4 class=\"alt-font text-deep-gold\">{{ course.course_name }}</h4>\n                        <p class=\"width-80 md-width-100 xs-width-100\">\n                            {{ course.short_description }}\n\n                        </p>\n                        <a href=\"/course/{{course.id}}\"\n                            class=\"btn btn-small btn-deep-gold btn-rounded margin-35px-top sm-margin-25px-top\">More Info</a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"row equalize sm-equalize-auto no-margin\" *ngIf=\"(i%2)===0\">\n\n                <div class=\"col-md-6 col-sm-12 col-xs-12 display-table wow slideInLeft last-paragraph-no-margin\"\n                    data-wow-duration=\"900ms\" style=\"background-image: url('{{course.course_image}}');\">\n                    <div\n                        class=\"display-table-cell vertical-align-middle padding-fifteen-all sm-padding-ten-all xs-padding-30px-all sm-text-center\">\n                        <span\n                            class=\"text-medium margin-20px-bottom sm-margin-15px-bottom display-block alt-font xs-margin-15px-bottom\">{{ course.course_category }}</span>\n                        <h4 class=\"alt-font text-light-gray\">{{ course.course_name }}</h4>\n                        <p class=\"width-80 text-white md-width-100 xs-width-100\">\n                            {{ course.short_description }}\n                        </p>\n                        <a href=\"/course/{{course.id}}\"\n                            class=\"btn btn-small btn-white btn-rounded margin-35px-top sm-margin-25px-top\">More Info</a>\n                    </div>\n                </div>\n                <div class=\"col-md-6 col-sm-12 col-xs-12 position-relative sm-height-550px xs-height-350px cover-background wow slideInRight\"\n                    data-wow-duration=\"900ms\" [ngStyle]=\"{'background-image': 'url(' + course.course_image + ')'}\" style=\"background-image: url({{course.course_image}});\"></div>\n            </div>\n        </div>\n    </section>\n</span>\n<!-- end explore work section -->\n";
+    __webpack_exports__["default"] = "<!-- start explore work section -->\n<!-- <span *ngFor=\"let course of course_items; let i = index\">\n    <section class=\"no-padding wow fadeIn {{ course.course_style }} {{i===0 ? 'first-section' : 'other-section'}}\" [ngClass]=\"{'first-section': i===1}\" id=\"services\">\n        <div class=\"container-fluid no-padding\">\n            {{i}}\n            <div class=\"row equalize sm-equalize-auto no-margin\" *ngIf=\"(i%2)===1\">\n                <div class=\"col-md-6 col-sm-12 col-xs-12 position-relative sm-height-550px xs-height-350px cover-background wow slideInLeft\"\n                    data-wow-duration=\"900ms\" style=\"height: 80vh; background-image: url('/assets/theme/images/{{ course.course_image }}');\">\n                    <img src=\"{{ course.course_image }}\" style=\"height: 100vh; width: 100vw; object-fit: cover;\">\n                </div>\n                <div class=\"col-md-6 col-sm-12 col-xs-12 display-table wow slideInRight last-paragraph-no-margin\"\n                    data-wow-duration=\"900ms\">\n                    <div\n                        class=\"display-table-cell vertical-align-middle padding-fifteen-all sm-padding-ten-all xs-padding-30px-all sm-text-center\">\n                        <span\n                            class=\"text-medium margin-20px-bottom sm-margin-15px-bottom display-block alt-font xs-margin-15px-bottom\">{{ course.course_category }}</span>\n                        <h4 class=\"alt-font text-deep-gold\">{{ course.course_name }}</h4>\n                        <p class=\"width-80 md-width-100 xs-width-100\">\n                            {{ course.short_description }}\n\n                        </p>\n                        <a href=\"/course/{{course.id}}\"\n                            class=\"btn btn-small btn-deep-gold btn-rounded margin-35px-top sm-margin-25px-top\">More Info</a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"row equalize sm-equalize-auto no-margin\" *ngIf=\"(i%2)===0\">\n\n                <div class=\"col-md-6 col-sm-12 col-xs-12 display-table wow slideInLeft last-paragraph-no-margin\"\n                    data-wow-duration=\"900ms\" style=\"background-image: url('/assets/theme/images/{{course.course_image}}');\">\n                    <div\n                        class=\"display-table-cell vertical-align-middle padding-fifteen-all sm-padding-ten-all xs-padding-30px-all sm-text-center\">\n                        <span\n                            class=\"text-medium margin-20px-bottom sm-margin-15px-bottom display-block alt-font xs-margin-15px-bottom\">{{ course.course_category }}</span>\n                        <h4 class=\"alt-font text-light-gray\">{{ course.course_name }}</h4>\n                        <p class=\"width-80 text-white md-width-100 xs-width-100\">\n                            {{ course.short_description }}\n                        </p>\n                        <a href=\"/course/{{course.id}}\"\n                            class=\"btn btn-small btn-white btn-rounded margin-35px-top sm-margin-25px-top\">More Info</a>\n                    </div>\n                </div>\n                <div class=\"col-md-6 col-sm-12 col-xs-12 position-relative sm-height-550px xs-height-350px cover-background wow slideInRight\"\n                    data-wow-duration=\"900ms\" style=\"height: 80vh;\">\n                    <img src=\"{{ course.course_image }}\" style=\"height: 100vh; object-fit: cover;\">\n                </div>\n            </div>\n        </div>\n    </section>\n</span> -->\n\n<!--================Home Banner Area =================-->\n<section class=\"banner_area\">\n    <div class=\"banner_inner d-flex align-items-center\">\n        <div class=\"overlay bg-parallax\" data-stellar-ratio=\"0.9\" data-stellar-vertical-offset=\"0\" data-background=\"\">\n        </div>\n        <div class=\"container\">\n            <div class=\"banner_content text-center\">\n                <h2>Courses</h2>\n                <div class=\"page_link\">\n                    <a [routerLink]=\"['/home']\">Home</a>\n                    <a [routerLink]=\"['/programs']\">Courses</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n<!--================End Home Banner Area =================-->\n\n<!--================Courses Area =================-->\n<section class=\"courses_area p_120\">\n    <div class=\"container\">\n        <div class=\"main_title\">\n            <h2>Popular Free Courses</h2>\n            <p>There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope.\n                It’s exciting to think about setting up your own viewing station.</p>\n        </div>\n        <div class=\"row courses_inner\">\n            <div class=\"col-lg-9\">\n                <div class=\"grid_inner\">\n                    <div class=\"grid_item wd55\">\n                        <div class=\"courses_item\">\n                            <img src=\"assets/lani/12/graphic-design.png\" alt=\"\">\n                            <div class=\"hover_text\">\n                                <!-- <a class=\"cat\" href=\"#\">Free</a> -->\n                                <a href=\"#\">\n                                    <h4>Design</h4>\n                                </a>\n                                <!-- <ul class=\"list\">\n                                    <li><a href=\"#\"><i class=\"lnr lnr-users\"></i> 355</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-bubble\"></i> 35</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-user\"></i> T. Robert</a></li>\n                                </ul> -->\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"grid_item wd44\">\n                        <div class=\"courses_item\">\n                            <img src=\"assets/lani/12/data-mine.png\" alt=\"\">\n                            <div class=\"hover_text\">\n                                <!-- <a class=\"cat\" href=\"#\">Free</a> -->\n                                <a href=\"#\">\n                                    <h4>Data Science</h4>\n                                </a>\n                                <!-- <ul class=\"list\">\n                                    <li><a href=\"#\"><i class=\"lnr lnr-users\"></i> 355</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-bubble\"></i> 35</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-user\"></i> T. Robert</a></li>\n                                </ul> -->\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"grid_item wd44\">\n                        <div class=\"courses_item\">\n                            <img src=\"assets/lani/12/cyber-security.png\" alt=\"\">\n                            <div class=\"hover_text\">\n                                <!-- <a class=\"cat\" href=\"#\">Free</a> -->\n                                <a href=\"#\">\n                                    <h4>Cyber Security</h4>\n                                </a>\n                                <!-- <ul class=\"list\">\n                                    <li><a href=\"#\"><i class=\"lnr lnr-users\"></i> 355</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-bubble\"></i> 35</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-user\"></i> T. Robert</a></li>\n                                </ul> -->\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"grid_item wd55\">\n                        <div class=\"courses_item\">\n                            <img src=\"assets/lani/12/stem.png\" alt=\"\">\n                            <div class=\"hover_text\">\n                                <!-- <a class=\"cat\" href=\"#\">Free</a> -->\n                                <a href=\"#\">\n                                    <h4 class=\"text-black\">STEM University Pre-Course</h4>\n                                </a>\n                                <!-- <ul class=\"list\">\n                                    <li><a href=\"#\"><i class=\"lnr lnr-users\"></i> 355</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-bubble\"></i> 35</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-user\"></i> T. Robert</a></li>\n                                </ul> -->\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-lg-3\">\n                <div class=\"course_item\">\n                    <img src=\"assets/lani/12/iot.png\" alt=\"\">\n                    <div class=\"hover_text\">\n                        <!-- <a class=\"cat\" href=\"#\">Free</a> -->\n                        <a href=\"#\">\n                            <h4 class=\"text-black\">Internet of Things</h4>\n                        </a>\n                        <!-- <ul class=\"list\">\n                            <li><a href=\"#\"><i class=\"lnr lnr-users\"></i> 355</a></li>\n                            <li><a href=\"#\"><i class=\"lnr lnr-bubble\"></i> 35</a></li>\n                            <li><a href=\"#\"><i class=\"lnr lnr-user\"></i> T. Robert</a></li>\n                        </ul> -->\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n<!--================End Courses Area =================-->\n\n<!--================Pagkages Area =================-->\n<!-- <section class=\"packages_area p_120\">\n    <div class=\"container\">\n        <div class=\"row packages_inner\">\n            <div class=\"col-lg-4\">\n                <div class=\"packages_text\">\n                    <h3>Choose <br />Course Packages</h3>\n                    <p>There is a moment in the life of any aspiring astronomer that it is time to buy that first\n                        telescope. It’s exciting to think about setting up your own viewing station.</p>\n                </div>\n            </div>\n            <div class=\"col-lg-4\">\n                <div class=\"packages_item\">\n                    <div class=\"pack_head\">\n                        <i class=\"lnr lnr-graduation-hat\"></i>\n                        <h3>Premium</h3>\n                        <p>For the individuals</p>\n                    </div>\n                    <div class=\"pack_body\">\n                        <ul class=\"list\">\n                            <li><a href=\"#\">Secure Online Transfer</a></li>\n                            <li><a href=\"#\">Unlimited Styles for interface</a></li>\n                            <li><a href=\"#\">Reliable Customer Service</a></li>\n                        </ul>\n                    </div>\n                    <div class=\"pack_footer\">\n                        <h4>£399.00</h4>\n                        <a class=\"main_btn\" href=\"#\">Join Now</a>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-lg-4\">\n                <div class=\"packages_item\">\n                    <div class=\"pack_head\">\n                        <i class=\"lnr lnr-diamond\"></i>\n                        <h3>Exclusive</h3>\n                        <p>For the individuals</p>\n                    </div>\n                    <div class=\"pack_body\">\n                        <ul class=\"list\">\n                            <li><a href=\"#\">Secure Online Transfer</a></li>\n                            <li><a href=\"#\">Unlimited Styles for interface</a></li>\n                            <li><a href=\"#\">Reliable Customer Service</a></li>\n                        </ul>\n                    </div>\n                    <div class=\"pack_footer\">\n                        <h4>£399.00</h4>\n                        <a class=\"main_btn\" href=\"#\">Join Now</a>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section> -->\n<!--================End Pagkages Area =================-->";
     /***/
   },
 
@@ -171,7 +171,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<section class=\"wow fadeIn no-padding parallax xs-background-image-left\" data-stellar-background-ratio=\"0.5\"\n    style=\"background-image: url('assets/lani/03/hero-inv.webp')\">\n    <div class=\"opacity-extra-medium bg-black\"></div>\n    <div class=\"container-fluid position-relative full-screen\">\n        <div class=\"slider-typography\">\n            <div class=\"slider-text-middle-main\">\n                <div class=\"slider-text-bottom\">\n                    <div\n                        class=\"col-lg-6 col-md-7 col-sm-12 col-xs-12 pull-right bg-deep-gold-opacity padding-six-lr md-padding-seven-lr padding-five-tb xs-padding-30px-all last-paragraph-no-margin\">\n                        <div\n                            class=\"box-separator-line width-180px bg-white md-width-120px sm-width-90px sm-display-none\">\n                        </div>\n                        <h1 class=\"font-weight-600 alt-font text-black width-95 sm-width-100\">We Guarantee the Best\n                            Education</h1>\n                        <p\n                            class=\"text-large font-weight-400 text-black width-75 md-width-85 sm-width-95 xs-width-100 xs-display-none\">\n                            Learn.Impact.Succeed.</p>\n                        <a href=\"admissions\" target=\"_blank\"\n                            class=\"btn btn-medium btn-black margin-40px-top text-link-deep-pink xs-margin-10px-top\">Apply\n                            Today</a>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n\n<section class=\"wow fadeIn \">\n    <div class=\"container\">\n        <div class=\"row equalize sm-equalize-auto\">\n            <div\n                class=\"col-md-5 col-sm-11 col-xs-12 sm-center-col padding-five-right sm-margin-70px-bottom sm-text-center sm-padding-15px-lr xs-margin-50px-bottom wow fadeIn xs-text-center\">\n                <p class=\"alt-font text-deep-gold margin-10px-bottom\">Why Lani Learning?</p>\n                <h5 class=\"alt-font font-weight-600 text-extra-dark-gray\">Learn. Impact. Succeed. </h5>\n                <p>\n                    The IT industry is a progressively evolving sector. Companies have to constantly innovate to ensure\n                    their technologies are current and up to date. This requires continuous investment in trainings\n                    locally and most often abroad, which can be extremely expensive. The inadequacy of skilled personnel\n                    can also be attributed to the slow uptake of the ever-evolving technology by academic syllabi. The\n                    drawback of this is that most IT practitioners lack relevant skills required by Industry to innovate\n                    and solve complex local problems (challenges).\n                </p>\n\n            </div>\n            <div class=\"col-md-7 col-xs-12 sm-no-padding-lr\">\n                <div class=\"padding-seven-lr pull-left sm-no-padding-lr col-2-nth\">\n\n                    <div\n                        class=\"col-md-6 col-sm-6 col-xs-12 margin-30px-bottom sm-text-center wow fadeInUp last-paragraph-no-margin\">\n                        <img src=\"assets/theme/images/Technical Education.png\" height=\"57\" width=\"57\">\n                        <div class=\"alt-font text-extra-dark-gray font-weight-600 margin-5px-bottom\">Quality Technical\n                            Education</div>\n                        <p>We are committed to offering the best quality education backed by the best trainers, a well\n                            researched curriculum to fit the everyday needs taught using the best tried and tested\n                            teaching methods.</p>\n                    </div>\n\n                    <div class=\"col-md-6 col-sm-6 col-xs-12 margin-30px-bottom sm-text-center wow fadeInUp last-paragraph-no-margin\"\n                        data-wow-delay=\"0.2s\">\n                        <img src=\"assets/theme/images/industry based.png\" height=\"57\" width=\"57\">\n                        <div class=\"alt-font text-extra-dark-gray font-weight-600 margin-5px-bottom\">Industry Based\n                            Learning Approach</div>\n                        <p>We use an industry Based Learning approach in which we collaborate with the industry. This\n                            ensures that students not only get a quality technical education but also work on real life\n                            projects and are Technically skilled to solve real life problems in their area of study.</p>\n                    </div>\n\n                    <div class=\"col-md-6 col-sm-6 col-xs-12 wow fadeInUp xs-margin-30px-bottom sm-text-center last-paragraph-no-margin\"\n                        data-wow-delay=\"0.4s\">\n                        <img src=\"assets/theme/images/teacher.jpg\" height=\"57\" width=\"57\">\n                        <div class=\"alt-font text-extra-dark-gray font-weight-600 margin-5px-bottom\">Access to Qualified\n                            and Experienced trainers and mentors</div>\n                        <p>Our trainers are renowned industry practitioners with more than 20 years collective\n                            experience in their respective fields. They have undertaken and successfully completed\n                            research projects and are well trained to offer the best personalized experience for each\n                            student.\n                            We involve mentors in each step of the way, constantly connecting our students to\n                            influential mentors in their career paths.</p>\n                    </div>\n\n                    <div class=\"col-md-6 col-sm-6 col-xs-12 wow fadeInUp last-paragraph-no-margin sm-text-center\"\n                        data-wow-delay=\"0.6s\">\n                        <img class=\"width-50px\" src=\"assets/theme/images/impact image.jpg\" height=\"57\" width=\"57\">\n                        <div class=\"alt-font text-extra-dark-gray font-weight-600 margin-5px-bottom\">Impact Led Learning\n                        </div>\n                        <p>Our learning methods are tailored to encourage our students to develop an application and\n                            practise culture. We support research and development by offering mentorship to our students\n                            and an open door policy to our trainers and other resources that students can take advantage\n                            of.</p>\n                    </div>\n\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n<!-- end section -->\n\n<!-- start section -->\n<section class=\"no-padding wow fadeIn animated\">\n    <div class=\"container-fluid\">\n        <div class=\"row equalize sm-equalize-auto\">\n\n            <div class=\"col-md-3 no-padding cover-background position-relative sm-height-500px xs-height-300px wow fadeIn\"\n                style=\"background: transparent url('assets/theme/images/1.png')\"></div>\n\n            <div class=\"col-md-3 no-padding position-relative bg-extra-dark-gray wow fadeIn sm-text-center\"\n                data-wow-delay=\"0.2s\">\n                <div class=\"display-table width-100 height-100\">\n                    <div\n                        class=\"display-table-cell vertical-align-middle padding-fifteen-all md-padding-ten-all xs-padding-30px-all\">\n                        <div class=\"alt-font text-medium-gray margin-10px-bottom\">How are we unique?</div>\n                        <div\n                            class=\"alt-font text-extra-large margin-20px-bottom text-white width-90 md-width-100 xs-margin-15px-bottom\">\n                            Reinventing Education for the Future of work</div>\n                        <p>Over the past 100 years, alot of areas in life have been revolutionized but education is\n                            not one of them. Historically, higher education has avoided competitive disruption. One\n                            reason for this past immunity is the power of prestige in the higher education\n                            marketplace, where the quality of the product is hard to measure. At Ubunifu Our focus\n                            is to graduate all students innovation ready, ready to solve problems creatively. </p>\n\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"col-md-3 no-padding cover-background position-relative sm-height-500px xs-height-300px wow fadeIn\"\n                data-wow-delay=\"0.4s\" style=\"background: transparent url('assets/theme/images/2.png')\"></div>\n\n            <div class=\"col-md-3 no-padding position-relative bg-extra-dark-gray wow fadeIn sm-text-center\"\n                data-wow-delay=\"0.6s\">\n                <div class=\"display-table width-100 height-100\">\n                    <div\n                        class=\"display-table-cell vertical-align-middle padding-fifteen-all md-padding-ten-all xs-padding-30px-all\">\n\n                        <div\n                            class=\"alt-font text-extra-large margin-20px-bottom text-white width-90 md-width-100 xs-margin-15px-bottom\">\n                            Here we build dreams.</div>\n                        <p>We not only focus about the creation of knowledge, we focus on how that knowledge will\n                            actually impact student's lives and make their lives better. When you join Ubunifu\n                            College we ask you \"What problem do you want to solve with the knowledge you are about\n                            to acquire?\" then our job for the time you will be at the institution will be to help\n                            you meet your goals & dreams. After your studies we will take you through an\n                            Entrepreneurship & Innovation class to help you launch your startup. </p>\n\n                    </div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n</section>\n\n<section class=\"wow fadeIn\">\n    <div class=\"container\">\n        <div class=\"row text-center\">\n            <div class=\"col-md-12\">\n                <div class=\"alt-font margin-5px-bottom text-uppercase text-small text-medium-gray\">What We Offer\n                </div>\n                <h5\n                    class=\"text-uppercase alt-font text-extra-dark-gray margin-20px-bottom font-weight-700 sm-width-100 xs-width-100\">\n                    Our Programs</h5>\n                <span\n                    class=\"separator-line-horrizontal-medium-light2 bg-deep-gold display-table margin-auto width-100px\"></span>\n            </div>\n            <div class=\"col-md-12 margin-100px-top sm-margin-70px-top xs-margin-50px-top no-padding-lr\">\n\n                <div\n                    class=\"col-md-4 col-sm-4 col-xs-12 team-block text-center feature-box-15 xs-margin-40px-bottom last-paragraph-no-margin wow fadeInUp\">\n                    <figure>\n                        <div class=\"feature-box-content xs-width-100\">\n                            <div class=\"feature-box-image\"><img src=\"assets/theme/images/AI.png\" alt=\"\" height=\"1000\"\n                                    width=\"1500\"></div>\n                            <div class=\"hover-content bg-deep-gold\">\n                                <div class=\"display-table height-100 width-100\">\n                                    <a href=\"/course/1\">\n                                        <div class=\"vertical-align-middle display-table-cell padding-twelve-lr\">\n                                            <span class=\"text-white display-inline-block text-center\">They include;\n                                                Software Development Fundamentals with ML, Mobile App development with\n                                                ML & Fundamentals of Data Science.</span>\n                                        </div>\n                                    </a>\n                                </div>\n                            </div>\n                        </div>\n                        <figcaption>\n                            <div class=\"text-center margin-25px-top\">\n                                <div><a class=\"text-extra-dark-gray alt-font font-weight-800\" href=\"course/1\">AI and\n                                        ML</a></div>\n                                <p class=\"text-deep-gold\">10 Weeks Hands-on</p>\n                            </div>\n                        </figcaption>\n                    </figure>\n                </div>\n\n                <div class=\"col-md-4 col-sm-4 col-xs-12 team-block text-center feature-box-15 xs-margin-40px-bottom last-paragraph-no-margin wow fadeInUp\"\n                    data-wow-delay=\"0.2s\">\n                    <figure>\n                        <div class=\"feature-box-content xs-width-100\">\n                            <div class=\"feature-box-image\"><img src=\"assets/theme/images/digital_advertising.png\" alt=\"\"\n                                    height=\"1000\" width=\"1500\"></div>\n                            <div class=\"hover-content bg-deep-gold\">\n                                <div class=\"display-table height-100 width-100\">\n                                    <div class=\"vertical-align-middle display-table-cell padding-twelve-lr\">\n                                        <span class=\"text-white display-inline-block text-center\">They include\n                                            Full-Stack software Development with ML, Data Science, Blockchain and\n                                            Robotics.</span>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                        <figcaption>\n                            <div class=\"text-center margin-25px-top\">\n                                <div><a class=\"text-extra-dark-gray alt-font font-weight-800\"\n                                        href=\"professional-courses.htm\">Digital Advertising</a></div>\n                                <p class=\"text-deep-gold\">8 Saturdays Hands-on</p>\n                            </div>\n                        </figcaption>\n                    </figure>\n                </div>\n\n                <div class=\"col-md-4 col-sm-4 col-xs-12 team-block text-center feature-box-15 last-paragraph-no-margin wow fadeInUp\"\n                    data-wow-delay=\"0.6s\">\n                    <figure>\n                        <div class=\"feature-box-content xs-width-100\">\n                            <div class=\"feature-box-image\"><img src=\"assets/theme/images/IOT.png\" alt=\"\" height=\"1000\"\n                                    width=\"1500\"></div>\n                            <div class=\"hover-content bg-deep-gold\">\n                                <div class=\"display-table height-100 width-100\">\n                                    <div class=\"vertical-align-middle display-table-cell padding-twelve-lr\">\n                                        <span class=\"text-white display-inline-block text-center\">This is a 2 year 6\n                                            months course that includes; Fundamentals of Computer Science, Full\n                                            Stack software development, Mobile App development, Machine Learning,\n                                            Deep Learning, Data Science, Blockchain & Robotics</span>\n                                    </div>\n                                </div>\n                            </div>\n                        </div>\n                        <figcaption>\n                            <div class=\"text-center margin-25px-top\">\n                                <div><a class=\"text-extra-dark-gray alt-font font-weight-800\"\n                                        href=\"nanodegree.htm\">Internet of Things</a></div>\n                                <p class=\"text-deep-gold\">8 Weeks Hands-on</p>\n                            </div>\n                        </figcaption>\n                    </figure>\n                </div>\n\n\n            </div>\n        </div>\n    </div>\n</section>\n\n<!-- <section class=\"bg-light-gray wow fadeIn animated\">\n    <div class=\"container\">\n        <div class=\"row\">\n\n            <div\n                class=\"col-md-3 col-sm-6 col-xs-12 sm-margin-seven-bottom xs-margin-40px-bottom wow fadeInRight last-paragraph-no-margin\">\n                <img class=\"pull-left width-50px\" src=\"assets/theme/images/laptop.svg\">\n                <div class=\"feature-box-6 position-relative\">\n\n                    <div class=\"alt-font text-extra-dark-gray font-weight-600 line-height-20\">Free Laptop</div>\n                    <p class=\"line-height-20\">Free linux computer for Professional & Nanodegree programs students\n                    </p>\n                </div>\n            </div>\n\n            <div class=\"col-md-3 col-sm-6 col-xs-12 sm-margin-seven-bottom xs-margin-40px-bottom wow fadeInRight last-paragraph-no-margin\"\n                data-wow-delay=\"0.2s\">\n                <img class=\"pull-left width-50px\" src=\"assets/theme/images/pizza.svg\">\n                <div class=\"feature-box-6 position-relative\">\n\n                    <div class=\"alt-font text-extra-dark-gray font-weight-600 line-height-20\">Coffee & Lunch</div>\n                    <p class=\"line-height-20\">Professionally cooked meals provided at the campus</p>\n                </div>\n            </div>\n\n            <div class=\"col-md-3 col-sm-6 col-xs-12 xs-margin-40px-bottom wow fadeInRight last-paragraph-no-margin\"\n                data-wow-delay=\"0.4s\">\n                <img class=\"pull-left width-50px\" src=\"assets/theme/images/bed.svg\">\n                <div class=\"feature-box-6 position-relative\">\n\n                    <div class=\"alt-font text-extra-dark-gray font-weight-600 line-height-20\">Students Accommodation\n                    </div>\n                    <p class=\"line-height-20\">We have partnered with Qwetu living to offer student hostel for anyone\n                        from anywhere</p>\n                </div>\n            </div>\n\n            <div class=\"col-md-3 col-sm-6 col-xs-12 wow fadeInRight last-paragraph-no-margin\" data-wow-delay=\"0.6s\">\n                <img class=\"pull-left width-50px\" src=\"assets/theme/images/wallet.svg\">\n                <div class=\"feature-box-6 position-relative\">\n\n                    <div class=\"alt-font text-extra-dark-gray font-weight-600 line-height-20\">Affordable</div>\n                    <p class=\"line-height-20\">We are available at a fraction of the cost. Start coding at as low as\n                        KES. 30,000 ($300)</p>\n                </div>\n            </div>\n\n        </div>\n    </div>\n</section> -->\n\n<section class=\"wow fadeIn no-padding main-slider mobile-height content-right-slider\">\n    <div class=\"container-fluid\">\n        <div class=\"row equalize sm-equalize-auto\">\n            <div class=\"col-md-6 cover-background sm-height-500px xs-height-350px wow fadeIn\"\n                style=\"background-image:url('assets/theme/images/backmain.png')\"></div>\n            <div\n                class=\"swiper-full-screen swiper-container col-md-6 no-padding-lr white-move bg-extra-dark-gray text-center xs-padding-20px-tb wow fadeIn\">\n                <div class=\"swiper-wrapper\">\n\n                    <div class=\"swiper-slide last-paragraph-no-margin\">\n                        <div\n                            class=\"padding-eighteen-all md-padding-eight-all sm-padding-thirteen-all xs-padding-15px-lr\">\n                            <div class=\"margin-30px-bottom text-center position-relative\">\n                                <span class=\"title-large alt-font font-weight-100 text-dark-gray opacity4\">01</span>\n                                <p\n                                    class=\"alt-font font-weight-600 text-deep-gold text-uppercase position-absolute left-0 right-0 top-35 sm-top-25 xs-top-12\">\n                                    Join the revolution</p>\n                            </div>\n                            <h4 class=\"alt-font text-white\">How we work</h4>\n                            <p class=\"width-90 sm-width-95 xs-width-85 center-col\">After registration, Our\n                                admissions team will contact you to schedule a personal interview and make sure we\n                                can help you meet your goals. After the personal interview, you will be required to\n                                pay a deposit then you can start. </p>\n                            <!-- <a [routerLink]=\"['/admissions']\" class=\"btn btn-small btn-white margin-35px-top\">Apply\n                                Now</a> -->\n                        </div>\n                    </div>\n\n                    <div class=\"swiper-slide last-paragraph-no-margin\">\n                        <div\n                            class=\"padding-eighteen-all md-padding-eight-all sm-padding-thirteen-all xs-padding-15px-lr\">\n                            <div class=\"margin-30px-bottom text-center position-relative\">\n                                <span class=\"title-large alt-font font-weight-100 text-dark-gray opacity4\">02</span>\n                                <p\n                                    class=\"alt-font font-weight-600 text-deep-gold text-uppercase position-absolute left-0 right-0 top-35 sm-top-25 xs-top-12\">\n                                    How do we evaluate success?</p>\n                            </div>\n                            <h4 class=\"alt-font text-white\">No Exams!</h4>\n                            <p class=\"width-90 sm-width-95 xs-width-85 center-col\">How do we evaluate success? We\n                                parameterize behavior psychology. we are looking at the dawn of a new era & learning\n                                science where behavioral interventions that actually work could move up education\n                                outcomes. Instead of Examinations, we introduced weekly project presentation &\n                                evaluation known as <b>Hustlers' Friday</b> </p>\n                            <!-- <a [routerLink]=\"['/admissions']\" class=\"btn btn-small btn-white margin-35px-top\">Apply\n                                Now</a> -->\n                        </div>\n                    </div>\n\n                </div>\n\n                <div class=\"swiper-button-next slider-long-arrow-white\"></div>\n                <div class=\"swiper-button-prev slider-long-arrow-white\"></div>\n\n            </div>\n        </div>\n    </div>\n</section>\n\n<section class=\"wow fadeIn padding-60px-tb sm-padding-40px-tb bg-deep-gold\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-12 col-sm-12 center-col position-relative text-center\">\n                <span\n                    class=\"text-extra-large text-white alt-font display-inline-block margin-5px-top margin-30px-right xs-no-margin-right xs-no-margin-top xs-margin-15px-bottom xs-width-100\">For\n                    enquiries.</span>\n                <link href=\"https://assets.calendly.com/assets/external/widget.css\" rel=\"stylesheet\">\n                <script src=\"https://assets.calendly.com/assets/external/widget.js\" type=\"text/javascript\"></script>\n                <!-- <a href=\"tel:+254707760797\"\n                    onclick=\"Calendly.initPopupWidget({url:`https://calendly.com/ubunifuschool`});return false;\"\n                    target=\"_blank\"\n                    class=\"btn btn-white btn-medium vertical-align-top xs-no-margin-right btn-rounded\">Book a call<i\n                        class=\"fas fa-phone\"></i></a> -->\n                <a href=\"tel:+254707760797\" class=\"btn btn-white btn-medium vertical-align-top xs-no-margin-right btn-rounded\">Book a call<i\n                        class=\"fas fa-phone\"></i></a>\n            </div>\n        </div>\n    </div>\n</section>\n\n<!-- <section id=\"services\" class=\"bg-light-gray wow fadeIn\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <div\n                class=\"col-lg-6 col-md-6 col-sm-8 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center last-paragraph-no-margin\">\n                <h6 class=\"alt-font font-weight-700 text-extra-dark-gray text-uppercase margin-15px-bottom\">Other\n                    Skills we offer that matter most in this new economy</h6>\n                <p class=\"no-margin-bottom\">There are set of core competencies every young person must be well on\n                    the way to mastering not just to get and keep a good job but equally important to be a life long\n                    learner and to be an active and informed innovator</p>\n            </div>\n        </div>\n\n    </div>\n\n    <section class=\"bg-light-gray border-none no-padding wow fadeIn\">\n        <div class=\"container-fluid\">\n            <div class=\"row equalize sm-equalize-auto\">\n                <div class=\"col-md-6 col-sm-12 col-xs-12 display-table wow fadeInLeft\">\n                    <div\n                        class=\"display-table-cell-vertical-middle padding-ten-all md-padding-five-all sm-padding-six-all xs-padding-50px-tb xs-no-padding-lr\">\n                        <div class=\"panel-group accordion-style2\" id=\"accordion\">\n\n                            <div class=\"panel panel-default\">\n                                <div class=\"panel-heading\">\n                                    <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\"\n                                        href=\"index.htm#collapseOne\">\n                                        <div class=\"panel-title\">\n                                            <span class=\"alt-font font-weight-600 text-deep-gold tab-tag\">01</span>\n                                            <span class=\"text-extra-dark-gray xs-width-80 display-inline-block\">Critical\n                                                thinking and problem-solving</span>\n                                            <i class=\"fas fa-angle-up pull-right text-extra-dark-gray \"></i>\n                                        </div>\n                                    </a>\n                                </div>\n                                <div id=\"collapseOne\" class=\"panel-collapse collapse in\">\n                                    <div class=\"panel-body\">In todays economy, in order to win you need to think\n                                        continuously about how to improve your product, your process or your service\n                                        - to be a problem solver</div>\n                                </div>\n                            </div>\n\n                            <div class=\"panel panel-default\">\n                                <div class=\"panel-heading\">\n                                    <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\"\n                                        href=\"index.htm#collapseTwo\">\n                                        <div class=\"panel-title\">\n                                            <span class=\"alt-font font-weight-600 text-deep-gold tab-tag\">02</span>\n                                            <span\n                                                class=\"text-extra-dark-gray xs-width-80 display-inline-block\">Collaborations\n                                                & leading by influence</span>\n                                            <i class=\"indicator fas fa-angle-down pull-right text-extra-dark-gray \"></i>\n                                        </div>\n                                    </a>\n                                </div>\n                                <div id=\"collapseTwo\" class=\"panel-collapse collapse\">\n                                    <div class=\"panel-body\">\n                                        Increasingly all work in todays economy is done collaboratively more and\n                                        more infact are being done virtually. More companies eg IBM when they have a\n                                        new problem\n                                        to solve, a new client they quite intentionally create a team from their\n                                        different centres around the world that work virtually because they want to\n                                        create\n                                        solutions that will work in more than one culture or country but the way\n                                        those teams are led is profoundly different. They are no longer led by\n                                        supervisors telling\n                                        people what to do, they are led by peers throung influence and they are an\n                                        incredibly diverse team so you must have a deep appreciation for differences\n                                        as you\n                                        lead your peers through influence\n\n                                    </div>\n\n\n                                </div>\n                            </div>\n\n                            <div class=\"panel panel-default\">\n                                <div class=\"panel-heading\">\n                                    <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\"\n                                        href=\"index.htm#collapseThree\">\n                                        <div class=\"panel-title\">\n                                            <span class=\"alt-font font-weight-600 text-deep-gold tab-tag\">03</span>\n                                            <span class=\"text-extra-dark-gray xs-width-80 display-inline-block\">Agility\n                                                and adaptability</span>\n                                            <i class=\"indicator fas fa-angle-down pull-right text-extra-dark-gray \"></i>\n                                        </div>\n                                    </a>\n                                </div>\n                                <div id=\"collapseThree\" class=\"panel-collapse collapse\">\n                                    <div class=\"panel-body\">\n                                        The pace of todays economy has changed and the complexity of problems simply\n                                        demands that we be far more agile and adaptable\n                                    </div>\n\n\n                                </div>\n                            </div>\n\n                            <div class=\"panel panel-default\">\n                                <div class=\"panel-heading\">\n                                    <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\"\n                                        href=\"index.htm#collapseFour\">\n                                        <div class=\"panel-title\">\n                                            <span class=\"alt-font font-weight-600 text-deep-gold tab-tag\">04</span>\n                                            <span class=\"text-extra-dark-gray xs-width-80 display-inline-block\">Efective\n                                                oral & written communication</span>\n                                            <i class=\"indicator fas fa-angle-down pull-right text-extra-dark-gray \"></i>\n                                        </div>\n                                    </a>\n                                </div>\n                                <div id=\"collapseFour\" class=\"panel-collapse collapse\">\n                                    <div class=\"panel-body\">\n\n                                        You know why most graduates dont know how to write? because they dont know\n                                        how to think, they dont know how to reason and that is only half the\n                                        problem. The main\n                                        problem is that they do not know how to write with voice meaning to put\n                                        their own passion and perspective into their communication so as to be\n                                        persuasive\n\n\n                                    </div>\n                                </div>\n                            </div>\n\n                            <div class=\"panel panel-default\">\n                                <div class=\"panel-heading\">\n                                    <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\"\n                                        href=\"index.htm#collapseFive\">\n                                        <div class=\"panel-title\">\n                                            <span class=\"alt-font font-weight-600 text-deep-gold tab-tag\">05</span>\n                                            <span class=\"text-extra-dark-gray xs-width-80 display-inline-block\">Accesing\n                                                & Analyzing information.</span>\n                                            <i class=\"indicator fas fa-angle-down pull-right text-extra-dark-gray \"></i>\n                                        </div>\n                                    </a>\n                                </div>\n                                <div id=\"collapseFive\" class=\"panel-collapse collapse\">\n                                    <div class=\"panel-body\">\n                                        Know how to do an effective research, how to ask a good question and analyze\n                                        and evaluate the results then apply them to a problem they are solving or\n                                        something they are trying to understand\n\n                                    </div>\n                                </div>\n                            </div>\n\n                            <div class=\"panel panel-default\">\n                                <div class=\"panel-heading\">\n                                    <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\"\n                                        href=\"index.htm#collapseSix\">\n                                        <div class=\"panel-title\">\n                                            <span class=\"alt-font font-weight-600 text-deep-gold tab-tag\">06</span>\n                                            <span\n                                                class=\"text-extra-dark-gray xs-width-80 display-inline-block\">Curiosity\n                                                and imagination</span>\n                                            <i class=\"indicator fas fa-angle-down pull-right text-extra-dark-gray \"></i>\n                                        </div>\n                                    </a>\n                                </div>\n                                <div id=\"collapseSix\" class=\"panel-collapse collapse\">\n                                    <div class=\"panel-body\">\n\n                                        The right brain skills being increasingly important in a more sophisticated\n                                        consumer economy where we are demanding more beautiful products and\n                                        empathetic services\n                                        This is very important in the innovation economy where we need to graduate\n                                        all students innovation ready, ready to solve problems creatively and the\n                                        bedrock of\n                                        that capacity to be a creative problem solver is curiosity and immagination\n\n                                    </div>\n                                </div>\n                            </div>\n\n                            <div class=\"panel panel-default\">\n                                <div class=\"panel-heading\">\n                                    <a class=\"accordion-toggle\" data-toggle=\"collapse\" data-parent=\"#accordion\"\n                                        href=\"index.htm#collapseSeven\">\n                                        <div class=\"panel-title\">\n                                            <span class=\"alt-font font-weight-600 text-deep-gold tab-tag\">07</span>\n                                            <span\n                                                class=\"text-extra-dark-gray xs-width-80 display-inline-block\">Initiative\n                                                in Entrepreneularship</span>\n                                            <i class=\"indicator fas fa-angle-down pull-right text-extra-dark-gray \"></i>\n                                        </div>\n                                    </a>\n                                </div>\n                            </div>\n\n                        </div>\n                    </div>\n                </div>\n                <div class=\"col-md-6 col-sm-12 col-xs-12 position-relative sm-height-500px xs-height-350px cover-background wow fadeInRight\"\n                    style=\"background-image: url('images/back50.jpg');\">\n                    <div class=\"opacity-extra-medium bg-extra-dark-gray\"></div>\n                    <div\n                        class=\"bg-deep-gold width-50 text-center text-white padding-ten-all absolute-middle-center z-index-5 md-width-70 xs-width-85 xs-padding-twelve-tb xs-padding-five-lr\">\n                        <span\n                            class=\"special-char-medium text-white absolute-middle-center top-0 position-absolute fas fa-quote-left\"></span>\n                        <h6 class=\"font-weight-300 no-margin-bottom\">The culture of developing the capacity to\n                            innovate is our mission at Ubunifu</h6>\n                    </div>\n                </div>\n\n\n\n            </div>\n\n\n        </div>\n\n\n    </section>\n\n\n\n</section> -->\n\n<section class=\"bg-light-gray\">\n    <div class=\"container \">\n        <div class=\"row\">\n            <div\n                class=\"col-lg-6 col-md-6 col-sm-8 col-xs-12 center-col margin-eight-bottom sm-margin-40px-bottom xs-margin-30px-bottom text-center last-paragraph-no-margin\">\n                <h5 class=\"alt-font font-weight-700 text-extra-dark-gray margin-20px-bottom text-uppercase\">Our Patners\n                </h5>\n\n            </div>\n        </div>\n        <div class=\"row \">\n            <owl-carousel-o [options]=\"customOptions\">\n\n                <!-- <ng-template carouselSlide class=\"col-md-4 col-sm-6 col-xs-12 wow fadeInUp\"> -->\n                <ng-template carouselSlide class=\"wow fadeInUp\">\n                    <div class=\"bg-white clients-list text-center display-table width-100 margin-30px-bottom\">\n                        <div class=\"display-table-cell vertical-align-middle\">\n                            <a href=\"https://www.mksu.ac.ke/\"><img class=\"width-150px\"\n                                    src=\"assets/theme/images/machakos.png\" alt=\"\" style=\"height: 159px !important; width: 159px !important;\" height=\"159\" width=\"225\"/></a>\n                        </div>\n                    </div>\n                </ng-template>\n\n                <ng-template carouselSlide class=\"wow fadeInUp\">\n                    <div class=\"bg-white clients-list text-center display-table width-100 margin-30px-bottom\">\n                        <div class=\"display-table-cell vertical-align-middle\">\n                            <a href=\"https://www.cwd.co.ke/\"><img class=\"width-150px\"\n                                    src=\"assets/theme/images/CWD logo.png\" alt=\"\" style=\"height: 159px !important; width: 159px !important;\" height=\"159\" width=\"159\"/></a>\n                        </div>\n                    </div>\n                </ng-template>\n\n                <ng-template carouselSlide class=\"wow fadeInUp\" data-wow-delay=\"0.2s\">\n                    <div class=\"bg-white clients-list text-center display-table width-100 margin-30px-bottom\">\n                        <div class=\"display-table-cell vertical-align-middle\">\n                            <a href=\"https://cyberspeaklc.com/\"><img src=\"assets/theme/images/cyberspeak.png\"\n                                    alt=\"\" /></a>\n                        </div>\n                    </div>\n                </ng-template>\n\n                <ng-template carouselSlide class=\"wow fadeInUp\" data-wow-delay=\"0.2s\">\n                    <div class=\"bg-white clients-list text-center display-table width-100 margin-30px-bottom\">\n                        <div class=\"display-table-cell vertical-align-middle\">\n                            <a href=\"https://www.duaraanalytics.com/\"><img\n                                    src=\"assets/theme/images/Duara Analytics Logo.webp\" alt=\"\" /></a>\n                        </div>\n                    </div>\n                </ng-template>\n\n                <ng-template carouselSlide class=\"wow fadeInUp\" data-wow-delay=\"0.2s\">\n                    <div class=\"bg-white clients-list text-center display-table width-100 margin-30px-bottom\">\n                        <div class=\"display-table-cell vertical-align-middle\">\n                            <a href=\"https://dibon.co.ke/\"><img src=\"assets/theme/images/dibon.png\" alt=\"\" /></a>\n                        </div>\n                    </div>\n                </ng-template>\n\n                <ng-template carouselSlide class=\"wow fadeInUp\" data-wow-delay=\"0.2s\">\n                    <div class=\"bg-white clients-list text-center display-table width-100 margin-30px-bottom\">\n                        <div class=\"display-table-cell vertical-align-middle\">\n                            <a href=\"https://www.riarauniversity.ac.ke/\"><img\n                                    src=\"assets/theme/images/SC-logo-white.jpg\" alt=\"\" /></a>\n                        </div>\n                    </div>\n                </ng-template>\n\n                <ng-template carouselSlide class=\"wow fadeInUp\" data-wow-delay=\"0.2s\">\n                    <div class=\"bg-white clients-list text-center display-table width-100 margin-30px-bottom\">\n                        <div class=\"display-table-cell vertical-align-middle\">\n                            <a href=\"https://www.emobilis.ac.ke/\"><img src=\"assets/theme/images/emobilislogo.jpg\"\n                                    alt=\"\" /></a>\n                        </div>\n                    </div>\n                </ng-template>\n\n            </owl-carousel-o>\n        </div>\n    </div>\n</section>";
+    __webpack_exports__["default"] = "<!--================Home Banner Area =================-->\n<section class=\"home_banner_area\">\n    <div class=\"banner_inner d-flex align-items-center\">\n        <div class=\"overlay bg-parallax\" data-stellar-ratio=\"0.9\" data-stellar-vertical-offset=\"0\" data-background=\"\">\n        </div>\n        <div class=\"container\">\n            <div class=\"banner_content text-center\">\n                <h3>We Ensure better education <br />for a better world</h3>\n                <p>Learn.Impact.Succeed.</p>\n                <a class=\"main_btn\" href=\"#\">Learn More</a>\n            </div>\n        </div>\n    </div>\n</section>\n<!--================End Home Banner Area =================-->\n\n<!--================Finance Area =================-->\n<section class=\"finance_area\">\n    <div class=\"container\">\n        <div class=\"finance_inner row\">\n            <div class=\"col-lg-3 col-sm-6\">\n                <div class=\"finance_item\">\n                    <div class=\"media\">\n                        <div class=\"d-flex\">\n                            <i class=\"lnr lnr-rocket\"></i>\n                        </div>\n                        <div class=\"media-body\">\n                            <h5>Internet & <br />of Things</h5>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-lg-3 col-sm-6\">\n                <div class=\"finance_item\">\n                    <div class=\"media\">\n                        <div class=\"d-flex\">\n                            <i class=\"lnr lnr-earth\"></i>\n                        </div>\n                        <div class=\"media-body\">\n                            <h5>AI & <br />ML</h5>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-lg-3 col-sm-6\">\n                <div class=\"finance_item\">\n                    <div class=\"media\">\n                        <div class=\"d-flex\">\n                            <i class=\"lnr lnr-smile\"></i>\n                        </div>\n                        <div class=\"media-body\">\n                            <h5>STEM University<br />Pre-Course</h5>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-lg-3 col-sm-6\">\n                <div class=\"finance_item\">\n                    <div class=\"media\">\n                        <div class=\"d-flex\">\n                            <i class=\"lnr lnr-tag\"></i>\n                        </div>\n                        <div class=\"media-body\">\n                            <h5>Design <br />Thinking</h5>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n<!--================End Finance Area =================-->\n\n<!--================Courses Area =================-->\n<section class=\"courses_area p_120\">\n    <div class=\"container\">\n        <div class=\"main_title\">\n            <h2>Popular Free Courses</h2>\n            <p>There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope.\n                It’s exciting to think about setting up your own viewing station.</p>\n        </div>\n        <div class=\"row courses_inner\">\n            <div class=\"col-lg-9\">\n                <div class=\"grid_inner\">\n                    <div class=\"grid_item wd55\">\n                        <div class=\"courses_item\">\n                            <img src=\"assets/lani/12/graphic-design.png\" alt=\"\">\n                            <div class=\"hover_text\">\n                                <!-- <a class=\"cat\" href=\"#\">Free</a> -->\n                                <a href=\"#\">\n                                    <h4>Design</h4>\n                                </a>\n                                <!-- <ul class=\"list\">\n                                    <li><a href=\"#\"><i class=\"lnr lnr-users\"></i> 355</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-bubble\"></i> 35</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-user\"></i> T. Robert</a></li>\n                                </ul> -->\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"grid_item wd44\">\n                        <div class=\"courses_item\">\n                            <img src=\"assets/lani/12/data-mine.png\" alt=\"\">\n                            <div class=\"hover_text\">\n                                <!-- <a class=\"cat\" href=\"#\">Free</a> -->\n                                <a href=\"#\">\n                                    <h4>Data Science</h4>\n                                </a>\n                                <!-- <ul class=\"list\">\n                                    <li><a href=\"#\"><i class=\"lnr lnr-users\"></i> 355</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-bubble\"></i> 35</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-user\"></i> T. Robert</a></li>\n                                </ul> -->\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"grid_item wd44\">\n                        <div class=\"courses_item\">\n                            <img src=\"assets/lani/12/cyber-security.png\" alt=\"\">\n                            <div class=\"hover_text\">\n                                <!-- <a class=\"cat\" href=\"#\">Free</a> -->\n                                <a href=\"#\">\n                                    <h4>Cyber Security</h4>\n                                </a>\n                                <!-- <ul class=\"list\">\n                                    <li><a href=\"#\"><i class=\"lnr lnr-users\"></i> 355</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-bubble\"></i> 35</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-user\"></i> T. Robert</a></li>\n                                </ul> -->\n                            </div>\n                        </div>\n                    </div>\n                    <div class=\"grid_item wd55\">\n                        <div class=\"courses_item\">\n                            <img src=\"assets/lani/12/stem.png\" alt=\"\">\n                            <div class=\"hover_text\">\n                                <!-- <a class=\"cat\" href=\"#\">Free</a> -->\n                                <a href=\"#\">\n                                    <h4 class=\"text-black\">STEM University Pre-Course</h4>\n                                </a>\n                                <!-- <ul class=\"list\">\n                                    <li><a href=\"#\"><i class=\"lnr lnr-users\"></i> 355</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-bubble\"></i> 35</a></li>\n                                    <li><a href=\"#\"><i class=\"lnr lnr-user\"></i> T. Robert</a></li>\n                                </ul> -->\n                            </div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"col-lg-3\">\n                <div class=\"course_item\">\n                    <img src=\"assets/lani/12/iot.png\" alt=\"\">\n                    <div class=\"hover_text\">\n                        <!-- <a class=\"cat\" href=\"#\">Free</a> -->\n                        <a href=\"#\">\n                            <h4 class=\"text-black\">Internet of Things</h4>\n                        </a>\n                        <!-- <ul class=\"list\">\n                            <li><a href=\"#\"><i class=\"lnr lnr-users\"></i> 355</a></li>\n                            <li><a href=\"#\"><i class=\"lnr lnr-bubble\"></i> 35</a></li>\n                            <li><a href=\"#\"><i class=\"lnr lnr-user\"></i> T. Robert</a></li>\n                        </ul> -->\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>\n<!--================End Courses Area =================-->";
     /***/
   },
 
@@ -211,7 +211,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<footer class=\"footer-standard-dark bg-extra-dark-gray\">\n    <div class=\"footer-widget-area padding-five-tb xs-padding-30px-tb\">\n        <div class=\"container\">\n            <div class=\"row equalize xs-equalize-auto\">\n                <div\n                    class=\"col-md-5 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray sm-no-border-right sm-margin-30px-bottom xs-text-center\">\n\n                    <a [routerLink]=\"['/']\" class=\"margin-20px-bottom display-inline-block\"><img\n                            class=\"footer-logo\" src=\"assets/lani/04/logo-white.png\" data-rjs=\"assets/lani/04/logo-white.png\"\n                            alt=\"Pofo\"></a>\n\n                    <p class=\"text-small width-95 xs-width-100\">Learn. Impact. Succeed</p>\n\n                    <div class=\"social-icon-style-8 display-inline-block vertical-align-middle\">\n                        <ul class=\"small-icon no-margin-bottom\">\n                            <li><a class=\"instagram text-white\" href=\"https://www.instagram.com/lanilearning/\"\n                                    target=\"_blank\"><i class=\"fab fa-instagram no-margin-right\"\n                                        aria-hidden=\"true\"></i></a></li>\n                            <li><a class=\"twitter text-white\" href=\"https://twitter.com/lani_learning\"\n                                    target=\"_blank\"><i class=\"fab fa-twitter\"></i></a></li>\n                            <li><a class=\"facebook text-white\" href=\"https://www.facebook.com/ubunifucollege\"\n                                    target=\"_blank\"><i class=\"fab fa-facebook-f\" aria-hidden=\"true\"></i></a></li>\n                            <li><a class=\"google text-white\" href=\"https://www.linkedin.com/company/ubunifucollege\"\n                                    target=\"_blank\"><i class=\"fab fa-linkedin-in\"></i></a></li>\n                        </ul>\n\n                    </div>\n\n                </div>\n\n                <!-- <div\n                    class=\"col-md-3 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray padding-45px-left sm-padding-15px-left sm-no-border-right sm-margin-30px-bottom xs-text-center\">\n                    <div\n                        class=\"widget-title alt-font text-small text-white text-uppercase margin-10px-bottom font-weight-600\">\n                        Information</div>\n                    <ul class=\"list-unstyled\">\n\n                        <li><a class=\"text-small\" href=\"partners.htm\">Founding Partners</a></li>\n                        <li><a class=\"text-small\" href=\"referral.htm\">Referral Program</a></li>\n                        <li><a class=\"text-small\" href=\"hire.htm\">Hire from Ubunifu</a></li>\n                        <li><a class=\"text-small\" href=\"career.htm\">Career</a></li>\n                        <li><a class=\"text-small\" href=\"code-of-conduct.htm\">Code of conduct</a></li>\n                        <li><a class=\"text-small\" href=\"apprenticeship.htm\">Apprenticeship</a></li>\n\n\n\n                    </ul>\n                </div> -->\n\n                <div\n                    class=\"col-md-4 col-sm-6 col-xs-12 widget border-right border-color-medium-dark-gray padding-45px-left sm-padding-15px-left sm-clear-both sm-no-border-right  xs-margin-30px-bottom xs-text-center\">\n                    <div\n                        class=\"widget-title alt-font text-small text-white text-uppercase margin-10px-bottom font-weight-600\">\n                        Contact Info</div>\n                    <p class=\"text-small display-block margin-15px-bottom width-80 xs-center-col\">Riara University<br>Mbagathi way - Nairobi Kenya</p>\n                    <div class=\"text-small\">Email: <a href=\"mailto:admin@lanilearning.com\">admin@lanilearning.com</a>\n                    </div>\n                    <div class=\"text-small\">Phone: (+254)707 760 797</div>\n                    <a [routerLink]=\"['/contact']\" class=\"text-small text-white text-uppercase text-decoration-underline\">View\n                        Direction</a>\n                </div>\n\n                <div class=\"col-md-3 col-sm-6 col-xs-12 widget padding-45px-left sm-padding-15px-left xs-text-center\">\n                    <div\n                        class=\"widget-title alt-font text-small text-white text-uppercase margin-20px-bottom font-weight-600\">\n                        Instagram portfolio</div>\n                    <div class=\"instagram-follow-api\">\n                        <ul id=\"instaFeed-footer\"></ul>\n                    </div>\n                </div>\n\n            </div>\n        </div>\n    </div>\n    <div class=\"bg-dark-footer padding-50px-tb text-center xs-padding-30px-tb\">\n        <div class=\"container\">\n            <div class=\"row\">\n\n                <div class=\"col-md-6 col-sm-6 col-xs-12 text-left text-white text-small xs-text-center\">&copy; 2019\n                    Lani Learning. All rights reserved.</div>\n                <div class=\"col-md-6 col-sm-6 col-xs-12 text-right text-small xs-text-center\">\n\n                </div>\n\n            </div>\n        </div>\n    </div>\n</footer>\n\n<a class=\"scroll-top-arrow\" href=\"javascript:void(0);\"><i class=\"ti-arrow-up\"></i></a>";
+    __webpack_exports__["default"] = "<!--================ start footer Area  =================-->\n<footer class=\"footer-area p_120\">\n    <div class=\"container\">\n        <div class=\"row\">\n            <!-- <div class=\"col-lg-2  col-md-6 col-sm-6\">\n                <div class=\"single-footer-widget tp_widgets\">\n                    <h6 class=\"footer_title\">Top Products</h6>\n                    <ul class=\"list\">\n                        <li><a href=\"#\">Managed Website</a></li>\n                        <li><a href=\"#\">Manage Reputation</a></li>\n                        <li><a href=\"#\">Power Tools</a></li>\n                        <li><a href=\"#\">Marketing Service</a></li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"col-lg-2  col-md-6 col-sm-6\">\n                <div class=\"single-footer-widget tp_widgets\">\n                    <h6 class=\"footer_title\">Quick Links</h6>\n                    <ul class=\"list\">\n                        <li><a href=\"#\">Jobs</a></li>\n                        <li><a href=\"#\">Brand Assets</a></li>\n                        <li><a href=\"#\">Investor Relations</a></li>\n                        <li><a href=\"#\">Terms of Service</a></li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"col-lg-2  col-md-6 col-sm-6\">\n                <div class=\"single-footer-widget tp_widgets\">\n                    <h6 class=\"footer_title\">Features</h6>\n                    <ul class=\"list\">\n                        <li><a href=\"#\">Jobs</a></li>\n                        <li><a href=\"#\">Brand Assets</a></li>\n                        <li><a href=\"#\">Investor Relations</a></li>\n                        <li><a href=\"#\">Terms of Service</a></li>\n                    </ul>\n                </div>\n            </div>\n            <div class=\"col-lg-2  col-md-6 col-sm-6\">\n                <div class=\"single-footer-widget tp_widgets\">\n                    <h6 class=\"footer_title\">Resources</h6>\n                    <ul class=\"list\">\n                        <li><a href=\"#\">Guides</a></li>\n                        <li><a href=\"#\">Research</a></li>\n                        <li><a href=\"#\">Experts</a></li>\n                        <li><a href=\"#\">Agencies</a></li>\n                    </ul>\n                </div>\n            </div> -->\n            <div class=\"col-lg-4 col-md-6 col-sm-6\">\n                <aside class=\"f_widget news_widget\">\n                    <div class=\"f_title\">\n                        <h3 class=\"footer_title\">Newsletter</h3>\n                    </div>\n                    <p>Stay updated with our latest trends</p>\n                    <div id=\"mc_embed_signup\">\n                        <form target=\"_blank\"\n                            action=\"https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01\"\n                            method=\"get\" class=\"subscribe_form relative\">\n                            <div class=\"input-group d-flex flex-row\">\n                                <input name=\"EMAIL\" placeholder=\"Enter email address\" onfocus=\"this.placeholder = ''\"\n                                    onblur=\"this.placeholder = 'Email Address '\" required=\"\" type=\"email\">\n                                <button class=\"btn sub-btn\"><span class=\"lnr lnr-arrow-right\"></span></button>\n                            </div>\n                            <div class=\"mt-10 info\"></div>\n                        </form>\n                    </div>\n                </aside>\n            </div>\n        </div>\n        <div class=\"row footer-bottom d-flex justify-content-between align-items-center\">\n            <p class=\"col-lg-8 col-md-8 footer-text m-0\">\n                Copyright &copy;\n                <script>document.write(new Date().getFullYear());</script> All rights reserved Lani Learning\n            </p>\n            <div class=\"col-lg-4 col-md-4 footer-social\">\n                <a href=\"https://www.facebook.com/pages/category/Educational-Research-Center/Lani-Learning-103051394379115/\" target=\"_blank\"><i class=\"fa fa-facebook\"></i></a>\n                <a href=\"https://twitter.com/lani_learning\" target=\"_blank\"><i class=\"fa fa-twitter\"></i></a>\n                <a href=\"https://www.instagram.com/lanilearning/\" target=\"_blank\"><i class=\"fa fa-instagram\"></i></a>\n                <a href=\"https://www.linkedin.com/company/lani-learning\" target=\"_blank\"><i class=\"fa fa-linkedin\"></i></a>\n            </div>\n        </div>\n    </div>\n</footer>\n<!--================ End footer Area  =================-->";
     /***/
   },
 
@@ -231,7 +231,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "<header>\n    <!-- <nav class=\"navbar navbar-expand-md navbar-dark bg-dark\">\n        <div class=\"navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2\">\n            <ul class=\"navbar-nav mr-auto\">\n                <li class=\"nav-item active\">\n                    <a class=\"nav-link\" href=\"#\">Left</a>\n                </li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link\" href=\"//codeply.com\">Codeply</a>\n                </li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link\" href=\"#\">Link</a>\n                </li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link\" href=\"#\">Link</a>\n                </li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link\" href=\"#\">Link</a>\n                </li>\n            </ul>\n        </div>\n        <div class=\"mx-auto order-0\">\n            <a class=\"navbar-brand mx-auto\" href=\"#\">Navbar 2</a>\n            <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\".dual-collapse2\">\n                <span class=\"navbar-toggler-icon\"></span>\n            </button>\n        </div>\n        <div class=\"navbar-collapse collapse w-100 order-3 dual-collapse2\">\n            <ul class=\"navbar-nav ml-auto\">\n                <li class=\"nav-item\">\n                    <a class=\"nav-link\" href=\"#\">Right</a>\n                </li>\n                <li class=\"nav-item\">\n                    <a class=\"nav-link\" href=\"#\">Link</a>\n                </li>\n            </ul>\n        </div>\n    </nav> -->\n    <!-- start navigation -->\n    <nav class=\"navbar navbar-default bootsnav navbar-fixed-top header-light bg-transparent white-link default-navb\">\n        <div class=\"container nav-header-container\">\n            <div class=\"row\">\n\n                <div class=\"col-md-2 col-xs-5\">\n                    <a href=\"ubunifucollege_default.html\" title=\"Pofo\" class=\"logo\"><img\n                            src=\"assets/lani/04/logo.png\" data-rjs=\"assets/lani/04/logo.png\" class=\"logo-dark\"\n                            alt=\"Pofo\"><img src=\"assets/lani/04/logo-white.png\" data-rjs=\"assets/lani/04/logo-white.png\"\n                            alt=\"Pofo\" class=\"logo-light default\"></a>\n                </div>\n\n                <div class=\"col-md-9 col-xs-2 width-auto pull-right accordion-menu xs-no-padding-right\">\n                    <button type=\"button\" class=\"navbar-toggle collapsed pull-right\" data-toggle=\"collapse\"\n                        data-target=\"#navbar-collapse-toggle-1\">\n                        <span class=\"sr-only\">toggle navigation</span>\n                        <span class=\"icon-bar\"></span>\n                        <span class=\"icon-bar\"></span>\n                        <span class=\"icon-bar\"></span>\n                    </button>\n                    <div class=\"navbar-collapse collapse\" id=\"navbar-collapse-toggle-1\">\n                        <ul id=\"accordion\" class=\"nav navbar-nav navbar-center alt-font text-normal\" data-in=\"fadeIn\"\n                            data-out=\"fadeOut\">\n\n                            <li><a [routerLink]=\"['/']\" routerLinkActive=\"active\" class=\"inner-link\">Home</a></li>\n                            <li><a [routerLink]=\"['/about']\" routerLinkActive=\"active\" class=\"inner-link\">About</a></li>\n                            <li><a [routerLink]=\"['/programs']\" routerLinkActive=\"active\" class=\"inner-link\">Courses</a></li>\n                            <!-- <li><a [routerLink]=\"['/home']\" routerLinkActive=\"active\" class=\"inner-link\">Insights</a></li> -->\n                            <li><a [routerLink]=\"['/contact']\" routerLinkActive=\"active\" class=\"inner-link float-right\">Contact Us</a></li>\n                        </ul>\n                    </div>\n                </div>\n\n\n                <div class=\"col-md-2 col-xs-5 width-auto\">\n\n                    <div class=\"heder-menu-button sm-display-none\">\n                        <button class=\"navbar-toggle mobile-toggle right-menu-button\" type=\"button\" id=\"showRightPush\">\n                            <span></span>\n                            <span></span>\n                            <span></span>\n                        </button>\n                    </div>\n                </div>\n\n                <div class=\"col-lg-2 col-md-2 col-xs-5 sm-width-auto text-right sm-no-padding-left\">\n                    <a [routerLink]=\"['/admissions']\" target=\"_blank\"\n                        class=\"btn btn-very-small btn-rounded btn-white box-shadow-dark\">Admissions<i\n                            class=\"fas fa-heart\"></i></a>\n                </div>\n\n            </div>\n        </div>\n    </nav>\n\n    <!-- <div class=\"cbp-spmenu cbp-spmenu-vertical cbp-spmenu-right\" id=\"cbp-spmenu-s2\">\n        <button class=\"close-button-menu side-menu-close\" id=\"close-pushmenu\"></button>\n        <div class=\"display-table padding-twelve-all height-100 width-100 text-center\">\n            <div class=\"display-table-cell vertical-align-top padding-25px-top position-relative\">\n                <div class=\"row\">\n                    <div class=\"col-lg-12 margin-25px-bottom\">\n                        <h5 class=\"alt-font text-extra-dark-gray\"><strong>Offer!</strong></h5>\n\n                    </div>\n                    <div class=\"col-lg-12 margin-35px-bottom\">\n                        <img src=\"assets/theme/images/homepage-option18-image.png\" alt=\"\" />\n                    </div>\n                    <div class=\"col-lg-12\">\n                        <h5 class=\"alt-font text-extra-dark-gray\"><span\n                                class=\"display-block font-weight-300 text-dark-gray\">Join as a group of\n                                3</span><strong>and the 3rd one gets to learn for free!.</strong></h5>\n\n                    </div>\n                    <div class=\"col-lg-12\">\n                        <a href=\"admissions.htm\" class=\"btn btn-deep-gold btn-small text-extra-small border-radius-4\"><i\n                                class=\"fas fa-heart icon-very-small margin-5px-right no-margin-left\"\n                                aria-hidden=\"true\"></i>Apply Now</a>\n                    </div>\n                    <div class=\"col-md-12 margin-100px-top text-center\">\n                        <div class=\"icon-social-medium margin-three-bottom\">\n                            <a href=\"https://www.facebook.com/ubunifucollege\" target=\"_blank\"\n                                class=\"text-extra-dark-gray text-deep-gold-hover margin-one-lr\"><i\n                                    class=\"fab fa-facebook-f\" aria-hidden=\"true\"></i></a>\n                            <a href=\"https://twitter.com/lani_learning\" target=\"_blank\"\n                                class=\"text-extra-dark-gray text-deep-gold-hover margin-one-lr\"><i\n                                    class=\"fab fa-twitter\" aria-hidden=\"true\"></i></a>\n                            <a href=\"https://www.instagram.com/lanilearning/\" target=\"_blank\"\n                                class=\"text-extra-dark-gray text-deep-gold-hover margin-one-lr\"><i\n                                    class=\"fab fa-instagram\" aria-hidden=\"true\"></i></a>\n                            <a href=\"https://linkedin.com/company/ubunifucollege\" target=\"_blank\"\n                                class=\"text-extra-dark-gray text-deep-gold-hover margin-one-lr\"><i\n                                    class=\"fab fa-linkedin-in\" aria-hidden=\"true\"></i></a>\n\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div> -->\n\n</header>";
+    __webpack_exports__["default"] = "<!--================Header Menu Area =================-->\n<header class=\"header_area\">\n    <div class=\"top_menu row m0\">\n        <div class=\"container\">\n            <div class=\"float-left\">\n                <ul class=\"list header_social\">\n                    <li><a href=\"https://www.facebook.com/pages/category/Educational-Research-Center/Lani-Learning-103051394379115/\" target=\"_blank\"><i class=\"fa fa-facebook\"></i></a></li>\n                    <li><a href=\"https://twitter.com/lani_learning\" target=\"_blank\"><i class=\"fa fa-twitter\"></i></a></li>\n                    <li><a href=\"https://www.instagram.com/lanilearning/\" target=\"_blank\"><i class=\"fa fa-instagram\"></i></a></li>\n                    <li><a href=\"https://www.linkedin.com/company/lani-learning\" target=\"_blank\"><i class=\"fa fa-linkedin\"></i></a></li>\n                </ul>\n            </div>\n            <div class=\"float-right\">\n                <a class=\"dn_btn\" href=\"tel:+254741105600\">+254 741 105 600</a>\n                <a class=\"dn_btn\" href=\"mailto:admin@lanilearning.com\">admin@lanilearning.com</a>\n            </div>\n        </div>\n    </div>\n    <div class=\"main_menu\">\n        <nav class=\"navbar navbar-expand-lg navbar-light\">\n            <div class=\"container\">\n                <!-- Brand and toggle get grouped for better mobile display -->\n                <a class=\"navbar-brand logo_h\" [routerLink]=\"['/']\"><img src=\"assets/lani/04/logo.png\" alt=\"\" width=\"145\" height=\"45\"></a>\n                <button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\"\n                    data-target=\"#navbarSupportedContent\" aria-controls=\"navbarSupportedContent\" aria-expanded=\"false\"\n                    aria-label=\"Toggle navigation\">\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                    <span class=\"icon-bar\"></span>\n                </button>\n                <!-- Collect the nav links, forms, and other content for toggling -->\n                <div class=\"collapse navbar-collapse offset\" id=\"navbarSupportedContent\">\n                    <ul class=\"nav navbar-nav menu_nav ml-auto\">\n                        <li class=\"nav-item\" routerLinkActive=\"active\"><a class=\"nav-link\" [routerLink]=\"['/home']\">Home</a></li>\n                        <li class=\"nav-item\" routerLinkActive=\"active\"><a class=\"nav-link\" [routerLink]=\"['/about']\">About</a></li>\n                        <li class=\"nav-item\" routerLinkActive=\"active\"><a class=\"nav-link\" [routerLink]=\"['/programs']\">Courses</a></li>\n                        <!-- <li class=\"nav-item submenu dropdown\">\n                            <a href=\"#\" class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\"\n                                aria-haspopup=\"true\" aria-expanded=\"false\">Courses</a>\n                            <ul class=\"dropdown-menu\">\n                                <li class=\"nav-item\"><a class=\"nav-link\" href=\"courses.html\">Courses</a>\n                                <li class=\"nav-item\"><a class=\"nav-link\" href=\"course-details.html\">Course Details</a>\n                                </li>\n                            </ul>\n                        </li>\n                        <li class=\"nav-item submenu dropdown\">\n                            <a href=\"#\" class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\"\n                                aria-haspopup=\"true\" aria-expanded=\"false\">Pages</a>\n                            <ul class=\"dropdown-menu\">\n                                <li class=\"nav-item\"><a class=\"nav-link\" href=\"elements.html\">Elements</a></li>\n                            </ul>\n                        </li>\n                        <li class=\"nav-item submenu dropdown\">\n                            <a href=\"#\" class=\"nav-link dropdown-toggle\" data-toggle=\"dropdown\" role=\"button\"\n                                aria-haspopup=\"true\" aria-expanded=\"false\">Blog</a>\n                            <ul class=\"dropdown-menu\">\n                                <li class=\"nav-item\"><a class=\"nav-link\" href=\"blog.html\">Blog</a></li>\n                                <li class=\"nav-item\"><a class=\"nav-link\" href=\"single-blog.html\">Blog Details</a></li>\n                            </ul>\n                        </li> -->\n                        <li class=\"nav-item\" routerLinkActive=\"active\"><a class=\"nav-link\" [routerLink]=\"['/contact']\">Contact</a></li>\n                    </ul>\n                </div>\n            </div>\n        </nav>\n    </div>\n</header>\n<!--================Header Menu Area =================-->";
     /***/
   },
 
@@ -809,7 +809,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "section .bg-gold {\n  background-color: gold !important;\n}\nsection .bg-black {\n  background-color: black !important;\n}\nsection .bg-white {\n  background-color: white !important;\n}\nsection .hg{\n  background-color: gray !important;\n}\n.slide .inside {\n  display: table;\n  height: 100%;\n  width: 100%;\n  padding: 0 3em;\n}\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvYWJvdXQtdXMvYWJvdXQtdXMuY29tcG9uZW50LmNzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNFLGlDQUFpQztBQUNuQztBQUNBO0VBQ0Usa0NBQWtDO0FBQ3BDO0FBQ0E7RUFDRSxrQ0FBa0M7QUFDcEM7QUFDQTtFQUNFLGlDQUFpQztBQUNuQztBQUVBO0VBQ0UsY0FBYztFQUNkLFlBQVk7RUFDWixXQUFXO0VBQ1gsY0FBYztBQUNoQiIsImZpbGUiOiJzcmMvYXBwL2Fib3V0LXVzL2Fib3V0LXVzLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJzZWN0aW9uIC5iZy1nb2xkIHtcbiAgYmFja2dyb3VuZC1jb2xvcjogZ29sZCAhaW1wb3J0YW50O1xufVxuc2VjdGlvbiAuYmctYmxhY2sge1xuICBiYWNrZ3JvdW5kLWNvbG9yOiBibGFjayAhaW1wb3J0YW50O1xufVxuc2VjdGlvbiAuYmctd2hpdGUge1xuICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZSAhaW1wb3J0YW50O1xufVxuc2VjdGlvbiAuaGd7XG4gIGJhY2tncm91bmQtY29sb3I6IGdyYXkgIWltcG9ydGFudDtcbn1cblxuLnNsaWRlIC5pbnNpZGUge1xuICBkaXNwbGF5OiB0YWJsZTtcbiAgaGVpZ2h0OiAxMDAlO1xuICB3aWR0aDogMTAwJTtcbiAgcGFkZGluZzogMCAzZW07XG59XG4iXX0= */";
+    __webpack_exports__["default"] = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzcmMvYXBwL2Fib3V0LXVzL2Fib3V0LXVzLmNvbXBvbmVudC5jc3MifQ== */";
     /***/
   },
 
@@ -1573,7 +1573,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
     /* harmony default export */
 
 
-    __webpack_exports__["default"] = "/*Overlay Thumb Portftolio and Team*/\n.img {\n    position: relative;\n    overflow: hidden;\n    display: inherit;\n}\n.mix .img {\n    margin-bottom: 30px;\n}\n.img div {\n    display: block;\n    margin: auto;\n    max-width: 100%;\n    height: auto;\n    transition: opacity 0.35s, -webkit-transform 0.35s;\n    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;\n    transition: opacity 0.35s, transform 0.35s;\n    transition: opacity 0.35s, transform 0.35s, -webkit-transform 0.35s;\n    -o-transition: opacity 0.35s, -o-transform 0.35s;\n}\n.img:hover div {\n    -webkit-transform: scale(1.1);\n    transform: scale(1.1);\n    transition: -webkit-transform 3s;\n    -webkit-transition: -webkit-transform 0.5s;\n    transition: -webkit-transform 0.5s;\n    transition: transform 0.5s;\n    transition: transform 0.5s, -webkit-transform 0.5s;\n}\n.overlay-thumb a.main-portfolio-link {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    padding: 45px;\n    z-index: 4;\n    /* cursor: url(../img/cursor.png), auto; */\n}\n.img .overlay-thumb {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n    z-index: 1;\n    overflow: hidden;\n    border: none;\n    -webkit-transition: all 0.5s ease-out;\n    transition: all 0.5s ease-out;\n    z-index: 4;\n}\n.img .overlay-thumb:hover {\n    /* background-color: rgba(123, 238, 199, .9); */\n    background-color: rgba(255, 223, 0, .9);\n}\n.img .overlay-thumb.bg-white:hover{\n    background-color: rgba(255, 255, 255, 0.65);\n}\n.overlay-thumb span {\n    position: relative;\n    z-index: 1;\n    line-height: 15px;\n    transition: 0.3s ease;\n    -webkit-transition: 0.3s ease;\n    -moz-transition: 0.3s ease;\n    -o-transition: 0.3s ease;\n    -ms-transition: 0.3s ease;\n}\n.details span.title,\n.details span.info {\n    color: #111111;\n}\n.details span.title {\n    font-size: 18px;\n    letter-spacing: 1.2pt;\n    line-height: 24px;\n    text-transform: uppercase;\n}\n.details span.info {\n    font-size: 14px;\n    text-transform: uppercase;\n\n}\n.overlay-thumb .btnBefore,\n.overlay-thumb .btnAfter {\n    content: '';\n    position: absolute;\n    height: 0;\n    width: 0;\n    border: solid #000;\n    border-width: 0;\n    transition: all ease-in-out;\n    -webkit-transition: all ease-in-out;\n    -moz-transition: all ease-in-out;\n    -o-transition: all ease-in-out;\n    -ms-transition: all ease-in-out;\n}\n.overlay-thumb .btnBefore {\n    width: 0;\n    height: 0;\n    right: 0;\n    bottom: 0;\n}\n.overlay-thumb .btnAfter {\n    width: 0;\n    height: 0;\n    left: 0;\n    top: 0;\n}\n.overlay-thumb:hover .btnBefore {\n    border-width: 0 0 3px 3px;\n}\n.overlay-thumb:hover .btnAfter {\n    border-width: 3px 3px 0 0;\n}\n.overlay-thumb:hover .btnAfter,\n.overlay-thumb:hover .btnBefore {\n    height: 100%;\n    width: 100%;\n    transition: width 0.5s ease, height 0.5s ease 0.5s, border-top-right-radius 0.1s ease 0.4s, border-bottom-left-radius 0.1s ease 0.4s, border-bottom-right-radius 0.1s ease 0.9s, border-top-left-radius 0.1s ease 0.9s;\n    -webkit-transition: width 0.5s ease, height 0.5s ease 0.5s, border-top-right-radius 0.1s ease 0.4s, border-bottom-left-radius 0.1s ease 0.4s, border-bottom-right-radius 0.1s ease 0.9s, border-top-left-radius 0.1s ease 0.9s;\n    -moz-transition: width 0.5s ease, height 0.5s ease 0.5s, border-top-right-radius 0.1s ease 0.4s, border-bottom-left-radius 0.1s ease 0.4s, border-bottom-right-radius 0.1s ease 0.9s, border-top-left-radius 0.1s ease 0.9s;\n    -o-transition: width 0.5s ease, height 0.5s ease 0.5s, border-top-right-radius 0.1s ease 0.4s, border-bottom-left-radius 0.1s ease 0.4s, border-bottom-right-radius 0.1s ease 0.9s, border-top-left-radius 0.1s ease 0.9s;\n    -ms-transition: width 0.5s ease, height 0.5s ease 0.5s, border-top-right-radius 0.1s ease 0.4s, border-bottom-left-radius 0.1s ease 0.4s, border-bottom-right-radius 0.1s ease 0.9s, border-top-left-radius 0.1s ease 0.9s;\n}\n.overlay-thumb:hover:before,\n.overlay-thumb:hover span {\n    opacity: 1;\n}\n.overlay-thumb:hover .details span {\n    top: 0;\n}\n.overlay-thumb:hover .title {\n    -webkit-transition-delay: 0.15s;\n            transition-delay: 0.15s;\n}\n.overlay-thumb:hover .info {\n    -webkit-transition-delay: 0.25s;\n            transition-delay: 0.25s;\n}\n/*Details on portfolio*/\n.details {\n    padding: 20px;\n    position: absolute;\n    top: 20%;\n    left: 20%;\n    -webkit-transform: translate(-50%, -50%);\n            transform: translate(-50%, -50%);\n    z-index: 3;\n}\n.details span {\n    display: block;\n    opacity: 0;\n    position: relative;\n    top: 100px;\n    -webkit-transition-property: top, opacity;\n    transition-property: top, opacity;\n    -webkit-transition-duration: 0.3s;\n            transition-duration: 0.3s;\n    -webkit-transition-delay: 0s;\n            transition-delay: 0s;\n}\n.details .title {\n    line-height: 1;\n    font-weight: 600;\n    font-size: 18px;\n}\n.details .info {\n    line-height: 1.2;\n    letter-spacing: 1.5pt;\n    margin-top: 5px;\n    font-size: 12px;\n    text-transform: initial !important;\n}\n.img .like-product {\n    position: absolute;\n    left: 0;\n    top: 0;\n    z-index: 9;\n    cursor: pointer;\n    opacity: 0;\n    text-align: center;\n}\n.img:hover .like-product {\n    opacity: 1;\n}\n.like-product i {\n    font-size: 24px;\n    cursor: pointer;\n    margin-top: 18px;\n    margin-left: 18px;\n    border-radius: 50%;\n    display: inline-block;\n    color: #111111;\n    -webkit-transition: .4s;\n    transition: .4s;\n}\n.output {\n    color: #111111;\n    clear: both;\n    display: block;\n    padding-left: 18px;\n}\nspan.like-product {\n    position: absolute;\n    bottom: 70px;\n    left: 0;\n    right: 0;\n    visibility: hidden;\n    -webkit-transition: .6s;\n    transition: .6s;\n    z-index: 7;\n    font-size: 2px;\n    color: transparent;\n    font-weight: 400;\n    padding-left: 48px;\n    line-height: 58px;\n}\n.like-product i.press {\n    -webkit-animation: size .4s;\n    animation: size .4s;\n    color: #505050;\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY291cnNlcy9jb3Vyc2VzLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsb0NBQW9DO0FBQ3BDO0lBQ0ksa0JBQWtCO0lBQ2xCLGdCQUFnQjtJQUNoQixnQkFBZ0I7QUFDcEI7QUFDQTtJQUNJLG1CQUFtQjtBQUN2QjtBQUNBO0lBQ0ksY0FBYztJQUNkLFlBQVk7SUFDWixlQUFlO0lBQ2YsWUFBWTtJQUNaLGtEQUFrRDtJQUNsRCwwREFBMEM7SUFBMUMsMENBQTBDO0lBQTFDLG1FQUEwQztJQUMxQyxnREFBZ0Q7QUFDcEQ7QUFDQTtJQUNJLDZCQUE2QjtJQUM3QixxQkFBcUI7SUFDckIsZ0NBQWdDO0lBQ2hDLDBDQUEwQjtJQUExQixrQ0FBMEI7SUFBMUIsMEJBQTBCO0lBQTFCLGtEQUEwQjtBQUM5QjtBQUNBO0lBQ0ksa0JBQWtCO0lBQ2xCLE1BQU07SUFDTixPQUFPO0lBQ1AsV0FBVztJQUNYLFlBQVk7SUFDWixhQUFhO0lBQ2IsVUFBVTtJQUNWLDBDQUEwQztBQUM5QztBQUNBO0lBQ0ksa0JBQWtCO0lBQ2xCLE1BQU07SUFDTixPQUFPO0lBQ1AsV0FBVztJQUNYLFlBQVk7SUFDWixVQUFVO0lBQ1YsZ0JBQWdCO0lBQ2hCLFlBQVk7SUFDWixxQ0FBNkI7SUFBN0IsNkJBQTZCO0lBQzdCLFVBQVU7QUFDZDtBQUNBO0lBQ0ksK0NBQStDO0lBQy9DLHVDQUF1QztBQUMzQztBQUVBO0lBQ0ksMkNBQTJDO0FBQy9DO0FBQ0E7SUFDSSxrQkFBa0I7SUFDbEIsVUFBVTtJQUNWLGlCQUFpQjtJQUNqQixxQkFBcUI7SUFDckIsNkJBQTZCO0lBQzdCLDBCQUEwQjtJQUMxQix3QkFBd0I7SUFDeEIseUJBQXlCO0FBQzdCO0FBQ0E7O0lBRUksY0FBYztBQUNsQjtBQUNBO0lBQ0ksZUFBZTtJQUNmLHFCQUFxQjtJQUNyQixpQkFBaUI7SUFDakIseUJBQXlCO0FBQzdCO0FBQ0E7SUFDSSxlQUFlO0lBQ2YseUJBQXlCOztBQUU3QjtBQUNBOztJQUVJLFdBQVc7SUFDWCxrQkFBa0I7SUFDbEIsU0FBUztJQUNULFFBQVE7SUFDUixrQkFBa0I7SUFDbEIsZUFBZTtJQUNmLDJCQUEyQjtJQUMzQixtQ0FBbUM7SUFDbkMsZ0NBQWdDO0lBQ2hDLDhCQUE4QjtJQUM5QiwrQkFBK0I7QUFDbkM7QUFDQTtJQUNJLFFBQVE7SUFDUixTQUFTO0lBQ1QsUUFBUTtJQUNSLFNBQVM7QUFDYjtBQUNBO0lBQ0ksUUFBUTtJQUNSLFNBQVM7SUFDVCxPQUFPO0lBQ1AsTUFBTTtBQUNWO0FBQ0E7SUFDSSx5QkFBeUI7QUFDN0I7QUFDQTtJQUNJLHlCQUF5QjtBQUM3QjtBQUNBOztJQUVJLFlBQVk7SUFDWixXQUFXO0lBQ1gsc05BQXNOO0lBQ3ROLDhOQUE4TjtJQUM5TiwyTkFBMk47SUFDM04seU5BQXlOO0lBQ3pOLDBOQUEwTjtBQUM5TjtBQUNBOztJQUVJLFVBQVU7QUFDZDtBQUNBO0lBQ0ksTUFBTTtBQUNWO0FBQ0E7SUFDSSwrQkFBdUI7WUFBdkIsdUJBQXVCO0FBQzNCO0FBQ0E7SUFDSSwrQkFBdUI7WUFBdkIsdUJBQXVCO0FBQzNCO0FBQ0EsdUJBQXVCO0FBRXZCO0lBQ0ksYUFBYTtJQUNiLGtCQUFrQjtJQUNsQixRQUFRO0lBQ1IsU0FBUztJQUNULHdDQUFnQztZQUFoQyxnQ0FBZ0M7SUFDaEMsVUFBVTtBQUNkO0FBQ0E7SUFDSSxjQUFjO0lBQ2QsVUFBVTtJQUNWLGtCQUFrQjtJQUNsQixVQUFVO0lBQ1YseUNBQWlDO0lBQWpDLGlDQUFpQztJQUNqQyxpQ0FBeUI7WUFBekIseUJBQXlCO0lBQ3pCLDRCQUFvQjtZQUFwQixvQkFBb0I7QUFDeEI7QUFDQTtJQUNJLGNBQWM7SUFDZCxnQkFBZ0I7SUFDaEIsZUFBZTtBQUNuQjtBQUNBO0lBQ0ksZ0JBQWdCO0lBQ2hCLHFCQUFxQjtJQUNyQixlQUFlO0lBQ2YsZUFBZTtJQUNmLGtDQUFrQztBQUN0QztBQUNBO0lBQ0ksa0JBQWtCO0lBQ2xCLE9BQU87SUFDUCxNQUFNO0lBQ04sVUFBVTtJQUNWLGVBQWU7SUFDZixVQUFVO0lBQ1Ysa0JBQWtCO0FBQ3RCO0FBQ0E7SUFDSSxVQUFVO0FBQ2Q7QUFDQTtJQUNJLGVBQWU7SUFDZixlQUFlO0lBQ2YsZ0JBQWdCO0lBQ2hCLGlCQUFpQjtJQUNqQixrQkFBa0I7SUFDbEIscUJBQXFCO0lBQ3JCLGNBQWM7SUFDZCx1QkFBZTtJQUFmLGVBQWU7QUFDbkI7QUFDQTtJQUNJLGNBQWM7SUFDZCxXQUFXO0lBQ1gsY0FBYztJQUNkLGtCQUFrQjtBQUN0QjtBQUNBO0lBQ0ksa0JBQWtCO0lBQ2xCLFlBQVk7SUFDWixPQUFPO0lBQ1AsUUFBUTtJQUNSLGtCQUFrQjtJQUNsQix1QkFBZTtJQUFmLGVBQWU7SUFDZixVQUFVO0lBQ1YsY0FBYztJQUNkLGtCQUFrQjtJQUNsQixnQkFBZ0I7SUFDaEIsa0JBQWtCO0lBQ2xCLGlCQUFpQjtBQUNyQjtBQUNBO0lBQ0ksMkJBQTJCO0lBQzNCLG1CQUFtQjtJQUNuQixjQUFjO0FBQ2xCIiwiZmlsZSI6InNyYy9hcHAvY291cnNlcy9jb3Vyc2VzLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIvKk92ZXJsYXkgVGh1bWIgUG9ydGZ0b2xpbyBhbmQgVGVhbSovXG4uaW1nIHtcbiAgICBwb3NpdGlvbjogcmVsYXRpdmU7XG4gICAgb3ZlcmZsb3c6IGhpZGRlbjtcbiAgICBkaXNwbGF5OiBpbmhlcml0O1xufSBcbi5taXggLmltZyB7XG4gICAgbWFyZ2luLWJvdHRvbTogMzBweDtcbn1cbi5pbWcgZGl2IHtcbiAgICBkaXNwbGF5OiBibG9jaztcbiAgICBtYXJnaW46IGF1dG87XG4gICAgbWF4LXdpZHRoOiAxMDAlO1xuICAgIGhlaWdodDogYXV0bztcbiAgICB0cmFuc2l0aW9uOiBvcGFjaXR5IDAuMzVzLCAtd2Via2l0LXRyYW5zZm9ybSAwLjM1cztcbiAgICB0cmFuc2l0aW9uOiBvcGFjaXR5IDAuMzVzLCB0cmFuc2Zvcm0gMC4zNXM7XG4gICAgLW8tdHJhbnNpdGlvbjogb3BhY2l0eSAwLjM1cywgLW8tdHJhbnNmb3JtIDAuMzVzO1xufVxuLmltZzpob3ZlciBkaXYge1xuICAgIC13ZWJraXQtdHJhbnNmb3JtOiBzY2FsZSgxLjEpO1xuICAgIHRyYW5zZm9ybTogc2NhbGUoMS4xKTtcbiAgICB0cmFuc2l0aW9uOiAtd2Via2l0LXRyYW5zZm9ybSAzcztcbiAgICB0cmFuc2l0aW9uOiB0cmFuc2Zvcm0gMC41cztcbn1cbi5vdmVybGF5LXRodW1iIGEubWFpbi1wb3J0Zm9saW8tbGluayB7XG4gICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgIHRvcDogMDtcbiAgICBsZWZ0OiAwO1xuICAgIHdpZHRoOiAxMDAlO1xuICAgIGhlaWdodDogMTAwJTtcbiAgICBwYWRkaW5nOiA0NXB4O1xuICAgIHotaW5kZXg6IDQ7XG4gICAgLyogY3Vyc29yOiB1cmwoLi4vaW1nL2N1cnNvci5wbmcpLCBhdXRvOyAqL1xufVxuLmltZyAub3ZlcmxheS10aHVtYiB7XG4gICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgIHRvcDogMDtcbiAgICBsZWZ0OiAwO1xuICAgIHdpZHRoOiAxMDAlO1xuICAgIGhlaWdodDogMTAwJTtcbiAgICB6LWluZGV4OiAxO1xuICAgIG92ZXJmbG93OiBoaWRkZW47XG4gICAgYm9yZGVyOiBub25lO1xuICAgIHRyYW5zaXRpb246IGFsbCAwLjVzIGVhc2Utb3V0O1xuICAgIHotaW5kZXg6IDQ7XG59XG4uaW1nIC5vdmVybGF5LXRodW1iOmhvdmVyIHtcbiAgICAvKiBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDEyMywgMjM4LCAxOTksIC45KTsgKi9cbiAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDI1NSwgMjIzLCAwLCAuOSk7XG59XG5cbi5pbWcgLm92ZXJsYXktdGh1bWIuYmctd2hpdGU6aG92ZXJ7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgyNTUsIDI1NSwgMjU1LCAwLjY1KTtcbn1cbi5vdmVybGF5LXRodW1iIHNwYW4ge1xuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICB6LWluZGV4OiAxO1xuICAgIGxpbmUtaGVpZ2h0OiAxNXB4O1xuICAgIHRyYW5zaXRpb246IDAuM3MgZWFzZTtcbiAgICAtd2Via2l0LXRyYW5zaXRpb246IDAuM3MgZWFzZTtcbiAgICAtbW96LXRyYW5zaXRpb246IDAuM3MgZWFzZTtcbiAgICAtby10cmFuc2l0aW9uOiAwLjNzIGVhc2U7XG4gICAgLW1zLXRyYW5zaXRpb246IDAuM3MgZWFzZTtcbn1cbi5kZXRhaWxzIHNwYW4udGl0bGUsXG4uZGV0YWlscyBzcGFuLmluZm8ge1xuICAgIGNvbG9yOiAjMTExMTExO1xufVxuLmRldGFpbHMgc3Bhbi50aXRsZSB7XG4gICAgZm9udC1zaXplOiAxOHB4O1xuICAgIGxldHRlci1zcGFjaW5nOiAxLjJwdDtcbiAgICBsaW5lLWhlaWdodDogMjRweDtcbiAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlO1xufVxuLmRldGFpbHMgc3Bhbi5pbmZvIHtcbiAgICBmb250LXNpemU6IDE0cHg7XG4gICAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTtcblxufVxuLm92ZXJsYXktdGh1bWIgLmJ0bkJlZm9yZSxcbi5vdmVybGF5LXRodW1iIC5idG5BZnRlciB7XG4gICAgY29udGVudDogJyc7XG4gICAgcG9zaXRpb246IGFic29sdXRlO1xuICAgIGhlaWdodDogMDtcbiAgICB3aWR0aDogMDtcbiAgICBib3JkZXI6IHNvbGlkICMwMDA7XG4gICAgYm9yZGVyLXdpZHRoOiAwO1xuICAgIHRyYW5zaXRpb246IGFsbCBlYXNlLWluLW91dDtcbiAgICAtd2Via2l0LXRyYW5zaXRpb246IGFsbCBlYXNlLWluLW91dDtcbiAgICAtbW96LXRyYW5zaXRpb246IGFsbCBlYXNlLWluLW91dDtcbiAgICAtby10cmFuc2l0aW9uOiBhbGwgZWFzZS1pbi1vdXQ7XG4gICAgLW1zLXRyYW5zaXRpb246IGFsbCBlYXNlLWluLW91dDtcbn1cbi5vdmVybGF5LXRodW1iIC5idG5CZWZvcmUge1xuICAgIHdpZHRoOiAwO1xuICAgIGhlaWdodDogMDtcbiAgICByaWdodDogMDtcbiAgICBib3R0b206IDA7XG59XG4ub3ZlcmxheS10aHVtYiAuYnRuQWZ0ZXIge1xuICAgIHdpZHRoOiAwO1xuICAgIGhlaWdodDogMDtcbiAgICBsZWZ0OiAwO1xuICAgIHRvcDogMDtcbn1cbi5vdmVybGF5LXRodW1iOmhvdmVyIC5idG5CZWZvcmUge1xuICAgIGJvcmRlci13aWR0aDogMCAwIDNweCAzcHg7XG59XG4ub3ZlcmxheS10aHVtYjpob3ZlciAuYnRuQWZ0ZXIge1xuICAgIGJvcmRlci13aWR0aDogM3B4IDNweCAwIDA7XG59XG4ub3ZlcmxheS10aHVtYjpob3ZlciAuYnRuQWZ0ZXIsXG4ub3ZlcmxheS10aHVtYjpob3ZlciAuYnRuQmVmb3JlIHtcbiAgICBoZWlnaHQ6IDEwMCU7XG4gICAgd2lkdGg6IDEwMCU7XG4gICAgdHJhbnNpdGlvbjogd2lkdGggMC41cyBlYXNlLCBoZWlnaHQgMC41cyBlYXNlIDAuNXMsIGJvcmRlci10b3AtcmlnaHQtcmFkaXVzIDAuMXMgZWFzZSAwLjRzLCBib3JkZXItYm90dG9tLWxlZnQtcmFkaXVzIDAuMXMgZWFzZSAwLjRzLCBib3JkZXItYm90dG9tLXJpZ2h0LXJhZGl1cyAwLjFzIGVhc2UgMC45cywgYm9yZGVyLXRvcC1sZWZ0LXJhZGl1cyAwLjFzIGVhc2UgMC45cztcbiAgICAtd2Via2l0LXRyYW5zaXRpb246IHdpZHRoIDAuNXMgZWFzZSwgaGVpZ2h0IDAuNXMgZWFzZSAwLjVzLCBib3JkZXItdG9wLXJpZ2h0LXJhZGl1cyAwLjFzIGVhc2UgMC40cywgYm9yZGVyLWJvdHRvbS1sZWZ0LXJhZGl1cyAwLjFzIGVhc2UgMC40cywgYm9yZGVyLWJvdHRvbS1yaWdodC1yYWRpdXMgMC4xcyBlYXNlIDAuOXMsIGJvcmRlci10b3AtbGVmdC1yYWRpdXMgMC4xcyBlYXNlIDAuOXM7XG4gICAgLW1vei10cmFuc2l0aW9uOiB3aWR0aCAwLjVzIGVhc2UsIGhlaWdodCAwLjVzIGVhc2UgMC41cywgYm9yZGVyLXRvcC1yaWdodC1yYWRpdXMgMC4xcyBlYXNlIDAuNHMsIGJvcmRlci1ib3R0b20tbGVmdC1yYWRpdXMgMC4xcyBlYXNlIDAuNHMsIGJvcmRlci1ib3R0b20tcmlnaHQtcmFkaXVzIDAuMXMgZWFzZSAwLjlzLCBib3JkZXItdG9wLWxlZnQtcmFkaXVzIDAuMXMgZWFzZSAwLjlzO1xuICAgIC1vLXRyYW5zaXRpb246IHdpZHRoIDAuNXMgZWFzZSwgaGVpZ2h0IDAuNXMgZWFzZSAwLjVzLCBib3JkZXItdG9wLXJpZ2h0LXJhZGl1cyAwLjFzIGVhc2UgMC40cywgYm9yZGVyLWJvdHRvbS1sZWZ0LXJhZGl1cyAwLjFzIGVhc2UgMC40cywgYm9yZGVyLWJvdHRvbS1yaWdodC1yYWRpdXMgMC4xcyBlYXNlIDAuOXMsIGJvcmRlci10b3AtbGVmdC1yYWRpdXMgMC4xcyBlYXNlIDAuOXM7XG4gICAgLW1zLXRyYW5zaXRpb246IHdpZHRoIDAuNXMgZWFzZSwgaGVpZ2h0IDAuNXMgZWFzZSAwLjVzLCBib3JkZXItdG9wLXJpZ2h0LXJhZGl1cyAwLjFzIGVhc2UgMC40cywgYm9yZGVyLWJvdHRvbS1sZWZ0LXJhZGl1cyAwLjFzIGVhc2UgMC40cywgYm9yZGVyLWJvdHRvbS1yaWdodC1yYWRpdXMgMC4xcyBlYXNlIDAuOXMsIGJvcmRlci10b3AtbGVmdC1yYWRpdXMgMC4xcyBlYXNlIDAuOXM7XG59XG4ub3ZlcmxheS10aHVtYjpob3ZlcjpiZWZvcmUsXG4ub3ZlcmxheS10aHVtYjpob3ZlciBzcGFuIHtcbiAgICBvcGFjaXR5OiAxO1xufVxuLm92ZXJsYXktdGh1bWI6aG92ZXIgLmRldGFpbHMgc3BhbiB7XG4gICAgdG9wOiAwO1xufVxuLm92ZXJsYXktdGh1bWI6aG92ZXIgLnRpdGxlIHtcbiAgICB0cmFuc2l0aW9uLWRlbGF5OiAwLjE1cztcbn1cbi5vdmVybGF5LXRodW1iOmhvdmVyIC5pbmZvIHtcbiAgICB0cmFuc2l0aW9uLWRlbGF5OiAwLjI1cztcbn1cbi8qRGV0YWlscyBvbiBwb3J0Zm9saW8qL1xuXG4uZGV0YWlscyB7XG4gICAgcGFkZGluZzogMjBweDtcbiAgICBwb3NpdGlvbjogYWJzb2x1dGU7XG4gICAgdG9wOiAyMCU7XG4gICAgbGVmdDogMjAlO1xuICAgIHRyYW5zZm9ybTogdHJhbnNsYXRlKC01MCUsIC01MCUpO1xuICAgIHotaW5kZXg6IDM7XG59XG4uZGV0YWlscyBzcGFuIHtcbiAgICBkaXNwbGF5OiBibG9jaztcbiAgICBvcGFjaXR5OiAwO1xuICAgIHBvc2l0aW9uOiByZWxhdGl2ZTtcbiAgICB0b3A6IDEwMHB4O1xuICAgIHRyYW5zaXRpb24tcHJvcGVydHk6IHRvcCwgb3BhY2l0eTtcbiAgICB0cmFuc2l0aW9uLWR1cmF0aW9uOiAwLjNzO1xuICAgIHRyYW5zaXRpb24tZGVsYXk6IDBzO1xufVxuLmRldGFpbHMgLnRpdGxlIHtcbiAgICBsaW5lLWhlaWdodDogMTtcbiAgICBmb250LXdlaWdodDogNjAwO1xuICAgIGZvbnQtc2l6ZTogMThweDtcbn1cbi5kZXRhaWxzIC5pbmZvIHtcbiAgICBsaW5lLWhlaWdodDogMS4yO1xuICAgIGxldHRlci1zcGFjaW5nOiAxLjVwdDtcbiAgICBtYXJnaW4tdG9wOiA1cHg7XG4gICAgZm9udC1zaXplOiAxMnB4O1xuICAgIHRleHQtdHJhbnNmb3JtOiBpbml0aWFsICFpbXBvcnRhbnQ7XG59XG4uaW1nIC5saWtlLXByb2R1Y3Qge1xuICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICBsZWZ0OiAwO1xuICAgIHRvcDogMDtcbiAgICB6LWluZGV4OiA5O1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBvcGFjaXR5OiAwO1xuICAgIHRleHQtYWxpZ246IGNlbnRlcjtcbn1cbi5pbWc6aG92ZXIgLmxpa2UtcHJvZHVjdCB7XG4gICAgb3BhY2l0eTogMTtcbn1cbi5saWtlLXByb2R1Y3QgaSB7XG4gICAgZm9udC1zaXplOiAyNHB4O1xuICAgIGN1cnNvcjogcG9pbnRlcjtcbiAgICBtYXJnaW4tdG9wOiAxOHB4O1xuICAgIG1hcmdpbi1sZWZ0OiAxOHB4O1xuICAgIGJvcmRlci1yYWRpdXM6IDUwJTtcbiAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7XG4gICAgY29sb3I6ICMxMTExMTE7XG4gICAgdHJhbnNpdGlvbjogLjRzO1xufVxuLm91dHB1dCB7XG4gICAgY29sb3I6ICMxMTExMTE7XG4gICAgY2xlYXI6IGJvdGg7XG4gICAgZGlzcGxheTogYmxvY2s7XG4gICAgcGFkZGluZy1sZWZ0OiAxOHB4O1xufVxuc3Bhbi5saWtlLXByb2R1Y3Qge1xuICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTtcbiAgICBib3R0b206IDcwcHg7XG4gICAgbGVmdDogMDtcbiAgICByaWdodDogMDtcbiAgICB2aXNpYmlsaXR5OiBoaWRkZW47XG4gICAgdHJhbnNpdGlvbjogLjZzO1xuICAgIHotaW5kZXg6IDc7XG4gICAgZm9udC1zaXplOiAycHg7XG4gICAgY29sb3I6IHRyYW5zcGFyZW50O1xuICAgIGZvbnQtd2VpZ2h0OiA0MDA7XG4gICAgcGFkZGluZy1sZWZ0OiA0OHB4O1xuICAgIGxpbmUtaGVpZ2h0OiA1OHB4O1xufVxuLmxpa2UtcHJvZHVjdCBpLnByZXNzIHtcbiAgICAtd2Via2l0LWFuaW1hdGlvbjogc2l6ZSAuNHM7XG4gICAgYW5pbWF0aW9uOiBzaXplIC40cztcbiAgICBjb2xvcjogIzUwNTA1MDtcbn0iXX0= */";
+    __webpack_exports__["default"] = "@media only screen and (min-width: 768px) {\n    .first-section{\n        margin-top: 2rem;\n    }\n}\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9hcHAvY291cnNlcy9jb3Vyc2VzLmNvbXBvbmVudC5jc3MiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUE7SUFDSTtRQUNJLGdCQUFnQjtJQUNwQjtBQUNKIiwiZmlsZSI6InNyYy9hcHAvY291cnNlcy9jb3Vyc2VzLmNvbXBvbmVudC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyJAbWVkaWEgb25seSBzY3JlZW4gYW5kIChtaW4td2lkdGg6IDc2OHB4KSB7XG4gICAgLmZpcnN0LXNlY3Rpb257XG4gICAgICAgIG1hcmdpbi10b3A6IDJyZW07XG4gICAgfVxufSJdfQ== */";
     /***/
   },
 
@@ -1850,7 +1850,7 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
       "id": "2",
       "course_name": "Internet of Things",
       "course_category": "Emerging Technology",
-      "course_image": "/assets/theme/images/IOT.png",
+      "course_image": "/assets/theme/images/6.jpg",
       "course_style": "bg-deep-gold",
       "short_description": "",
       "why_enroll": "",
@@ -2000,2778 +2000,299 @@ function _createClass(Constructor, protoProps, staticProps) { if (protoProps) _d
       (function ($) {
         "use strict";
 
-        var lastScroll = 0; //check for browser os
+        var nav_offset_top = $("header").height() + 50;
+        /*-------------------------------------------------------------------------------
+          Navbar
+        -------------------------------------------------------------------------------*/
+        //* Navbar Fixed
 
-        var isMobile = false;
-        var isiPhoneiPad = false;
+        function navbarFixed() {
+          if ($(".header_area").length) {
+            $(window).scroll(function () {
+              var scroll = $(window).scrollTop();
 
-        if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
-          isMobile = true;
-        }
-
-        if (/iPhone|iPad|iPod/i.test(navigator.userAgent)) {
-          isiPhoneiPad = true;
-        }
-
-        function SetMegamenuPosition() {
-          if ($(window).width() > 991) {
-            setTimeout(function () {
-              var totalHeight = $("nav.navbar").outerHeight();
-              $(".mega-menu").css({
-                top: totalHeight
-              });
-              if ($(".navbar-brand-top").length === 0) $(".dropdown.simple-dropdown > .dropdown-menu").css({
-                top: totalHeight
-              });
-            }, 200);
-          } else {
-            $(".mega-menu").css("top", "");
-            $(".dropdown.simple-dropdown > .dropdown-menu").css("top", "");
-          }
-        }
-
-        function pad(d) {
-          return d < 10 ? "0" + d.toString() : d.toString();
-        }
-
-        function isIE() {
-          var ua = window.navigator.userAgent;
-          var msie = ua.indexOf("MSIE ");
-
-          if (msie > 0 || !!navigator.userAgent.match(/Trident.*rv\:11\./)) {
-            // If Internet Explorer, return version number
-            return true;
-          } // If another browser, return 0
-          else {
-              return false;
-            }
-        } //page title space
-
-
-        function setPageTitleSpace() {
-          if ($(".navbar").hasClass("navbar-top") || $("nav").hasClass("navbar-fixed-top")) {
-            if ($(".top-space").length > 0) {
-              var top_space_height = $(".navbar").outerHeight();
-
-              if ($(".top-header-area").length > 0) {
-                top_space_height = top_space_height + $(".top-header-area").outerHeight();
-              }
-
-              $(".top-space").css("margin-top", top_space_height + "px");
-            }
-          }
-        } //swiper button position in auto height slider
-
-
-        function setButtonPosition() {
-          if ($(window).width() > 767 && $(".swiper-auto-height-container").length > 0) {
-            var leftPosition = parseInt($(".swiper-auto-height-container .swiper-slide").css("padding-left"));
-            var bottomPosition = parseInt($(".swiper-auto-height-container .swiper-slide").css("padding-bottom"));
-            var bannerWidth = parseInt($(".swiper-auto-height-container .slide-banner").outerWidth());
-            $(".navigation-area").css({
-              left: bannerWidth + leftPosition + "px",
-              bottom: bottomPosition + "px"
-            });
-          } else if ($(".swiper-auto-height-container").length > 0) {
-            $(".navigation-area").css({
-              left: "",
-              bottom: ""
-            });
-          }
-        }
-
-        $(window).on("scroll", init_scroll_navigate);
-
-        function init_scroll_navigate() {
-          /*==============================================================
-             One Page Main JS - START CODE
-             =============================================================*/
-          var menu_links = $(".navbar-nav li a");
-          var scrollPos = $(document).scrollTop();
-          scrollPos = scrollPos + 60;
-          menu_links.each(function () {
-            var currLink = $(this);
-            var hasPos = currLink.attr("href").indexOf("#");
-
-            if (hasPos > -1) {
-              var res = currLink.attr("href").substring(hasPos);
-
-              if ($(res).length > 0) {
-                var refElement = $(res);
-
-                if (refElement.offset().top <= scrollPos && refElement.offset().top + refElement.height() > scrollPos) {
-                  menu_links.not(currLink).removeClass("active");
-                  currLink.addClass("active");
-                } else {
-                  currLink.removeClass("active");
-                }
-              }
-            }
-          });
-          /*==============================================================
-             One Page Main JS - END CODE
-             =============================================================*/
-
-          /*==============================================================*/
-          //background color slider Start
-
-          /*==============================================================*/
-
-          var $window = $(window),
-              $body = $(".bg-background-fade"),
-              $panel = $(".color-code");
-          var scroll = $window.scrollTop() + $window.height() / 2;
-          $panel.each(function () {
-            var $this = $(this);
-
-            if ($this.position().top <= scroll && $this.position().top + $this.height() > scroll) {
-              $body.removeClass(function (index, css) {
-                return (css.match(/(^|\s)color-\S+/g) || []).join(" ");
-              });
-              $body.addClass("color-" + $(this).data("color"));
-            }
-          });
-          /*==============================================================*/
-          //background color slider End
-
-          /*==============================================================*/
-
-          /* ===================================
-             sticky nav Start
-             ====================================== */
-
-          var headerHeight = $("nav").outerHeight();
-
-          if (!$("header").hasClass("no-sticky")) {
-            if ($(document).scrollTop() >= headerHeight) {
-              $("header").addClass("sticky");
-            } else if ($(document).scrollTop() <= headerHeight) {
-              $("header").removeClass("sticky");
-              setTimeout(function () {
-                setPageTitleSpace();
-              }, 500);
-            }
-
-            SetMegamenuPosition();
-          }
-          /* ===================================
-             header appear on scroll up
-             ====================================== */
-
-
-          var st = $(this).scrollTop();
-
-          if (st > lastScroll) {
-            $(".sticky").removeClass("header-appear"); //        $('.dropdown.on').removeClass('on').removeClass('open').find('.dropdown-menu').fadeOut(100);
-          } else $(".sticky").addClass("header-appear");
-
-          lastScroll = st;
-          if (lastScroll <= headerHeight) $("header").removeClass("header-appear");
-          /* ===================================
-             sticky nav End
-             ====================================== */
-        }
-        /*==============================================================
-         parallax text - START CODE
-         ==============================================================*/
-
-
-        function parallax_text() {
-          var window_width = $(window).width();
-
-          if (window_width > 1024) {
-            if ($(".swiper-auto-slide .swiper-slide").length !== 0) {
-              $(document).on("mousemove", ".swiper-auto-slide .swiper-slide", function (e) {
-                var positionX = e.clientX;
-                var positionY = e.clientY;
-                positionX = Math.round(positionX / 10) - 80;
-                positionY = Math.round(positionY / 10) - 40;
-                $(this).find(".parallax-text").css({
-                  transform: "translate(" + positionX + "px," + positionY + "px)",
-                  "transition-duration": "0s"
-                });
-              });
-              $(document).on("mouseout", ".swiper-auto-slide .swiper-slide", function (e) {
-                $(".parallax-text").css({
-                  transform: "translate(0,0)",
-                  "transition-duration": "0.5s"
-                });
-              });
-            }
-          }
-        }
-        /*==============================================================*/
-        //parallax text - END CODE
-
-        /*==============================================================*/
-
-        /*==============================================================*/
-        //Search - START CODE
-
-        /*==============================================================*/
-
-
-        function ScrollStop() {
-          return false;
-        }
-
-        function ScrollStart() {
-          return true;
-        }
-
-        function validationSearchForm() {
-          var error = true;
-          $("#search-header input[type=text]").each(function (index) {
-            if (index === 0) {
-              if ($(this).val() === null || $(this).val() === "") {
-                $("#search-header").find("input:eq(" + index + ")").css({
-                  border: "none",
-                  "border-bottom": "2px solid red"
-                });
-                error = false;
+              if (scroll >= nav_offset_top) {
+                $(".header_area").addClass("navbar_fixed");
               } else {
-                $("#search-header").find("input:eq(" + index + ")").css({
-                  border: "none",
-                  "border-bottom": "2px solid #000"
-                });
-              }
-            }
-          });
-          return error;
-        }
-        /*==============================================================
-         Search - END CODE
-         ==============================================================*/
-
-        /*==============================================================
-         equalize - START CODE
-         ==============================================================*/
-
-
-        function equalizeHeight() {
-          $(document).imagesLoaded(function () {
-            if ($(window).width() < 768) {
-              $(".equalize").equalize({
-                equalize: "outerHeight",
-                reset: true
-              });
-              $(".equalize.md-equalize-auto").children().css("height", "");
-              $(".equalize.sm-equalize-auto").children().css("height", "");
-              $(".equalize.xs-equalize-auto").children().css("height", "");
-              return false;
-            } else if ($(window).width() < 992) {
-              $(".equalize").equalize({
-                equalize: "outerHeight",
-                reset: true
-              });
-              $(".equalize.md-equalize-auto").children().css("height", "");
-              $(".equalize.sm-equalize-auto").children().css("height", "");
-              return false;
-            } else if ($(window).width() < 1199) {
-              $(".equalize").equalize({
-                equalize: "outerHeight",
-                reset: true
-              });
-              $(".equalize.md-equalize-auto").children().css("height", "");
-              return false;
-            } else {
-              $(".equalize").equalize({
-                equalize: "outerHeight",
-                reset: true
-              });
-            }
-          });
-        }
-        /*==============================================================
-         equalize - END CODE
-         ==============================================================*/
-
-        /*==============================================================
-         dynamic font size START CODE
-         ==============================================================*/
-
-
-        function feature_dynamic_font_line_height() {
-          if ($(".dynamic-font-size").length > 0) {
-            var site_width = 1100;
-            var window_width = $(window).width();
-
-            if (window_width < site_width) {
-              var window_site_width_ratio = window_width / site_width;
-              $(".dynamic-font-size").each(function () {
-                var font_size = $(this).attr("data-fontsize");
-                var line_height = $(this).attr("data-lineheight");
-
-                if (font_size != "" && font_size != undefined) {
-                  var new_font_size = Math.round(font_size * window_site_width_ratio * 1000) / 1000;
-                  $(this).css("font-size", new_font_size + "px");
-                }
-
-                if (line_height !== "" && line_height !== undefined) {
-                  var new_line_height = Math.round(line_height * window_site_width_ratio * 1000) / 1000;
-                  $(this).css("line-height", new_line_height + "px");
-                }
-              });
-            } else {
-              $(".dynamic-font-size").each(function () {
-                var font_size = $(this).attr("data-fontsize");
-                var line_height = $(this).attr("data-lineheight");
-
-                if (font_size !== "" && font_size !== undefined) {
-                  $(this).css("font-size", font_size + "px");
-                }
-
-                if (line_height !== "" && line_height !== undefined) {
-                  $(this).css("line-height", line_height + "px");
-                }
-              });
-            }
-          }
-        }
-        /*==============================================================
-         dynamic font size END CODE
-         ==============================================================*/
-
-        /*==============================================================
-         set parallax
-         ==============================================================*/
-
-
-        function stellarParallax() {
-          if ($(window).width() > 1024) {
-            $.stellar();
-          } else {
-            $.stellar("destroy");
-            $(".parallax").css("background-position", "");
-          }
-        }
-        /*==============================================================
-         full screen START CODE
-         ==============================================================*/
-
-
-        function fullScreenHeight() {
-          var element = $(".full-screen");
-          var $minheight = $(window).height();
-          element.parents("section").imagesLoaded(function () {
-            if ($(".top-space .full-screen").length > 0) {
-              var $headerheight = $("header nav.navbar").outerHeight();
-              $(".top-space .full-screen").css("min-height", $minheight - $headerheight);
-            } else {
-              element.css("min-height", $minheight);
-            }
-          });
-          var minwidth = $(window).width();
-          $(".full-screen-width").css("min-width", minwidth);
-          var sidebarNavHeight = $(".sidebar-nav-style-1").height() - $(".logo-holder").parent().height() - $(".footer-holder").parent().height() - 10;
-          $(".sidebar-nav-style-1 .nav").css("height", sidebarNavHeight);
-          var style2NavHeight = $(".sidebar-part2").height() - parseInt($(".sidebar-part2 .sidebar-middle").css("padding-top")) - parseInt($(".sidebar-part2 .sidebar-middle").css("padding-bottom")) - parseInt($(".sidebar-part2 .sidebar-middle .sidebar-middle-menu .nav").css("margin-bottom"));
-          $(".sidebar-part2 .sidebar-middle .sidebar-middle-menu .nav").css("height", style2NavHeight);
-        }
-        /*==============================================================
-         full screen END CODE
-         ==============================================================*/
-
-
-        function SetResizeContent() {
-          //    all function call
-          feature_dynamic_font_line_height();
-          SetMegamenuPosition();
-          setPageTitleSpace();
-          setButtonPosition();
-          parallax_text();
-          stellarParallax();
-          fullScreenHeight();
-          equalizeHeight();
-        }
-        /* ===================================
-         START RESIZE
-         ====================================== */
-
-
-        $(window).resize(function (event) {
-          // Bootsnav menu work with eualize height
-          $("nav.navbar.bootsnav ul.nav").each(function () {
-            $("li.dropdown", this).on("mouseenter", function (e) {
-              if ($(window).width() > 991) {
-                $(this).find(".equalize").equalize({
-                  equalize: "outerHeight",
-                  reset: true
-                });
-                return false;
+                $(".header_area").removeClass("navbar_fixed");
               }
             });
-          });
-          setTimeout(function () {
-            SetResizeContent();
-          }, 500);
-          event.preventDefault();
+          }
+        }
+
+        navbarFixed();
+        /*----------------------------------------------------*/
+
+        /*  Parallax Effect js
+        /*----------------------------------------------------*/
+
+        function parallaxEffect() {
+          $(".bg-parallax").parallax();
+        }
+
+        parallaxEffect(); //	$('.courses_area').imagesLoaded(function(){
+        //        $('.courses_inner').isotope({
+        //            layoutMode: 'masonry',
+        //			percentPosition: true,
+        //			masonry: {
+        //				columnWidth: 1,
+        //			}
+        //        })
+        //    });
+
+        /*----------------------------------------------------*/
+
+        /*  portfolio_isotope
+        /*----------------------------------------------------*/
+        //	$('.courses_inner').imagesLoaded(function(){
+        //        $('.courses_inner').isotope({
+        //            layoutMode: 'masonry',
+        //            percentPosition:true,
+        //            masonry: {
+        //                columnWidth: 1,
+        //            }
+        //        })
+        //    });
+
+        /*----------------------------------------------------*/
+
+        /*  Clients Slider
+        /*----------------------------------------------------*/
+        //    function clients_slider(){
+        //        if ( $('.clients_slider').length ){
+        //            $('.clients_slider').owlCarousel({
+        //                loop:true,
+        //                margin: 30,
+        //                items: 5,
+        //                nav: false,
+        //                autoplay: false,
+        //                smartSpeed: 1500,
+        //                dots:false,
+        //                responsiveClass: true,
+        //                responsive: {
+        //                    0: {
+        //                        items: 1,
+        //                    },
+        //                    400: {
+        //                        items: 2,
+        //                    },
+        //                    575: {
+        //                        items: 3,
+        //                    },
+        //                    768: {
+        //                        items: 4,
+        //                    },
+        //                    992: {
+        //                        items: 5,
+        //                    }
+        //                }
+        //            })
+        //        }
+        //    }
+        //    clients_slider();
+
+        /*----------------------------------------------------*/
+
+        /*  MailChimp Slider
+        /*----------------------------------------------------*/
+
+        function mailChimp() {
+          $("#mc_embed_signup").find("form").ajaxChimp();
+        }
+
+        mailChimp();
+        $("select").niceSelect();
+        /*----------------------------------------------------*/
+
+        /*  Simple LightBox js
+        /*----------------------------------------------------*/
+
+        $(".imageGallery1 .light").simpleLightbox();
+        $(".counter").counterUp({
+          delay: 10,
+          time: 1000
         });
-        /* ===================================
-         END RESIZE
-         ====================================== */
+        /*----------------------------------------------------*/
 
-        /* ===================================
-         START READY
-         ====================================== */
+        /*  Testimonials Slider
+        /*----------------------------------------------------*/
 
+        function testimonials_slider() {
+          if ($(".testi_slider").length) {
+            $(".testi_slider").owlCarousel({
+              loop: true,
+              margin: 30,
+              items: 1,
+              nav: false,
+              autoplay: false,
+              smartSpeed: 1500,
+              dots: true,
+              //				navContainer: '.testimonials_area',
+              //                navText: ['<i class="lnr lnr-arrow-up"></i>','<i class="lnr lnr-arrow-down"></i>'],
+              responsiveClass: true
+            });
+          }
+        }
+
+        testimonials_slider();
         $(document).ready(function () {
-          "use strict"; // Bootsnav menu work with eualize height
-
-          $("nav.navbar.bootsnav ul.nav").each(function () {
-            $("li.dropdown", this).on("mouseenter", function () {
-              if ($(window).width() > 991) {
-                $(this).find(".equalize").equalize({
-                  equalize: "outerHeight",
-                  reset: true
-                });
-                return false;
-              }
-            });
-          }); // Bootsnav tab work with eualize height
-
-          $('a[data-toggle="tab"]').on("shown.bs.tab", function (e) {
-            var target = $(e.target).attr("href");
-
-            if ($(window).width() > 991) {
-              $(target).find(".equalize").equalize({
-                equalize: "outerHeight",
-                reset: true
-              });
-              return false;
-            }
-          }); // Active class to current menu for only html
-
-          var pgurl = window.location.href.substr(window.location.href.lastIndexOf("/") + 1);
-          var $hash = window.location.hash.substring(1);
-
-          if ($hash) {
-            $hash = "#" + $hash;
-            pgurl = pgurl.replace($hash, "");
-          } else {
-            pgurl = pgurl.replace("#", "");
-          }
-
-          $(".nav li a").each(function () {
-            if ($(this).attr("href") == pgurl || $(this).attr("href") == pgurl + ".html") {
-              $(this).parent().addClass("active");
-              $(this).parents("li.dropdown").addClass("active");
-            }
-          });
-          $(window).scroll(function () {
-            if ($(this).scrollTop() > 150) $(".scroll-top-arrow").fadeIn("slow");else $(".scroll-top-arrow").fadeOut("slow");
-          }); //Click event to scroll to top
-
-          $(document).on("click", ".scroll-top-arrow", function () {
-            $("html, body").animate({
-              scrollTop: 0
-            }, 800);
-            return false;
-          });
-          /* ===================================
-             swiper slider
-             ====================================== */
-
-          var swiperFull = new Swiper(".swiper-full-screen", {
-            loop: true,
-            slidesPerView: 1,
-            preventClicks: false,
-            allowTouchMove: true,
-            pagination: {
-              el: ".swiper-full-screen-pagination",
-              clickable: true
-            },
-            autoplay: {
-              delay: 5000
-            },
-            keyboard: {
-              enabled: true
-            },
-            navigation: {
-              nextEl: ".swiper-button-next",
-              prevEl: ".swiper-button-prev"
-            },
-            on: {
-              resize: function resize() {
-                swiperFull.update();
-              }
-            }
-          });
-          var swiperAutoFade = new Swiper(".swiper-auto-fade", {
-            allowTouchMove: true,
-            loop: true,
-            slidesPerView: 1,
-            preventClicks: false,
-            effect: "fade",
-            autoplay: {
-              delay: 5000
-            },
-            keyboard: {
-              enabled: true
-            },
-            navigation: {
-              nextEl: ".swiper-button-next",
-              prevEl: ".swiper-button-prev"
-            },
-            pagination: {
-              el: ".swiper-auto-pagination",
-              clickable: true
-            },
-            on: {
-              resize: function resize() {
-                swiperAutoFade.update();
-              }
-            }
-          });
-          var swiperSecond = new Swiper(".swiper-slider-second", {
-            allowTouchMove: true,
-            slidesPerView: 1,
-            preventClicks: false,
-            keyboard: {
-              enabled: true
-            },
-            navigation: {
-              nextEl: ".swiper-button-next",
-              prevEl: ".swiper-button-prev"
-            },
-            pagination: {
-              el: ".swiper-pagination-second",
-              clickable: true
-            },
-            on: {
-              resize: function resize() {
-                swiperSecond.update();
-              }
-            }
-          });
-          var swiperThird = new Swiper(".swiper-slider-third", {
-            allowTouchMove: true,
-            slidesPerView: 1,
-            preventClicks: false,
-            keyboard: {
-              enabled: true
-            },
-            navigation: {
-              nextEl: ".swiper-button-next",
-              prevEl: ".swiper-button-prev"
-            },
-            pagination: {
-              el: ".swiper-pagination-third",
-              clickable: true
-            },
-            on: {
-              resize: function resize() {
-                swiperThird.update();
-              }
-            }
-          });
-          var swiperNumber = new Swiper(".swiper-number-pagination", {
-            allowTouchMove: true,
-            preventClicks: false,
-            autoplay: {
-              delay: 4000,
-              disableOnInteraction: true
-            },
-            pagination: {
-              el: ".swiper-number",
-              clickable: true,
-              renderBullet: function renderBullet(index, className) {
-                return '<span class="' + className + '">' + pad(index + 1) + "</span>";
-              }
-            },
-            on: {
-              resize: function resize() {
-                swiperNumber.update();
-              }
-            }
-          });
-          var swiperVerticalPagination = new Swiper(".swiper-vertical-pagination", {
-            allowTouchMove: true,
-            direction: "vertical",
-            slidesPerView: 1,
-            spaceBetween: 0,
-            preventClicks: false,
-            mousewheel: {
-              mousewheel: true,
-              sensitivity: 1,
-              releaseOnEdges: true
-            },
-            navigation: {
-              nextEl: ".swiper-button-next",
-              prevEl: ".swiper-button-prev"
-            },
-            pagination: {
-              el: ".swiper-pagination-vertical",
-              clickable: true
-            },
-            on: {
-              resize: function resize() {
-                swiperVerticalPagination.update();
-              }
-            }
-          });
-          var swiperClients = new Swiper(".swiper-slider-clients", {
-            allowTouchMove: true,
-            slidesPerView: 4,
-            paginationClickable: true,
-            preventClicks: true,
-            autoplay: {
-              delay: 3000,
-              disableOnInteraction: true
-            },
-            pagination: {
-              el: null
-            },
-            breakpoints: {
-              1199: {
-                slidesPerView: 3
-              },
-              991: {
-                slidesPerView: 2
-              },
-              767: {
-                slidesPerView: 1
-              }
-            },
-            on: {
-              resize: function resize() {
-                swiperClients.update();
-              }
-            }
-          });
-          var swiperClients2 = new Swiper(".swiper-slider-clients-second", {
-            allowTouchMove: true,
-            slidesPerView: 4,
-            paginationClickable: true,
-            preventClicks: true,
-            autoplay: {
-              delay: 3000,
-              disableOnInteraction: true
-            },
-            pagination: {
-              el: null
-            },
-            breakpoints: {
-              1199: {
-                slidesPerView: 3
-              },
-              991: {
-                slidesPerView: 2
-              },
-              767: {
-                slidesPerView: 1
-              }
-            },
-            on: {
-              resize: function resize() {
-                swiperClients2.update();
-              }
-            }
-          });
-          var swiperThreeSlides = new Swiper(".swiper-three-slides", {
-            allowTouchMove: true,
-            slidesPerView: 3,
-            preventClicks: false,
-            pagination: {
-              el: ".swiper-pagination-three-slides",
-              clickable: true
-            },
-            autoplay: {
-              delay: 3000
-            },
-            keyboard: {
-              enabled: true
-            },
-            navigation: {
-              nextEl: ".swiper-three-slide-next",
-              prevEl: ".swiper-three-slide-prev"
-            },
-            breakpoints: {
-              991: {
-                slidesPerView: 2
-              },
-              767: {
-                slidesPerView: 1
-              }
-            },
-            on: {
-              resize: function resize() {
-                swiperThreeSlides.update();
-              }
-            }
-          });
-          var swiperFourSlides = new Swiper(".swiper-four-slides", {
-            allowTouchMove: true,
-            slidesPerView: 4,
-            preventClicks: false,
-            pagination: {
-              el: ".swiper-pagination-four-slides",
-              clickable: true
-            },
-            autoplay: {
-              delay: 3000
-            },
-            keyboard: {
-              enabled: true
-            },
-            navigation: {
-              nextEl: ".swiper-button-next",
-              prevEl: ".swiper-button-prev"
-            },
-            breakpoints: {
-              1199: {
-                slidesPerView: 3
-              },
-              991: {
-                slidesPerView: 2
-              },
-              767: {
-                slidesPerView: 1
-              }
-            },
-            on: {
-              resize: function resize() {
-                swiperFourSlides.update();
-              }
-            }
-          });
-          var swiperDemoHeaderStyle = new Swiper(".swiper-demo-header-style", {
-            allowTouchMove: true,
-            loop: true,
-            slidesPerView: 4,
-            preventClicks: true,
-            slidesPerGroup: 4,
-            pagination: {
-              el: ".swiper-pagination-demo-header-style",
-              clickable: true
-            },
-            autoplay: {
-              delay: 3000
-            },
-            keyboard: {
-              enabled: true
-            },
-            navigation: {
-              nextEl: ".swiper-button-next",
-              prevEl: ".swiper-button-prev"
-            },
-            breakpoints: {
-              1199: {
-                slidesPerGroup: 2,
-                slidesPerView: 2
-              },
-              767: {
-                slidesPerGroup: 1,
-                slidesPerView: 1
-              }
-            },
-            on: {
-              resize: function resize() {
-                swiperDemoHeaderStyle.update();
-              }
-            }
-          });
-          var $swiperAutoSlideIndex = 0;
-          var swiperAutoSlide = new Swiper(".swiper-auto-slide", {
-            allowTouchMove: true,
-            slidesPerView: "auto",
-            centeredSlides: true,
-            spaceBetween: 80,
-            preventClicks: false,
-            observer: true,
-            speed: 1000,
-            pagination: {
-              el: null
-            },
-            scrollbar: {
-              el: ".swiper-scrollbar",
-              draggable: true,
-              hide: false,
-              snapOnRelease: true
-            },
-            autoplay: {
-              delay: 3000
-            },
-            mousewheel: {
-              invert: false
-            },
-            keyboard: {
-              enabled: true
-            },
-            navigation: {
-              nextEl: ".swiper-next-style2",
-              prevEl: ".swiper-prev-style2"
-            },
-            breakpoints: {
-              1199: {
-                spaceBetween: 60
-              },
-              960: {
-                spaceBetween: 30
-              },
-              767: {
-                spaceBetween: 15
-              }
-            },
-            on: {
-              resize: function resize() {
-                swiperAutoSlide.update();
-              }
-            }
-          });
-
-          if ($(window).width() > 767) {
-            var swiperBottomScrollbarFull = new Swiper(".swiper-bottom-scrollbar-full", {
-              allowTouchMove: true,
-              slidesPerView: "auto",
-              grabCursor: true,
-              preventClicks: false,
-              spaceBetween: 30,
-              keyboardControl: true,
-              speed: 1000,
-              pagination: {
-                el: null
-              },
-              scrollbar: {
-                el: ".swiper-scrollbar",
-                draggable: true,
-                hide: false,
-                snapOnRelease: true
-              },
-              mousewheel: {
-                enable: true
-              },
-              keyboard: {
-                enabled: true
-              },
-              navigation: {
-                nextEl: ".swiper-button-next",
-                prevEl: ".swiper-button-prev"
-              }
-            });
-          }
-
-          var swiperAutoHieght = new Swiper(".swiper-auto-height-container", {
-            allowTouchMove: true,
-            effect: "fade",
-            loop: true,
-            autoHeight: true,
-            pagination: {
-              el: ".swiper-auto-height-pagination",
-              clickable: true
-            },
-            autoplay: {
-              delay: 3000
-            },
-            navigation: {
-              nextEl: ".swiper-button-next",
-              prevEl: ".swiper-button-prev"
-            },
-            on: {
-              resize: function resize() {
-                swiperAutoHieght.update();
-              }
-            }
-          });
-          var swiperMultyRow = new Swiper(".swiper-multy-row-container", {
-            allowTouchMove: true,
-            slidesPerView: 4,
-            spaceBetween: 15,
-            pagination: {
-              el: ".swiper-multy-row-pagination",
-              clickable: true
-            },
-            autoplay: {
-              delay: 3000,
-              disableOnInteraction: true
-            },
-            navigation: {
-              nextEl: ".swiper-portfolio-next",
-              prevEl: ".swiper-portfolio-prev"
-            },
-            breakpoints: {
-              991: {
-                slidesPerView: 2
-              },
-              767: {
-                slidesPerView: 1
-              }
-            },
-            on: {
-              resize: function resize() {
-                swiperMultyRow.update();
-              }
-            }
-          });
-          var swiperBlog = new Swiper(".swiper-blog", {
-            allowTouchMove: true,
-            slidesPerView: "auto",
-            centeredSlides: true,
-            spaceBetween: 15,
-            preventClicks: false,
-            loop: true,
-            loopedSlides: 3,
-            pagination: {
-              el: ".swiper-blog-pagination",
-              clickable: true
-            },
-            autoplay: {
-              delay: 5000,
-              disableOnInteraction: true
-            },
-            navigation: {
-              nextEl: ".swiper-button-next",
-              prevEl: ".swiper-button-prev"
-            },
-            on: {
-              resize: function resize() {
-                swiperBlog.update();
-              }
-            }
-          });
-          var swiperPresentation = new Swiper(".swiper-presentation", {
-            allowTouchMove: true,
-            slidesPerView: 4,
-            centeredSlides: true,
-            spaceBetween: 30,
-            preventClicks: true,
-            loop: true,
-            loopedSlides: 6,
-            pagination: {
-              el: ".swiper-presentation-pagination",
-              clickable: true
-            },
-            autoplay: {
-              delay: 3000,
-              disableOnInteraction: true
-            },
-            keyboard: {
-              enabled: true
-            },
-            navigation: {
-              nextEl: ".swiper-button-next",
-              prevEl: ".swiper-button-prev"
-            },
-            breakpoints: {
-              991: {
-                spaceBetween: 15,
-                slidesPerView: 2
-              },
-              767: {
-                slidesPerView: 1
-              }
-            },
-            on: {
-              resize: function resize() {
-                swiperPresentation.update();
-              }
-            }
-          });
-          var resizeId;
-          $(window).resize(function () {
-            if ($(".swiper-auto-slide").length > 0 && swiperAutoSlide) {
-              $swiperAutoSlideIndex = swiperAutoSlide.activeIndex;
-              swiperAutoSlide.detachEvents();
-              swiperAutoSlide.destroy(true, false);
-              swiperAutoSlide = undefined;
-              $(".swiper-auto-slide .swiper-wrapper").css("transform", "").css("transition-duration", "");
-              $(".swiper-auto-slide .swiper-slide").css("margin-right", "");
-              setTimeout(function () {
-                swiperAutoSlide = new Swiper(".swiper-auto-slide", {
-                  allowTouchMove: true,
-                  slidesPerView: "auto",
-                  centeredSlides: true,
-                  spaceBetween: 80,
-                  preventClicks: false,
-                  mousewheelControl: true,
-                  observer: true,
-                  speed: 1000,
-                  pagination: {
-                    el: null
-                  },
-                  scrollbar: {
-                    el: ".swiper-scrollbar",
-                    draggable: true,
-                    hide: false,
-                    snapOnRelease: true
-                  },
-                  autoplay: {
-                    delay: 3000
-                  },
-                  keyboard: {
-                    enabled: true
-                  },
-                  navigation: {
-                    nextEl: ".swiper-next-style2",
-                    prevEl: ".swiper-prev-style2"
-                  },
-                  breakpoints: {
-                    1199: {
-                      spaceBetween: 60
-                    },
-                    960: {
-                      spaceBetween: 30
-                    },
-                    767: {
-                      spaceBetween: 15
-                    }
-                  },
-                  on: {
-                    resize: function resize() {
-                      swiperAutoSlide.update();
-                    }
-                  }
-                });
-                swiperAutoSlide.slideTo($swiperAutoSlideIndex, 1000, false);
-              }, 1000);
-            }
-
-            if ($(".swiper-bottom-scrollbar-full").length > 0) {
-              clearTimeout(resizeId);
-              resizeId = setTimeout(doneResizing, 1000);
-            }
-            /* update all swiper on window resize */
-
-
-            setTimeout(function () {
-              if ($(".swiper-full-screen").length > 0 && swiperFull) {
-                swiperFull.update();
-              }
-
-              if ($(".swiper-auto-fade").length > 0 && swiperAutoFade) {
-                swiperAutoFade.update();
-              }
-
-              if ($(".swiper-slider-second").length > 0 && swiperSecond) {
-                swiperSecond.update();
-              }
-
-              if ($(".swiper-slider-third").length > 0 && swiperThird) {
-                swiperThird.update();
-              }
-
-              if ($(".swiper-number-pagination").length > 0 && swiperNumber) {
-                swiperNumber.update();
-              }
-
-              if ($(".swiper-vertical-pagination").length > 0 && swiperVerticalPagination) {
-                swiperVerticalPagination.update();
-              }
-
-              if ($(".swiper-slider-clients").length > 0 && swiperClients) {
-                swiperClients.update();
-              }
-
-              if ($(".swiper-slider-clients-second").length > 0 && swiperClients2) {
-                swiperClients2.update();
-              }
-
-              if ($(".swiper-three-slides").length > 0 && swiperThreeSlides) {
-                swiperThreeSlides.update();
-              }
-
-              if ($(".swiper-four-slides").length > 0 && swiperFourSlides) {
-                swiperFourSlides.update();
-              }
-
-              if ($(".swiper-demo-header-style").length > 0 && swiperDemoHeaderStyle) {
-                swiperDemoHeaderStyle.update();
-              }
-
-              if ($(".swiper-auto-slide").length > 0 && swiperAutoSlide) {
-                swiperAutoSlide.update();
-              }
-
-              if ($(".swiper-auto-height-container").length > 0 && swiperAutoHieght) {
-                swiperAutoHieght.update();
-              }
-
-              if ($(".swiper-multy-row-container").length > 0 && swiperMultyRow) {
-                swiperMultyRow.update();
-              }
-
-              if ($(".swiper-blog").length > 0 && swiperBlog) {
-                swiperBlog.update();
-              }
-
-              if ($(".swiper-presentation").length > 0 && swiperPresentation) {
-                swiperPresentation.update();
-              }
-            }, 500);
-
-            if (isIE()) {
-              setTimeout(function () {
-                if ($(".swiper-full-screen").length > 0 && swiperFull) {
-                  swiperFull.update();
-                }
-
-                if ($(".swiper-auto-fade").length > 0 && swiperAutoFade) {
-                  swiperAutoFade.update();
-                }
-
-                if ($(".swiper-slider-second").length > 0 && swiperSecond) {
-                  swiperSecond.update();
-                }
-
-                if ($(".swiper-slider-third").length > 0 && swiperThird) {
-                  swiperThird.update();
-                }
-
-                if ($(".swiper-number-pagination").length > 0 && swiperNumber) {
-                  swiperNumber.update();
-                }
-
-                if ($(".swiper-vertical-pagination").length > 0 && swiperVerticalPagination) {
-                  swiperVerticalPagination.update();
-                }
-
-                if ($(".swiper-slider-clients").length > 0 && swiperClients) {
-                  swiperClients.update();
-                }
-
-                if ($(".swiper-slider-clients-second").length > 0 && swiperClients2) {
-                  swiperClients2.update();
-                }
-
-                if ($(".swiper-three-slides").length > 0 && swiperThreeSlides) {
-                  swiperThreeSlides.update();
-                }
-
-                if ($(".swiper-four-slides").length > 0 && swiperFourSlides) {
-                  swiperFourSlides.update();
-                }
-
-                if ($(".swiper-demo-header-style").length > 0 && swiperDemoHeaderStyle) {
-                  swiperDemoHeaderStyle.update();
-                }
-
-                if ($(".swiper-auto-slide").length > 0 && swiperAutoSlide) {
-                  swiperAutoSlide.update();
-                }
-
-                if ($(".swiper-auto-height-container").length > 0 && swiperAutoHieght) {
-                  swiperAutoHieght.update();
-                }
-
-                if ($(".swiper-multy-row-container").length > 0 && swiperMultyRow) {
-                  swiperMultyRow.update();
-                }
-
-                if ($(".swiper-blog").length > 0 && swiperBlog) {
-                  swiperBlog.update();
-                }
-
-                if ($(".swiper-presentation").length > 0 && swiperPresentation) {
-                  swiperPresentation.update();
-                }
-              }, 500);
-            }
-          });
-
-          function doneResizing() {
-            if (swiperBottomScrollbarFull) {
-              swiperBottomScrollbarFull.detachEvents();
-              swiperBottomScrollbarFull.destroy(true, true);
-              swiperBottomScrollbarFull = undefined;
-            }
-
-            $(".swiper-bottom-scrollbar-full .swiper-wrapper").css("transform", "").css("transition-duration", "");
-            $(".swiper-bottom-scrollbar-full .swiper-slide").css("margin-right", "");
-            $(".swiper-bottom-scrollbar-full .swiper-wrapper").removeAttr("style");
-            $(".swiper-bottom-scrollbar-full .swiper-slide").removeAttr("style");
-
-            if ($(window).width() > 767) {
-              setTimeout(function () {
-                swiperBottomScrollbarFull = new Swiper(".swiper-bottom-scrollbar-full", {
-                  allowTouchMove: true,
-                  slidesPerView: "auto",
-                  grabCursor: true,
-                  preventClicks: false,
-                  spaceBetween: 30,
-                  keyboardControl: true,
-                  speed: 1000,
-                  pagination: {
-                    el: null
-                  },
-                  scrollbar: {
-                    el: ".swiper-scrollbar",
-                    draggable: true,
-                    hide: false,
-                    snapOnRelease: true
-                  },
-                  mousewheel: {
-                    enable: true
-                  },
-                  keyboard: {
-                    enabled: true
-                  },
-                  navigation: {
-                    nextEl: ".swiper-button-next",
-                    prevEl: ".swiper-button-prev"
-                  }
-                });
-              }, 500);
-            }
-          }
-          /*==============================================================
-             smooth scroll
-             ==============================================================*/
-
-
-          var scrollAnimationTime = 1200,
-              scrollAnimation = "easeInOutExpo";
-          $(document).on("click.smoothscroll", "a.scrollto", function (event) {
-            event.preventDefault();
-            var target = this.hash;
-
-            if ($(target).length != 0) {
-              $("html, body").stop().animate({
-                scrollTop: $(target).offset().top
-              }, scrollAnimationTime, scrollAnimation, function () {
-                window.location.hash = target;
-              });
-            }
-          });
-          /*==============================================================
-             humburger menu one page navigation
-             ==============================================================*/
-
-          if ($(".full-width-pull-menu").length > 0) {
-            $(document).on("click", ".full-width-pull-menu .inner-link", function (e) {
-              //$('body').removeClass('overflow-hidden position-fixed');
-              $(".full-width-pull-menu .close-button-menu").trigger("click");
-
-              var _this = $(this);
-
-              setTimeout(function () {
-                var target = _this.attr("href");
-
-                if ($(target).length > 0) {
-                  $("html, body").stop().animate({
-                    scrollTop: $(target).offset().top
-                  });
-                }
-              }, 500);
-            });
-          } // Inner links
-
-
-          if ($(".navbar-top").length > 0 || $(".navbar-scroll-top").length > 0 || $(".nav-top-scroll").length > 0) {
-            $(".inner-link").smoothScroll({
-              speed: 900,
-              offset: 0
-            });
-          } else {
-            $(".inner-link").smoothScroll({
-              speed: 900,
-              offset: -59
-            });
-          }
-
-          $(".section-link").smoothScroll({
-            speed: 900,
-            offset: 1
-          });
-          /*==============================================================*/
-          //PieChart For Onepage - START CODE
-
-          /*==============================================================*/
-
-          if ($(".chart1").length > 0) {
-            $(".chart1").appear();
-            $(".chart1").easyPieChart({
-              barColor: "#929292",
-              trackColor: "#d9d9d9",
-              scaleColor: false,
-              easing: "easeOutBounce",
-              scaleLength: 1,
-              lineCap: "round",
-              lineWidth: 3,
-              size: 150,
-              animate: {
-                duration: 2000,
-                enabled: true
-              },
-              onStep: function onStep(from, to, percent) {
-                $(this.el).find(".percent").text(Math.round(percent));
-              }
-            });
-            $(document.body).on("appear", ".chart1", function (e) {
-              // this code is executed for each appeared element
-              if (!$(this).hasClass("appear")) {
-                $(this).addClass("appear");
-                $(this).data("easyPieChart").update(0).update($(this).data("percent"));
-              }
-            });
-          }
-
-          if ($(".chart2").length > 0) {
-            $(".chart2").appear();
-            $(".chart2").easyPieChart({
-              easing: "easeOutCirc",
-              barColor: "#ff214f",
-              trackColor: "#c7c7c7",
-              scaleColor: false,
-              scaleLength: 1,
-              lineCap: "round",
-              lineWidth: 2,
-              size: 120,
-              animate: {
-                duration: 2000,
-                enabled: true
-              },
-              onStep: function onStep(from, to, percent) {
-                $(this.el).find(".percent").text(Math.round(percent));
-              }
-            });
-            $(document.body).on("appear", ".chart2", function (e) {
-              // this code is executed for each appeared element
-              if (!$(this).hasClass("appear")) {
-                $(this).addClass("appear");
-                $(this).data("easyPieChart").update(0).update($(this).data("percent"));
-              }
-            });
-          }
-
-          if ($(".chart3").length > 0) {
-            $(".chart3").appear();
-            $(".chart3").easyPieChart({
-              easing: "easeOutCirc",
-              barColor: "#ff214f",
-              trackColor: "",
-              scaleColor: false,
-              scaleLength: 1,
-              lineCap: "round",
-              lineWidth: 3,
-              size: 140,
-              animate: {
-                duration: 2000,
-                enabled: true
-              },
-              onStep: function onStep(from, to, percent) {
-                $(this.el).find(".percent").text(Math.round(percent));
-              }
-            });
-            $(document.body).on("appear", ".chart3", function (e) {
-              // this code is executed for each appeared element
-              if (!$(this).hasClass("appear")) {
-                $(this).addClass("appear");
-                $(this).data("easyPieChart").update(0).update($(this).data("percent"));
-              }
-            });
-          }
-          /*==============================================================*/
-          //PieChart For Onepage - END CODE
-
-          /*==============================================================*/
-
-          /*==============================================================
-             portfolio filter
-             ==============================================================*/
-
-
-          var $portfolio_filter = $(".portfolio-grid");
-          $portfolio_filter.imagesLoaded(function () {
-            $portfolio_filter.isotope({
-              layoutMode: "masonry",
-              itemSelector: ".grid-item",
-              percentPosition: true,
-              masonry: {
-                columnWidth: ".grid-sizer"
-              }
-            });
-            $portfolio_filter.isotope();
-          });
-          var $grid_selectors = $(".portfolio-filter > li > a");
-          $grid_selectors.on("click", function () {
-            $grid_selectors.parent().removeClass("active");
-            $(this).parent().addClass("active");
-            var selector = $(this).attr("data-filter");
-            $portfolio_filter.find(".grid-item").removeClass("animated").css("visibility", ""); // avoid problem to filter after sorting
-
-            $portfolio_filter.find(".grid-item").each(function () {
-              /* remove perticular element from WOW array when you don't want animation on element after DOM lead */
-              wow.removeBox(this);
-              $(this).css("-webkit-animation", "none");
-              $(this).css("-moz-animation", "none");
-              $(this).css("-ms-animation", "none");
-              $(this).css("animation", "none");
-            });
-            $portfolio_filter.isotope({
-              filter: selector
-            });
-            return false;
-          });
-          $(window).resize(function () {
-            if (!isMobile && !isiPhoneiPad) {
-              $portfolio_filter.imagesLoaded(function () {
-                setTimeout(function () {
-                  $portfolio_filter.find(".grid-item").removeClass("wow").removeClass("animated"); // avoid problem to filter after window resize
-
-                  $portfolio_filter.isotope("layout");
-                }, 300);
-              });
-            }
-          });
-          var $blog_filter = $(".blog-grid");
-          $blog_filter.imagesLoaded(function () {
-            $blog_filter.isotope({
-              layoutMode: "masonry",
-              itemSelector: ".grid-item",
-              percentPosition: true,
-              masonry: {
-                columnWidth: ".grid-sizer"
-              }
-            });
-          });
-          $(window).resize(function () {
-            setTimeout(function () {
-              $blog_filter.find(".grid-item").removeClass("wow").removeClass("animated"); // avoid problem to filter after window resize
-
-              $blog_filter.isotope("layout");
-            }, 300);
-          });
-          /*==============================================================
-             lightbox gallery
-             ==============================================================*/
-
-          $(".lightbox-gallery").magnificPopup({
-            delegate: "a",
-            type: "image",
-            tLoading: "Loading image #%curr%...",
-            mainClass: "mfp-fade",
-            fixedContentPos: true,
-            closeBtnInside: false,
-            gallery: {
-              enabled: true,
-              navigateByImgClick: true,
-              preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
-
-            }
-          });
-          /* for group gallery */
-
-          var lightboxgallerygroups = {};
-          $(".lightbox-group-gallery-item").each(function () {
-            var id = $(this).attr("data-group");
-
-            if (!lightboxgallerygroups[id]) {
-              lightboxgallerygroups[id] = [];
-            }
-
-            lightboxgallerygroups[id].push(this);
-          });
-          $.each(lightboxgallerygroups, function () {
-            $(this).magnificPopup({
-              type: "image",
-              closeOnContentClick: true,
-              closeBtnInside: false,
-              gallery: {
-                enabled: true
-              }
-            });
-          });
-          $(".lightbox-portfolio").magnificPopup({
-            delegate: ".gallery-link",
-            type: "image",
-            tLoading: "Loading image #%curr%...",
-            mainClass: "mfp-fade",
-            fixedContentPos: true,
-            closeBtnInside: false,
-            gallery: {
-              enabled: true,
-              navigateByImgClick: false,
-              preload: [0, 1] // Will preload 0 - before current, and 1 after the current image
-
-            }
-          });
-          /*==============================================================
-             single image lightbox - zoom animation
-             ==============================================================*/
-
-          $(".single-image-lightbox").magnificPopup({
-            type: "image",
-            closeOnContentClick: true,
-            fixedContentPos: true,
-            closeBtnInside: false,
-            mainClass: "mfp-no-margins mfp-with-zoom",
-            image: {
-              verticalFit: true
-            },
-            zoom: {
-              enabled: true,
-              duration: 300 // don't foget to change the duration also in CSS
-
-            }
-          });
-          /*==============================================================
-             zoom gallery
-             ==============================================================*/
-
-          $(".zoom-gallery").magnificPopup({
-            delegate: "a",
-            type: "image",
-            mainClass: "mfp-with-zoom mfp-img-mobile",
-            fixedContentPos: true,
-            closeBtnInside: false,
-            image: {
-              verticalFit: true,
-              titleSrc: function titleSrc(item) {
-                return item.el.attr("title");
-              }
-            },
-            gallery: {
-              enabled: true
-            },
-            zoom: {
-              enabled: true,
-              duration: 300,
-              opener: function opener(element) {
-                return element.find("img");
-              }
-            }
-          });
-          /*==============================================================*/
-          //Modal popup - START CODE
-
-          /*==============================================================*/
-
-          $(".modal-popup").magnificPopup({
-            type: "inline",
-            preloader: false,
-            // modal: true,
-            blackbg: true,
-            callbacks: {
-              open: function open() {
-                $("html").css("margin-right", 0);
-              }
-            }
-          });
-          $(document).on("click", ".popup-modal-dismiss", function (e) {
-            e.preventDefault();
-            $.magnificPopup.close();
-          });
-          /*==============================================================*/
-          //Modal popup - END CODE
-
-          /*==============================================================*/
-
-          /*==============================================================*/
-          //Modal popup - zoom animation - START CODE
-
-          /*==============================================================*/
-
-          $(".popup-with-zoom-anim").magnificPopup({
-            type: "inline",
-            fixedContentPos: false,
-            fixedBgPos: true,
-            overflowY: "auto",
-            closeBtnInside: true,
-            preloader: false,
-            midClick: true,
-            removalDelay: 300,
-            blackbg: true,
-            mainClass: "my-mfp-zoom-in"
-          });
-          $(".popup-with-move-anim").magnificPopup({
-            type: "inline",
-            fixedContentPos: false,
-            fixedBgPos: true,
-            overflowY: "auto",
-            closeBtnInside: true,
-            preloader: false,
-            midClick: true,
-            removalDelay: 300,
-            blackbg: true,
-            mainClass: "my-mfp-slide-bottom"
-          });
-          /*==============================================================*/
-          //Modal popup - zoom animation - END CODE
-
-          /*==============================================================*/
-
-          /*==============================================================
-             popup with form
-             ==============================================================*/
-
-          $(".popup-with-form").magnificPopup({
-            type: "inline",
-            preloader: false,
-            closeBtnInside: false,
-            fixedContentPos: true,
-            focus: "#name",
-            callbacks: {
-              beforeOpen: function beforeOpen() {
-                if ($(window).width() < 700) {
-                  this.st.focus = false;
-                } else {
-                  this.st.focus = "#name";
-                }
-              }
-            }
-          });
-          /*==============================================================
-             video magnific popup
-             ==============================================================*/
-
-          $(".popup-youtube, .popup-vimeo, .popup-googlemap").magnificPopup({
+          $(".popup-youtube, .popup-vimeo, .popup-gmaps").magnificPopup({
             disableOn: 700,
             type: "iframe",
             mainClass: "mfp-fade",
             removalDelay: 160,
             preloader: false,
-            fixedContentPos: "auto",
-            closeBtnInside: false
+            fixedContentPos: false
           });
-          /*==============================================================
-             ajax magnific popup for onepage portfolio
-             ==============================================================*/
-
-          $(".ajax-popup").magnificPopup({
-            type: "ajax",
-            alignTop: true,
-            fixedContentPos: true,
-            overflowY: "scroll",
-            callbacks: {
-              open: function open() {
-                $(".navbar .collapse").removeClass("in");
-                $(".navbar a.dropdown-toggle").addClass("collapsed");
-              }
-            }
-          });
-          /*==============================================================
-             mega menu width
-             ===============================================================*/
-
-          $("ul.mega-menu-full").each(function (idx, elm) {
-            var megaMenuWidth = 0;
-            $(this).children("li").each(function (idx, elm) {
-              var LIheight = 0;
-              megaMenuWidth += $(this).outerWidth();
-            });
-            $(this).width(megaMenuWidth + 95);
-            megaMenuWidth = 0;
-          });
-          /*==============================================================
-             fit videos
-             ==============================================================*/
-
-          $(".fit-videos").fitVids();
-          /*==============================================================
-             form to email
-             ==============================================================*/
-
-          $("#success-subscribe-newsletter").hide();
-          $("#success-subscribe-newsletter2").hide();
-          $("#success-contact-form").hide();
-          $("#success-project-contact-form").hide();
-          $("#success-contact-form-2").hide();
-          $("#success-contact-form-3").hide();
-          $("#success-project-contact-form-4").hide(); //Subscribe newsletter form
-
-          $(document).on("click", "#button-subscribe-newsletter", function () {
-            var error = ValidationsubscribenewsletterForm();
-
-            if (error) {
-              $.ajax({
-                type: "POST",
-                url: "email-templates/subscribe-newsletter.php",
-                data: $("#subscribenewsletterform").serialize(),
-                success: function success(result) {
-                  // Un-comment below code to redirect user to thank you page.
-                  //window.location.href="thank-you.html";
-                  $("input[type=text],textarea").each(function () {
-                    $(this).val("");
-                  });
-                  $("#success-subscribe-newsletter").html(result);
-                  $("#success-subscribe-newsletter").fadeIn("slow");
-                  $("#success-subscribe-newsletter").delay(4000).fadeOut("slow");
-                }
-              });
-            }
-          });
-
-          function ValidationsubscribenewsletterForm() {
-            var error = true;
-            $("#subscribenewsletterform input[type=text]").each(function (index) {
-              if (index == 0) {
-                if (!/(.+)@(.+){2,}\.(.+){2,}/.test($(this).val())) {
-                  $("#subscribenewsletterform").find("input:eq(" + index + ")").addClass("required-error");
-                  error = false;
-                } else {
-                  $("#subscribenewsletterform").find("input:eq(" + index + ")").removeClass("required-error");
-                }
-              }
-            });
-            return error;
-          }
-
-          $(document).on("click", "#button-subscribe-newsletter2", function () {
-            var error = ValidationsubscribenewsletterForm2();
-
-            if (error) {
-              $.ajax({
-                type: "POST",
-                url: "email-templates/subscribe-newsletter.php",
-                data: $("#subscribenewsletterform2").serialize(),
-                success: function success(result) {
-                  // Un-comment below code to redirect user to thank you page.
-                  //window.location.href="thank-you.html";
-                  $("input[type=text],textarea").each(function () {
-                    $(this).val("");
-                  });
-                  $("#success-subscribe-newsletter2").html(result);
-                  $("#success-subscribe-newsletter2").fadeIn("slow");
-                  $("#success-subscribe-newsletter2").delay(4000).fadeOut("slow");
-                }
-              });
-            }
-          });
-
-          function ValidationsubscribenewsletterForm2() {
-            var error = true;
-            $("#subscribenewsletterform2 input[type=text]").each(function (index) {
-              if (index == 0) {
-                if (!/(.+)@(.+){2,}\.(.+){2,}/.test($(this).val())) {
-                  $("#subscribenewsletterform2").find("input:eq(" + index + ")").addClass("required-error");
-                  error = false;
-                } else {
-                  $("#subscribenewsletterform2").find("input:eq(" + index + ")").removeClass("required-error");
-                }
-              }
-            });
-            return error;
-          } //Contact us form
-
-
-          $(document).on("click", "#contact-us-button", function () {
-            var error = ValidationContactForm();
-
-            if (error) {
-              $.ajax({
-                type: "POST",
-                url: "email-templates/contact.php",
-                data: $("#contact-form").serialize(),
-                success: function success(result) {
-                  // Un-comment below code to redirect user to thank you page.
-                  //window.location.href="thank-you.html";
-                  $("input[type=text],textarea").each(function () {
-                    $(this).val("");
-                  });
-                  $("#success-contact-form").html(result);
-                  $("#success-contact-form").fadeIn("slow");
-                  $("#success-contact-form").delay(4000).fadeOut("slow");
-                }
-              });
-            }
-          });
-
-          function ValidationContactForm() {
-            var error = true;
-            $("#contact-form input[type=text]").each(function (index) {
-              if (index == 0) {
-                if ($(this).val() == null || $(this).val() == "") {
-                  $("#contact-form").find("input:eq(" + index + ")").addClass("required-error");
-                  error = false;
-                } else {
-                  $("#contact-form").find("input:eq(" + index + ")").removeClass("required-error");
-                }
-              } else if (index == 1) {
-                if (!/(.+)@(.+){2,}\.(.+){2,}/.test($(this).val())) {
-                  $("#contact-form").find("input:eq(" + index + ")").addClass("required-error");
-                  error = false;
-                } else {
-                  $("#contact-form").find("input:eq(" + index + ")").removeClass("required-error");
-                }
-              }
-            });
-            return error;
-          } //Contact us form 2
-
-
-          $("#contact-us-button-2").on("click", function () {
-            var error = ValidationContactForm2();
-
-            if (error) {
-              $.ajax({
-                type: "POST",
-                url: "email-templates/contact.php",
-                data: $("#contact-form-2").serialize(),
-                success: function success(result) {
-                  // Un-comment below code to redirect user to thank you page.
-                  //window.location.href="thank-you.html";
-                  $("input[type=text],textarea").each(function () {
-                    $(this).val("");
-                  });
-                  $("#success-contact-form-2").html(result);
-                  $("#success-contact-form-2").fadeIn("slow");
-                  $("#success-contact-form-2").delay(4000).fadeOut("slow");
-                }
-              });
-            }
-          });
-
-          function ValidationContactForm2() {
-            var error = true;
-            $("#contact-form-2 input[type=text]").each(function (index) {
-              if (index == 0) {
-                if ($(this).val() == null || $(this).val() == "") {
-                  $("#contact-form-2").find("input:eq(" + index + ")").addClass("required-error");
-                  error = false;
-                } else {
-                  $("#contact-form-2").find("input:eq(" + index + ")").removeClass("required-error");
-                }
-              } else if (index == 1) {
-                if (!/(.+)@(.+){2,}\.(.+){2,}/.test($(this).val())) {
-                  $("#contact-form-2").find("input:eq(" + index + ")").addClass("required-error");
-                  error = false;
-                } else {
-                  $("#contact-form-2").find("input:eq(" + index + ")").removeClass("required-error");
-                }
-              }
-            });
-            return error;
-          } //Contact us form 3
-
-
-          $(document).on("click", "#contact-us-button-3", function () {
-            var error = ValidationContactForm3();
-
-            if (error) {
-              $.ajax({
-                type: "POST",
-                url: "email-templates/contact.php",
-                data: $("#contact-form-3").serialize(),
-                success: function success(result) {
-                  // Un-comment below code to redirect user to thank you page.
-                  //window.location.href="thank-you.html";
-                  $("input[type=text],textarea").each(function () {
-                    $(this).val("");
-                  });
-                  $("#success-contact-form-3").html(result);
-                  $("#success-contact-form-3").fadeIn("slow");
-                  $("#success-contact-form-3").delay(4000).fadeOut("slow");
-                }
-              });
-            }
-          });
-
-          function ValidationContactForm3() {
-            var error = true;
-            $("#contact-form-3 input[type=text]").each(function (index) {
-              if (index == 0) {
-                if ($(this).val() == null || $(this).val() == "") {
-                  $("#contact-form-3").find("input:eq(" + index + ")").addClass("required-error");
-                  error = false;
-                } else {
-                  $("#contact-form-3").find("input:eq(" + index + ")").removeClass("required-error");
-                }
-              } else if (index == 1) {
-                if (!/(.+)@(.+){2,}\.(.+){2,}/.test($(this).val())) {
-                  $("#contact-form-3").find("input:eq(" + index + ")").addClass("required-error");
-                  error = false;
-                } else {
-                  $("#contact-form-3").find("input:eq(" + index + ")").removeClass("required-error");
-                }
-              }
-            });
-            return error;
-          } //Project Contact us form
-
-
-          $(document).on("click", "#project-contact-us-button", function () {
-            var error = ValidationProjectContactForm();
-
-            if (error) {
-              $.ajax({
-                type: "POST",
-                url: "email-templates/project-contact.php",
-                data: $("#project-contact-form").serialize(),
-                success: function success(result) {
-                  // Un-comment below code to redirect user to thank you page.
-                  //window.location.href="thank-you.html";
-                  $("input[type=text],textarea").each(function () {
-                    $(this).val("");
-                  });
-                  $("#success-project-contact-form").html(result);
-                  $("#success-project-contact-form").fadeIn("slow");
-                  $("#success-project-contact-form").delay(4000).fadeOut("slow");
-                }
-              });
-            }
-          });
-
-          function ValidationProjectContactForm() {
-            var error = true;
-            $("#project-contact-form input[type=text]").each(function (index) {
-              if (index == 0) {
-                if ($(this).val() == null || $(this).val() == "") {
-                  $("#project-contact-form").find("input:eq(" + index + ")").addClass("required-error");
-                  error = false;
-                } else {
-                  $("#project-contact-form").find("input:eq(" + index + ")").removeClass("required-error");
-                }
-              } else if (index == 2) {
-                if (!/(.+)@(.+){2,}\.(.+){2,}/.test($(this).val())) {
-                  $("#project-contact-form").find("input:eq(" + index + ")").addClass("required-error");
-                  error = false;
-                } else {
-                  $("#project-contact-form").find("input:eq(" + index + ")").removeClass("required-error");
-                }
-              }
-            });
-            return error;
-          } //Project Contact us form 2
-
-
-          $(document).on("click", "#project-contact-us-4-button", function () {
-            var error = ValidationProjectContactForm4();
-
-            if (error) {
-              $.ajax({
-                type: "POST",
-                url: "email-templates/project-contact.php",
-                data: $("#project-contact-form-4").serialize(),
-                success: function success(result) {
-                  // Un-comment below code to redirect user to thank you page.
-                  //window.location.href="thank-you.html";
-                  $("input[type=text],textarea").each(function () {
-                    $(this).val("");
-                  });
-                  $("#success-project-contact-form-4").html(result);
-                  $("#success-project-contact-form-4").fadeIn("slow");
-                  $("#success-project-contact-form-4").delay(4000).fadeOut("slow");
-                }
-              });
-            }
-          });
-
-          function ValidationProjectContactForm4() {
-            var error = true;
-            $("#project-contact-form-4 input[type=text]").each(function (index) {
-              if (index == 0) {
-                if ($(this).val() == null || $(this).val() == "") {
-                  $("#project-contact-form-4").find("input:eq(" + index + ")").addClass("required-error");
-                  error = false;
-                } else {
-                  $("#project-contact-form-4").find("input:eq(" + index + ")").removeClass("required-error");
-                }
-              } else if (index == 2) {
-                if (!/(.+)@(.+){2,}\.(.+){2,}/.test($(this).val())) {
-                  $("#project-contact-form-4").find("input:eq(" + index + ")").addClass("required-error");
-                  error = false;
-                } else {
-                  $("#project-contact-form-4").find("input:eq(" + index + ")").removeClass("required-error");
-                }
-              }
-            });
-            return error;
-          }
-          /*==============================================================
-             End form to email
-             ==============================================================*/
-
-          /*==============================================================
-             wow animation - on scroll
-             ==============================================================*/
-
-
-          var wow = new WOW({
-            boxClass: "wow",
-            animateClass: "animated",
-            offset: 0,
-            mobile: false,
-            live: true
-          });
-          $(window).imagesLoaded(function () {
-            wow.init();
-          });
-          /*==============================================================
-             counter
-             ==============================================================*/
-
-          $(function ($) {
-            animatecounters();
-          });
-
-          function animatecounters() {
-            $(".timer").each(count);
-
-            function count(options) {
-              var $this = $(this);
-              options = $.extend({}, options || {}, $this.data("countToOptions") || {});
-              $this.countTo(options);
-            }
-          }
-          /* ===================================
-             counter number reset while scrolling
-             ====================================== */
-
-
-          $(".timer").appear();
-          $(document.body).on("appear", ".timer", function (e) {
-            // this code is executed for each appeared element
-            if (!$(this).hasClass("appear")) {
-              animatecounters();
-              $(this).addClass("appear");
-            }
-          });
-          $(".countdown").countdown($(".countdown").attr("data-enddate")).on("update.countdown", function (event) {
-            $(this).html(event.strftime("" + '<div class="counter-container"><div class="counter-box first"><div class="number">%-D</div><span>Day%!d</span></div>' + '<div class="counter-box"><div class="number">%H</div><span>Hours</span></div>' + '<div class="counter-box"><div class="number">%M</div><span>Minutes</span></div>' + '<div class="counter-box last"><div class="number">%S</div><span>Seconds</span></div></div>'));
-          });
-          /* ===================================
-             left nav
-             ====================================== */
-
-          $(document).on("click", ".right-menu-button", function (e) {
-            $("body").toggleClass("left-nav-on");
-          });
-          /*==============================================================*/
-          //    hamburger menu
-
-          /*==============================================================*/
-
-          $(document).on("click", ".btn-hamburger", function () {
-            $(".hamburger-menu").toggleClass("show-menu");
-            $("body").removeClass("show-menu");
-          });
-          /*==============================================================*/
-          //sidebar nav open
-
-          /*==============================================================*/
-
-          $(document).on("click", "#mobileToggleSidenav", function () {
-            $(this).closest("nav").toggleClass("sidemenu-open");
-          });
-          /*=================================
-             //justified Gallery
-             =================================*/
-
-          $(document).imagesLoaded(function () {
-            if ($(".justified-gallery").length > 0) {
-              $(".justified-gallery").justifiedGallery({
-                rowHeight: 400,
-                maxRowHeight: false,
-                captions: true,
-                margins: 10,
-                waitThumbnailsLoad: true
-              });
-            }
-          });
-          $(".atr-nav").on("click", function () {
-            $(".atr-div").append("<a class='close-cross' href='#'>X</a>");
-            $(".atr-div").animate({
-              width: "toggle"
-            });
-          });
-          $(".close-cross").on("click", function () {
-            $(".atr-div").hide();
-          });
-          var menuRight = document.getElementById("cbp-spmenu-s2"),
-              showRightPush = document.getElementById("showRightPush"),
-              body = document.body;
-
-          if (showRightPush) {
-            showRightPush.onclick = function () {
-              classie.toggle(this, "active");
-              if (menuRight) classie.toggle(menuRight, "cbp-spmenu-open");
-            };
-          }
-
-          var test = document.getElementById("close-pushmenu");
-
-          if (test) {
-            test.onclick = function () {
-              classie.toggle(this, "active");
-              if (menuRight) classie.toggle(menuRight, "cbp-spmenu-open");
-            };
-          } //blog page header animation
-
-
-          $(".blog-header-style1 li").hover(function () {
-            $(".blog-header-style1 li.blog-column-active").removeClass("blog-column-active");
-            $(this).addClass("blog-column-active");
-          }, function () {
-            $(this).removeClass("blog-column-active");
-            $(".blog-header-style1 li:first-child").addClass("blog-column-active");
-          });
-          /*==============================================================*/
-          //big menu open close start
-
-          /*==============================================================*/
-
-          $(".big-menu-open").on("click", function () {
-            $(".big-menu-right").addClass("open");
-          });
-          $(".big-menu-close").on("click", function () {
-            $(".big-menu-right").removeClass("open");
-          });
-          /*==============================================================*/
-          //big menu open close end
-
-          /*==============================================================*/
-
-          /*==============================================================
-             instagramfeed
-             ==============================================================*/
-
-          if ($("#instaFeed-style1").length != 0) {
-            var instaFeedStyle1 = new Instafeed({
-              target: "instaFeed-style1",
-              get: "user",
-              userId: 12129809602,
-              limit: "8",
-              accessToken: "12129809602.1677ed0.234e93a7ec164fc08eccbca3cdc0f2c7",
-              resolution: "low_resolution",
-              error: {
-                template: '<div class="col-md-12 col-sm-12 col-xs-12"><span class=text-center>No Images Found</span></div>'
-              },
-              template: '<div class="col-md-3 col-sm-6 col-xs-12 instafeed-style1"><a class="insta-link" href="{{link}}" target="_blank"><img src="{{image}}" class="insta-image" /><div class="insta-counts"><span><i class="ti-heart"></i> <span class="count-number">{{likes}}</span></span><span><i class="ti-comment"></i> <span class="count-number">{{comments}}</span></span></div></a></div>'
-            });
-            instaFeedStyle1.run();
-          }
-
-          if ($("#instaFeed-aside").length != 0) {
-            var instaFeedAside = new Instafeed({
-              target: "instaFeed-aside",
-              get: "user",
-              userId: 12129809602,
-              limit: "6",
-              accessToken: "12129809602.1677ed0.234e93a7ec164fc08eccbca3cdc0f2c7",
-              resolution: "low_resolution",
-              after: function after() {
-                equalizeHeight();
-              },
-              error: {
-                template: '<div class="col-md-12 col-sm-12 col-xs-12"><span class=text-center>No Images Found</span></div>'
-              },
-              template: '<li><figure><a href="{{link}}" target="_blank"><img src="{{image}}" class="insta-image" /><span class="insta-counts"><i class="ti-heart"></i>{{likes}}</span></a></figure></li>'
-            });
-            instaFeedAside.run();
-          }
-
-          if ($("#instaFeed-footer").length != 0) {
-            var instaFeedFooter = new Instafeed({
-              target: "instaFeed-footer",
-              get: "user",
-              userId: 12129809602,
-              limit: "6",
-              accessToken: "12129809602.1677ed0.234e93a7ec164fc08eccbca3cdc0f2c7",
-              resolution: "low_resolution",
-              after: function after() {
-                equalizeHeight();
-              },
-              error: {
-                template: '<div class="col-md-12 col-sm-12 col-xs-12"><span class=text-center>No Images Found</span></div>'
-              },
-              template: '<li><figure><a href="{{link}}" target="_blank"><img src="{{image}}" class="insta-image" /><span class="insta-counts"><i class="ti-heart"></i><span>{{likes}}</span></span></a></figure></li>'
-            });
-            instaFeedFooter.run();
-          }
-          /*==============================================================
-             instagramfeed end
-             ==============================================================*/
-
-          /*==============================================================*/
-          //revolution Start
-
-          /*==============================================================*/
-
-          /* ================================
-             home-creative-studio
-             ================================*/
-
-
-          if ($("#rev_slider_151_1").revolution == undefined) {
-            revslider_showDoubleJqueryError("#rev_slider_151_1");
-          } else {
-            $("#rev_slider_151_1").show().revolution({
-              sliderType: "standard",
-              jsFileLocation: "revolution/js/",
-              sliderLayout: "fullscreen",
-              dottedOverlay: "none",
-              delay: 9000,
-              navigation: {
-                keyboardNavigation: "off",
-                keyboard_direction: "vertical",
-                mouseScrollNavigation: "off",
-                mouseScrollReverse: "default",
-                onHoverStop: "off",
-                touch: {
-                  touchenabled: "on",
-                  swipe_threshold: 75,
-                  swipe_min_touches: 1,
-                  swipe_direction: "horizontal",
-                  drag_block_vertical: false
-                },
-                arrows: {
-                  style: "uranus",
-                  enable: true,
-                  hide_onmobile: false,
-                  hide_over: 479,
-                  hide_onleave: false,
-                  tmp: "",
-                  left: {
-                    h_align: "left",
-                    v_align: "center",
-                    h_offset: 0,
-                    v_offset: 0
-                  },
-                  right: {
-                    h_align: "right",
-                    v_align: "center",
-                    h_offset: 0,
-                    v_offset: 0
-                  }
-                }
-              },
-              responsiveLevels: [1240, 1024, 778, 480],
-              visibilityLevels: [1240, 1024, 778, 480],
-              gridwidth: [1240, 1024, 778, 480],
-              gridheight: [868, 768, 960, 720],
-              lazyType: "none",
-              scrolleffect: {
-                blur: "on",
-                maxblur: "20",
-                on_slidebg: "on",
-                direction: "top",
-                multiplicator: "2",
-                multiplicator_layers: "2",
-                tilt: "10",
-                disable_on_mobile: "off"
-              },
-              parallax: {
-                type: "scroll",
-                origo: "slidercenter",
-                speed: 400,
-                levels: [5, 10, 15, 20, 25, 30, 35, 40, 45, 46, 47, 48, 49, 50, 51, 55]
-              },
-              shadow: 0,
-              spinner: "spinner3",
-              stopLoop: "off",
-              stopAfterLoops: -1,
-              stopAtSlide: -1,
-              shuffle: "off",
-              autoHeight: "off",
-              fullScreenAutoWidth: "off",
-              fullScreenAlignForce: "off",
-              fullScreenOffsetContainer: "",
-              fullScreenOffset: "0px",
-              hideThumbsOnMobile: "off",
-              hideSliderAtLimit: 0,
-              hideCaptionAtLimit: 0,
-              hideAllCaptionAtLilmit: 0,
-              debugMode: false,
-              fallbacks: {
-                simplifyAll: "off",
-                nextSlideOnWindowFocus: "off",
-                disableFocusListener: false
-              }
-            });
-          }
-          /* ================================
-             home-classic-web-agency
-             ================================*/
-
-
-          if ($("#rev_slider_1174_1").revolution == undefined) {
-            revslider_showDoubleJqueryError("#rev_slider_1174_1");
-          } else {
-            $("#rev_slider_1174_1").show().revolution({
-              sliderType: "hero",
-              jsFileLocation: "revolution/js/",
-              sliderLayout: "fullscreen",
-              dottedOverlay: "none",
-              delay: 9000,
-              navigation: {},
-              responsiveLevels: [1240, 1024, 778, 480],
-              visibilityLevels: [1240, 1024, 778, 480],
-              gridwidth: [1240, 1024, 778, 480],
-              gridheight: [868, 768, 960, 720],
-              lazyType: "none",
-              parallax: {
-                type: "scroll",
-                origo: "slidercenter",
-                speed: 400,
-                levels: [10, 15, 20, 25, 30, 35, 40, -10, -15, -20, -25, -30, -35, -40, -45, 55]
-              },
-              shadow: 0,
-              spinner: "off",
-              autoHeight: "off",
-              fullScreenAutoWidth: "off",
-              fullScreenAlignForce: "off",
-              fullScreenOffsetContainer: "",
-              disableProgressBar: "on",
-              hideThumbsOnMobile: "off",
-              hideSliderAtLimit: 0,
-              hideCaptionAtLimit: 0,
-              hideAllCaptionAtLilmit: 0,
-              debugMode: false,
-              fallbacks: {
-                simplifyAll: "off",
-                disableFocusListener: false
-              }
-            });
-          }
-          /* ================================
-             home-classic-corporate
-             ================================*/
-
-
-          if ($("#rev_slider_1078_1").revolution == undefined) {
-            revslider_showDoubleJqueryError("#rev_slider_1078_1");
-          } else {
-            $("#rev_slider_1078_1").show().revolution({
-              sliderType: "standard",
-              jsFileLocation: "revolution/js/",
-              sliderLayout: "fullscreen",
-              dottedOverlay: "none",
-              delay: 9000,
-              navigation: {
-                keyboardNavigation: "on",
-                keyboard_direction: "horizontal",
-                mouseScrollNavigation: "off",
-                mouseScrollReverse: "default",
-                onHoverStop: "off",
-                touch: {
-                  touchenabled: "on",
-                  swipe_threshold: 75,
-                  swipe_min_touches: 1,
-                  swipe_direction: "horizontal",
-                  drag_block_vertical: false
-                },
-                arrows: {
-                  style: "zeus",
-                  enable: true,
-                  hide_onmobile: true,
-                  hide_under: 600,
-                  hide_onleave: true,
-                  hide_delay: 200,
-                  hide_delay_mobile: 1200,
-                  tmp: '<div class="tp-title-wrap">  	<div class="tp-arr-imgholder"></div> </div>',
-                  left: {
-                    h_align: "left",
-                    v_align: "center",
-                    h_offset: 30,
-                    v_offset: 0
-                  },
-                  right: {
-                    h_align: "right",
-                    v_align: "center",
-                    h_offset: 30,
-                    v_offset: 0
-                  }
-                },
-                bullets: {
-                  enable: true,
-                  hide_onmobile: false,
-                  hide_under: 300,
-                  style: "hermes",
-                  hide_onleave: false,
-                  hide_delay: 200,
-                  hide_delay_mobile: 1200,
-                  direction: "horizontal",
-                  h_align: "center",
-                  v_align: "bottom",
-                  h_offset: 0,
-                  v_offset: 30,
-                  space: 8,
-                  tmp: '<span class="tp-bullet-img-wrap">  <span class="tp-bullet-image"></span></span><span class="tp-bullet-title">{{title}}</span>'
-                }
-              },
-              viewPort: {
-                enable: true,
-                outof: "pause",
-                visible_area: "80%",
-                presize: false
-              },
-              responsiveLevels: [1240, 1024, 778, 480],
-              visibilityLevels: [1240, 1024, 778, 480],
-              gridwidth: [1240, 1024, 778, 480],
-              gridheight: [600, 600, 500, 400],
-              lazyType: "none",
-              parallax: {
-                type: "mouse",
-                origo: "slidercenter",
-                speed: 2000,
-                levels: [2, 3, 4, 5, 6, 7, 12, 16, 10, 50, 46, 47, 48, 49, 50, 55]
-              },
-              shadow: 0,
-              spinner: "off",
-              stopLoop: "off",
-              stopAfterLoops: -1,
-              stopAtSlide: -1,
-              shuffle: "off",
-              autoHeight: "off",
-              hideThumbsOnMobile: "off",
-              hideSliderAtLimit: 0,
-              hideCaptionAtLimit: 0,
-              hideAllCaptionAtLilmit: 0,
-              debugMode: false,
-              fallbacks: {
-                simplifyAll: "off",
-                nextSlideOnWindowFocus: "off",
-                disableFocusListener: false
-              }
-            });
-          }
-          /*==============================================================*/
-          //revolution End
-
-          /*==============================================================*/
-
-          /*==============================================================*/
-          //magnificPopup Start
-
-          /*==============================================================*/
-
-
-          $(".header-search-form").magnificPopup({
-            mainClass: "mfp-fade",
-            closeOnBgClick: true,
-            preloader: false,
-            // for white backgriund
-            fixedContentPos: false,
-            closeBtnInside: false,
-            callbacks: {
-              open: function open() {
-                setTimeout(function () {
-                  $(".search-input").focus();
-                }, 500);
-                $("#search-header").parent().addClass("search-popup");
-
-                if (!isMobile) {
-                  $("body").addClass("overflow-hidden"); //$('body').addClass('position-fixed');
-
-                  $("body").addClass("width-100");
-                  $('document').onmousewheel = ScrollStop;
-                } else {
-                  $("body, html").on("touchmove", function (e) {
-                    e.preventDefault();
-                  });
-                }
-              },
-              close: function close() {
-                if (!isMobile) {
-                  $("body").removeClass("overflow-hidden"); //$('body').removeClass('position-fixed');
-
-                  $("body").removeClass("width-100");
-                  $("#search-header input[type=text]").each(function (index) {
-                    if (index == 0) {
-                      $(this).val("");
-                      $("#search-header").find("input:eq(" + index + ")").css({
-                        border: "none",
-                        "border-bottom": "2px solid rgba(255,255,255,0.5)"
-                      });
-                    }
-                  });
-                  $('document').onmousewheel = ScrollStart;
-                } else {
-                  $("body, html").unbind("touchmove");
-                }
-              }
-            }
-          });
-          /*==============================================================*/
-          //magnificPopup End
-
-          /*==============================================================*/
-
-          $("input.search-input").on("keypress", function (event) {
-            if (event.which == 13 && !isMobile) {
-              $("button.search-button").trigger("click");
-              event.preventDefault();
-            }
-          });
-          $("input.search-input").on("keyup", function (event) {
-            if ($(this).val() == null || $(this).val() == "") {
-              $(this).css({
-                border: "none",
-                "border-bottom": "2px solid red"
-              });
-            } else {
-              $(this).css({
-                border: "none",
-                "border-bottom": "2px solid rgba(255,255,255,0.5)"
-              });
-            }
-          });
-          $("form.search-form, form.search-form-result").submit(function (event) {
-            var error = validationSearchForm();
-
-            if (error) {
-              var action = $(this).attr("action");
-              action = action == "#" || action == "" ? "blog-grid-3columns.html" : action;
-              action = action + "?" + $(this).serialize();
-              window.location = action;
-            }
-
-            event.preventDefault();
-          });
-          $(document).on("click", '.navbar .navbar-collapse a.dropdown-toggle, .accordion-style1 .panel-heading a, .accordion-style2 .panel-heading a, .accordion-style3 .panel-heading a, .toggles .panel-heading a, .toggles-style2 .panel-heading a, .toggles-style3 .panel-heading a, a.carousel-control, .nav-tabs a[data-toggle="tab"], a.shopping-cart', function (e) {
-            e.preventDefault();
-          });
-          $(document).on("touchstart click", "body", function (e) {
-            if ($(window).width() < 992) {
-              if (!$(".navbar-collapse").has(e.target).is(".navbar-collapse") && $(".navbar-collapse").hasClass("in") && !$(e.target).hasClass("navbar-toggle")) {
-                $(".navbar-collapse").collapse("hide");
-              }
-            } else {
-              if (!$(".navbar-collapse").has(e.target).is(".navbar-collapse") && $(".navbar-collapse ul").hasClass("in")) {
-                $(".navbar-collapse").find("a.dropdown-toggle").addClass("collapsed");
-                $(".navbar-collapse").find("ul.dropdown-menu").removeClass("in");
-                $(".navbar-collapse a.dropdown-toggle").removeClass("active");
-              }
-            }
-          });
-          $(".navbar-collapse a.dropdown-toggle").on("touchstart", function (e) {
-            $(".navbar-collapse a.dropdown-toggle").not(this).removeClass("active");
-            if ($(this).hasClass("active")) $(this).removeClass("active");else $(this).addClass("active");
-          });
-          $("button.navbar-toggle").on("click", function (e) {
-            if (isMobile) {
-              $(".cart-content").css("opacity", "0");
-              $(".cart-content").css("visibility", "hidden");
-            }
-          });
-          $("a.dropdown-toggle").on("click", function (e) {
-            if (isMobile) {
-              $(".cart-content").css("opacity", "0");
-              $(".cart-content").css("visibility", "hidden");
-            }
-          });
-          $(document).on("touchstart click", '.navbar-collapse [data-toggle="dropdown"]', function (event) {
-            var $innerLinkLI = $(this).parents("ul.navbar-nav").find("li.dropdown a.inner-link").parent("li.dropdown");
-
-            if (!$(this).hasClass("inner-link") && !$(this).hasClass("dropdown-toggle") && $innerLinkLI.hasClass("open")) {
-              $innerLinkLI.removeClass("open");
-            }
-
-            var target = $(this).attr("target");
-
-            if ($(window).width() <= 991 && $(this).attr("href") && $(this).attr("href").indexOf("#") <= -1 && !$(event.target).is("i")) {
-              if (event.ctrlKey || event.metaKey) {
-                window.open($(this).attr("href"), "_blank");
-                return false;
-              } else if (!target) window.location = $(this).attr("href");else window.open($(this).attr("href"), target);
-            } else if ($(window).width() > 991 && $(this).attr("href").indexOf("#") <= -1) {
-              if (event.ctrlKey || event.metaKey) {
-                window.open($(this).attr("href"), "_blank");
-                return false;
-              } else if (!target) window.location = $(this).attr("href");else window.open($(this).attr("href"), target);
-            } else if ($(window).width() <= 991 && $(this).attr("href") && $(this).attr("href").length > 1 && $(this).attr("href").indexOf("#") >= 0 && $(this).hasClass("inner-link")) {
-              $(this).parents("ul.navbar-nav").find("li.dropdown").not($(this).parent(".dropdown")).removeClass("open");
-
-              if ($(this).parent(".dropdown").hasClass("open")) {
-                $(this).parent(".dropdown").removeClass("open");
-              } else {
-                $(this).parent(".dropdown").addClass("open");
-              }
-
-              $(this).toggleClass("active");
-            }
-          });
-          /* ===================================
-             skillbar
-             ====================================== */
-
-          $(".skillbar").appear();
-          $(".skillbar").skillBars({
-            from: 0,
-            speed: 4000,
-            interval: 100,
-            decimals: 0
-          });
-          $(document.body).on("appear", ".skillbar", function (e) {
-            // this code is executed for each appeared element
-            if (!$(this).hasClass("appear")) {
-              $(this).addClass("appear");
-              $(this).find(".skillbar-bar").css("width", "0%");
-              $(this).skillBars({
-                from: 0,
-                speed: 4000,
-                interval: 100,
-                decimals: 0
-              });
-            }
-          });
-          /* ===================================
-             touchstart click
-             ====================================== */
-
-          $("body").on("touchstart click", function (e) {
-            if ($(window).width() < 992) {}
-          });
-          /*==============================================================*/
-          //Set Resize Header Menu - START CODE
-
-          /*==============================================================*/
-
-          $("nav.full-width-pull-menu ul.panel-group li.dropdown a.dropdown-toggle").on("click", function (e) {
-            if ($(this).parent("li").find("ul.dropdown-menu").length > 0) {
-              if ($(this).parent("li").hasClass("open")) {
-                $(this).parent("li").removeClass("open");
-              } else {
-                $(this).parent("li").addClass("open");
-              }
-            }
-          });
-          /*==============================================================*/
-          //accordion  - START CODE
-
-          /*==============================================================*/
-
-          $(".accordion-style1 .collapse").on("show.bs.collapse", function () {
-            var id = $(this).attr("id");
-            $('a[href="#' + id + '"]').closest(".panel-heading").addClass("active-accordion");
-            $('a[href="#' + id + '"] .panel-title span').html('<i class="ti-minus"></i>');
-          });
-          $(".accordion-style1 .collapse").on("hide.bs.collapse", function () {
-            var id = $(this).attr("id");
-            $('a[href="#' + id + '"]').closest(".panel-heading").removeClass("active-accordion");
-            $('a[href="#' + id + '"] .panel-title span').html('<i class="ti-plus"></i>');
-          });
-          $(".nav.navbar-nav a.inner-link").on("click", function (e) {
-            $(this).parents("ul.navbar-nav").find("a.inner-link").removeClass("active");
-            var $this = $(this);
-            if ($(".nav-header-container .navbar-toggle").is(":visible")) $(this).parents(".navbar-collapse").collapse("hide");
-            setTimeout(function () {
-              $this.addClass("active");
-            }, 1000);
-          });
-          $(".accordion-style2 .collapse").on("show.bs.collapse", function () {
-            var id = $(this).attr("id");
-            $('a[href="#' + id + '"]').closest(".panel-heading").addClass("active-accordion");
-            $('a[href="#' + id + '"] .panel-title').find("i").addClass("fa-angle-up").removeClass("fa-angle-down");
-          });
-          $(".accordion-style2 .collapse").on("hide.bs.collapse", function () {
-            var id = $(this).attr("id");
-            $('a[href="#' + id + '"]').closest(".panel-heading").removeClass("active-accordion");
-            $('a[href="#' + id + '"] .panel-title').find("i").removeClass("fa-angle-up").addClass("fa-angle-down");
-          });
-          $(".accordion-style3 .collapse").on("show.bs.collapse", function () {
-            var id = $(this).attr("id");
-            $('a[href="#' + id + '"]').closest(".panel-heading").addClass("active-accordion");
-            $('a[href="#' + id + '"] .panel-title').find("i").addClass("fa-angle-up").removeClass("fa-angle-down");
-          });
-          $(".accordion-style3 .collapse").on("hide.bs.collapse", function () {
-            var id = $(this).attr("id");
-            $('a[href="#' + id + '"]').closest(".panel-heading").removeClass("active-accordion");
-            $('a[href="#' + id + '"] .panel-title').find("i").removeClass("fa-angle-up").addClass("fa-angle-down");
-          });
-          /*==============================================================*/
-          //accordion - END CODE
-
-          /*==============================================================*/
-
-          /*==============================================================*/
-          //toggles  - START CODE
-
-          /*==============================================================*/
-
-          $(".toggles .collapse").on("show.bs.collapse", function () {
-            var id = $(this).attr("id");
-            $('a[href="#' + id + '"]').closest(".panel-heading").addClass("active-accordion");
-            $('a[href="#' + id + '"] .panel-title span').html('<i class="ti-minus"></i>');
-          });
-          $(".toggles .collapse").on("hide.bs.collapse", function () {
-            var id = $(this).attr("id");
-            $('a[href="#' + id + '"]').closest(".panel-heading").removeClass("active-accordion");
-            $('a[href="#' + id + '"] .panel-title span').html('<i class="ti-plus"></i>');
-          });
-          $(".toggles-style2 .collapse").on("show.bs.collapse", function () {
-            var id = $(this).attr("id");
-            $('a[href="#' + id + '"]').closest(".panel-heading").addClass("active-accordion");
-            $('a[href="#' + id + '"] .panel-title span').html('<i class="fa fa-angle-up"></i>');
-          });
-          $(".toggles-style2 .collapse").on("hide.bs.collapse", function () {
-            var id = $(this).attr("id");
-            $('a[href="#' + id + '"]').closest(".panel-heading").removeClass("active-accordion");
-            $('a[href="#' + id + '"] .panel-title span').html('<i class="fas fa-angle-down"></i>');
-          });
-          /*==============================================================*/
-          //toggles  - END CODE
-
-          /*==============================================================*/
-
-          /* ===================================
-             blog hover box
-             ====================================== */
-
-          $(document).on("mouseenter", ".blog-post-style4 .grid-item", function (e) {
-            $(this).find("figcaption .blog-hover-text").slideDown(300);
-          });
-          $(document).on("mouseleave", ".blog-post-style4 .grid-item", function (e) {
-            $(this).find("figcaption .blog-hover-text").slideUp(300);
-          });
-          /* ===================================
-             End blog hover box
-             ====================================== */
-
-          SetResizeContent();
-          var $allNonRatinaImages = $("img:not([data-rjs])");
-          $allNonRatinaImages.attr("data-no-retina", "");
-          /*==============================================================*/
-          //demo button  - START CODE
-
-          /*==============================================================*/
-
-          /* var $buythemediv = '<div class="buy-theme alt-font sm-display-none"><a href="https://themeforest.net/item/pofo-creative-agency-corporate-and-portfolio-multipurpose-template/20645944?ref=themezaa" target="_blank"><i class="ti-shopping-cart"></i><span>Buy Theme</span></a></div><div class="all-demo alt-font sm-display-none"><a href="mailto:info@themezaa.com?subject=POFO - Creative Agency, Corporate and Portfolio Multi-purpose Template - Quick Question"><i class="ti-email"></i><span>Quick Question?</span></a></div>';
-             $('body').append($buythemediv); */
-
-          /*==============================================================*/
-          //demo button  - END CODE
-
-          /*==============================================================*/
-
-          $(document).on("touchstart", ".sidebar-wrapper", function () {
-            clearOpen();
-          });
-          var getNav = $("nav.navbar.bootsnav"),
-              getIn = getNav.find("ul.nav").data("in"),
-              getOut = getNav.find("ul.nav").data("out"); // Hidden dropdown
-
-          function clearOpen() {
-            $("li.dropdown").removeClass("on").removeClass("open");
-            $(".dropdown-menu").stop().fadeOut("fast");
-            $(".dropdown-menu").removeClass(getIn);
-            $(".dropdown-menu").addClass(getOut);
-          }
         });
-        /* ===================================
-         END READY
-         ====================================== */
+        /*----------------------------------------------------*/
 
-        /* ===================================
-         START Page Load
-         ====================================== */
+        /*  Google map js
+        /*----------------------------------------------------*/
 
-        $(window).load(function () {
-          var hash = window.location.hash.substr(1);
-
-          if (hash != "") {
-            setTimeout(function () {
-              $(window).imagesLoaded(function () {
-                var scrollAnimationTime = 1200,
-                    scrollAnimation = "easeInOutExpo";
-                var target = "#" + hash;
-
-                if ($(target).length > 0) {
-                  $("html, body").stop().animate({
-                    scrollTop: $(target).offset().top
-                  }, scrollAnimationTime, scrollAnimation, function () {
-                    window.location.hash = target;
-                  });
-                }
-              });
-            }, 500);
-          }
-
-          fullScreenHeight();
-        });
-        /* ===================================
-         END Page Load
-         ====================================== */
+        if ($("#mapBox").length) {
+          var $lat = $("#mapBox").data("lat");
+          var $lon = $("#mapBox").data("lon");
+          var $zoom = $("#mapBox").data("zoom");
+          var $marker = $("#mapBox").data("marker");
+          var $info = $("#mapBox").data("info");
+          var $markerLat = $("#mapBox").data("mlat");
+          var $markerLon = $("#mapBox").data("mlon");
+          var map = new GMaps({
+            el: "#mapBox",
+            lat: $lat,
+            lng: $lon,
+            scrollwheel: false,
+            scaleControl: true,
+            streetViewControl: false,
+            panControl: true,
+            disableDoubleClickZoom: true,
+            mapTypeControl: false,
+            zoom: $zoom,
+            styles: [{
+              featureType: "water",
+              elementType: "geometry.fill",
+              stylers: [{
+                color: "#dcdfe6"
+              }]
+            }, {
+              featureType: "transit",
+              stylers: [{
+                color: "#808080"
+              }, {
+                visibility: "off"
+              }]
+            }, {
+              featureType: "road.highway",
+              elementType: "geometry.stroke",
+              stylers: [{
+                visibility: "on"
+              }, {
+                color: "#dcdfe6"
+              }]
+            }, {
+              featureType: "road.highway",
+              elementType: "geometry.fill",
+              stylers: [{
+                color: "#ffffff"
+              }]
+            }, {
+              featureType: "road.local",
+              elementType: "geometry.fill",
+              stylers: [{
+                visibility: "on"
+              }, {
+                color: "#ffffff"
+              }, {
+                weight: 1.8
+              }]
+            }, {
+              featureType: "road.local",
+              elementType: "geometry.stroke",
+              stylers: [{
+                color: "#d7d7d7"
+              }]
+            }, {
+              featureType: "poi",
+              elementType: "geometry.fill",
+              stylers: [{
+                visibility: "on"
+              }, {
+                color: "#ebebeb"
+              }]
+            }, {
+              featureType: "administrative",
+              elementType: "geometry",
+              stylers: [{
+                color: "#a7a7a7"
+              }]
+            }, {
+              featureType: "road.arterial",
+              elementType: "geometry.fill",
+              stylers: [{
+                color: "#ffffff"
+              }]
+            }, {
+              featureType: "road.arterial",
+              elementType: "geometry.fill",
+              stylers: [{
+                color: "#ffffff"
+              }]
+            }, {
+              featureType: "landscape",
+              elementType: "geometry.fill",
+              stylers: [{
+                visibility: "on"
+              }, {
+                color: "#efefef"
+              }]
+            }, {
+              featureType: "road",
+              elementType: "labels.text.fill",
+              stylers: [{
+                color: "#696969"
+              }]
+            }, {
+              featureType: "administrative",
+              elementType: "labels.text.fill",
+              stylers: [{
+                visibility: "on"
+              }, {
+                color: "#737373"
+              }]
+            }, {
+              featureType: "poi",
+              elementType: "labels.icon",
+              stylers: [{
+                visibility: "off"
+              }]
+            }, {
+              featureType: "poi",
+              elementType: "labels",
+              stylers: [{
+                visibility: "off"
+              }]
+            }, {
+              featureType: "road.arterial",
+              elementType: "geometry.stroke",
+              stylers: [{
+                color: "#d6d6d6"
+              }]
+            }, {
+              featureType: "road",
+              elementType: "labels.icon",
+              stylers: [{
+                visibility: "off"
+              }]
+            }, {}, {
+              featureType: "poi",
+              elementType: "geometry.fill",
+              stylers: [{
+                color: "#dadada"
+              }]
+            }]
+          });
+        }
       })(jQuery);
     }
     /***/
